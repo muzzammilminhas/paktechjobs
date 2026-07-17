@@ -1,6 +1,6 @@
 # PakTechJobs
 
-PakTechJobs is a full-stack data pipeline and interactive dashboard for Pakistan's technology job market. It collects public listings from Rozee.pk, Mustakbil.com and Glassdoor Pakistan, normalizes them into a stable schema, stores daily static snapshots, and presents hiring signals through a responsive Next.js dashboard.
+PakTechJobs is a full-stack data pipeline and interactive dashboard for Pakistan's technology job market. It collects public listings from Rozee.pk, Mustakbil.com and Glassdoor Pakistan, with a public Remote OK feed fallback for remote roles accessible from Pakistan. It normalizes listings into a stable schema, stores daily static snapshots, and presents hiring signals through a responsive Next.js dashboard.
 
 The project has no application database. Vercel serves the frontend and the versioned JSON files in `public/data/` provide the data layer.
 
@@ -12,7 +12,7 @@ The project has no application database. Vercel serves the frontend and the vers
 - Global city, work-arrangement and date-range filters
 - Recharts visualizations and an accessible city bar-chart fallback
 - Searchable, expandable job explorer with multi-skill and salary filters
-- Source-isolated Playwright scrapers that continue when one portal fails
+- Source-isolated scrapers that continue when one portal fails, plus a public remote-job feed fallback
 - Normalization for cities, skills, experience, work arrangement, salary and dates
 - Deduplication and automatic removal of listings older than 90 days
 - 240 deterministic mock listings plus 30 daily snapshots for immediate use

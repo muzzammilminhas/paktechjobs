@@ -11,6 +11,7 @@ from playwright.async_api import async_playwright
 from cleaner import RAW_PATH, atomic_json, clean_jobs, write_outputs
 from glassdoor import scrape_glassdoor
 from mustakbil import scrape_mustakbil
+from remoteok import scrape_remoteok
 from rozee import scrape_rozee
 
 logging.basicConfig(level=logging.INFO, format="%(asctime)s | %(levelname)s | %(message)s")
@@ -27,7 +28,12 @@ async def run(headed: bool, limit: int) -> int:
             timezone_id="Asia/Karachi",
             viewport={"width": 1440, "height": 1000},
         )
-        scrapers = (("Rozee.pk", scrape_rozee), ("Mustakbil.com", scrape_mustakbil), ("Glassdoor", scrape_glassdoor))
+        scrapers = (
+            ("Rozee.pk", scrape_rozee),
+            ("Mustakbil.com", scrape_mustakbil),
+            ("Glassdoor", scrape_glassdoor),
+            ("Remote OK", scrape_remoteok),
+        )
         for name, scraper in scrapers:
             try:
                 jobs = await scraper(context, limit=limit)
