@@ -123,7 +123,7 @@ Portal HTML and access policies can change. The scrapers use public pages, JSON-
 5. Commits changed raw, source-cache, health, current and historical JSON files.
 6. Calls a Vercel deploy hook when the secret is configured.
 
-The workflow has `contents: write` permission and uses a concurrency group so two daily updates cannot write at the same time.
+The workflow has `contents: write` permission and uses a concurrency group so two daily updates cannot write at the same time. Automated commits use the repository owner's GitHub-linked noreply identity so Vercel can associate and deploy them.
 
 ### Vercel deploy hook
 
