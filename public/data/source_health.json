@@ -1,0 +1,60 @@
+{
+  "generated_at": "2026-07-17T12:51:22+05:00",
+  "publish_status": "published",
+  "publish_message": "Fresh and cache-backed source results passed validation.",
+  "guard_streak": 0,
+  "previous_count": 45,
+  "published_count": 45,
+  "fresh_sources": 3,
+  "cached_sources": 0,
+  "failed_sources": 2,
+  "total_sources": 5,
+  "cache_ttl_days": 14,
+  "sources": [
+    {
+      "source": "Rozee.pk",
+      "status": "failed",
+      "live_count": 0,
+      "cached_count": 0,
+      "effective_count": 0,
+      "last_success_at": null,
+      "message": "No live jobs or recent cache are available."
+    },
+    {
+      "source": "Mustakbil.com",
+      "status": "failed",
+      "live_count": 0,
+      "cached_count": 0,
+      "effective_count": 0,
+      "last_success_at": null,
+      "message": "No live jobs or recent cache are available."
+    },
+    {
+      "source": "Glassdoor",
+      "status": "healthy",
+      "live_count": 30,
+      "cached_count": 0,
+      "effective_count": 30,
+      "last_success_at": "2026-07-17T12:51:22+05:00",
+      "message": "Live scrape succeeded; 0 older active listings were retained."
+    },
+    {
+      "source": "Jobicy APAC",
+      "status": "healthy",
+      "live_count": 10,
+      "cached_count": 0,
+      "effective_count": 10,
+      "last_success_at": "2026-07-17T12:51:22+05:00",
+      "message": "Live scrape succeeded; 0 older active listings were retained."
+    },
+    {
+      "source": "Remote OK",
+      "status": "healthy",
+      "live_count": 14,
+      "cached_count": 0,
+      "effective_count": 5,
+      "last_success_at": "2026-07-17T12:51:22+05:00",
+      "message": "Live scrape succeeded; 0 older active listings were retained."
+    }
+  ]
+}

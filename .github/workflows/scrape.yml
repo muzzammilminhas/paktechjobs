@@ -40,7 +40,7 @@ jobs:
         run: |
           git config user.name "paktechjobs-bot"
           git config user.email "paktechjobs-bot@users.noreply.github.com"
-          git add scraper/data/jobs_raw.json public/data/jobs.json public/data/history
+          git add scraper/data/jobs_raw.json scraper/data/sources public/data/jobs.json public/data/history public/data/source_health.json
           if git diff --cached --quiet; then
             echo "No data changes to commit."
           else

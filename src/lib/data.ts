@@ -1,4 +1,4 @@
-import { HistoryPoint, Job, JobsPayload } from "@/lib/types";
+import { HistoryPoint, Job, JobsPayload, SourceHealthPayload } from "@/lib/types";
 
 export const STANDARD_SKILLS = [
   "Flutter", "React", "Next.js", "Node.js", "Python", "Django", "FastAPI", "Java", "Spring",
@@ -24,6 +24,12 @@ export async function fetchHistory(): Promise<HistoryPoint[]> {
   const response = await fetch("/data/history/index.json", { cache: "no-store" });
   if (!response.ok) throw new Error("Unable to load history data");
   return (await response.json()) as HistoryPoint[];
+}
+
+export async function fetchSourceHealth(): Promise<SourceHealthPayload> {
+  const response = await fetch("/data/source_health.json", { cache: "no-store" });
+  if (!response.ok) throw new Error("Unable to load source health data");
+  return (await response.json()) as SourceHealthPayload;
 }
 
 export function countBy<T>(items: T[], pick: (item: T) => string): Record<string, number> {

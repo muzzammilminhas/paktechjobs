@@ -12,7 +12,8 @@ The project has no application database. Vercel serves the frontend and the vers
 - Global city, work-arrangement and date-range filters
 - Recharts visualizations and an accessible city bar-chart fallback
 - Searchable, expandable job explorer with multi-skill and salary filters
-- Source-isolated scrapers that continue when one portal fails, plus a public remote-job feed fallback
+- Five source-isolated collectors with per-source rolling caches and visible source-health reporting
+- A catastrophic-drop guard that requires two confirmation runs before replacing good data with a much smaller dataset
 - Normalization for cities, skills, experience, work arrangement, salary and dates
 - Deduplication and automatic removal of listings older than 90 days
 - 240 deterministic mock listings plus 30 daily snapshots for immediate use
@@ -56,7 +57,7 @@ python scraper/main.py
 npm run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000). If all three portals temporarily reject or return no listings, the scraper preserves the existing cleaned dataset instead of replacing it with an empty file.
+Open [http://localhost:3000](http://localhost:3000). If the portals temporarily reject or return no listings, the scraper preserves the existing cleaned dataset instead of replacing it with an empty file.
 
 To regenerate the realistic starter dataset at any time:
 
@@ -79,7 +80,9 @@ python scraper/main.py --limit 25
 python scraper/main.py --headed --limit 25
 ```
 
-Each source scraper opens its own page inside one Chromium context. A source error is logged and the remaining sources continue. The pipeline writes raw results first, then only publishes a cleaned dataset when at least one valid listing survives normalization.
+Each source scraper opens its own page inside one Chromium context. A source error is logged and the remaining sources continue. Fresh raw results are written to `scraper/data/jobs_raw.json`; each successful source is also merged into its own rolling cache under `scraper/data/sources/`.
+
+If a source fails, its last successful active listings can be used for up to 14 days. If the combined candidate dataset suddenly falls below 45% of the previous total (with a 15-job floor), the public dataset is preserved for two confirmation runs. A third consecutive small result is accepted so stale data cannot be held forever. Current source status and the publish decision are written to `public/data/source_health.json` and shown on the Overview page.
 
 Portal HTML and access policies can change. The scrapers use public pages, JSON-LD when available, and multiple selector fallbacks; they do not attempt to bypass authentication, CAPTCHAs or other access controls. Review each portal's terms before running this at high frequency.
 
@@ -107,6 +110,8 @@ Portal HTML and access policies can change. The scrapers use public pages, JSON-
 
 `public/data/history/index.json` contains compact aggregates used by the trend charts. The full dated snapshot remains available beside it as `YYYY-MM-DD.json`.
 
+`public/data/source_health.json` records live, cached and unavailable source counts, freshness timestamps, the cache TTL and whether the latest candidate dataset was published or safely held.
+
 ## Daily GitHub Actions automation
 
 `.github/workflows/scrape.yml` runs at `0 21 * * *` UTC, which is 2:00 AM in Pakistan. It:
@@ -115,7 +120,7 @@ Portal HTML and access policies can change. The scrapers use public pages, JSON-
 2. Sets up Python 3.11.
 3. Installs Python and Chromium dependencies.
 4. Runs `python scraper/main.py`.
-5. Commits changed raw, current and historical JSON files.
+5. Commits changed raw, source-cache, health, current and historical JSON files.
 6. Calls a Vercel deploy hook when the secret is configured.
 
 The workflow has `contents: write` permission and uses a concurrency group so two daily updates cannot write at the same time.
@@ -140,6 +145,7 @@ npm run typecheck
 npm run lint
 npm run build
 python -m compileall scraper
+python -m unittest discover -s scraper/tests -v
 ```
 
 ## Screenshots

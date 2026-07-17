@@ -1,8 +1,8 @@
 "use client";
 
 import { createContext, ReactNode, useContext, useEffect, useMemo, useState } from "react";
-import { fetchJobs } from "@/lib/data";
-import { Job } from "@/lib/types";
+import { fetchJobs, fetchSourceHealth } from "@/lib/data";
+import { Job, SourceHealthPayload } from "@/lib/types";
 
 export type DateRange = "7" | "30" | "90" | "all";
 interface FilterContextValue {
@@ -10,6 +10,7 @@ interface FilterContextValue {
   setCity: (value: string) => void; setJobType: (value: string) => void;
   setDateRange: (value: DateRange) => void; resetFilters: () => void;
   lastUpdated: string; loading: boolean; error: string | null;
+  sourceHealth: SourceHealthPayload | null;
 }
 
 const FilterContext = createContext<FilterContextValue | undefined>(undefined);
@@ -17,6 +18,7 @@ const FilterContext = createContext<FilterContextValue | undefined>(undefined);
 export function FilterProvider({ children }: { children: ReactNode }) {
   const [jobs, setJobs] = useState<Job[]>([]);
   const [lastUpdated, setLastUpdated] = useState("");
+  const [sourceHealth, setSourceHealth] = useState<SourceHealthPayload | null>(null);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
   const [city, setCity] = useState("All cities");
@@ -24,10 +26,15 @@ export function FilterProvider({ children }: { children: ReactNode }) {
   const [dateRange, setDateRange] = useState<DateRange>("90");
 
   useEffect(() => {
-    fetchJobs().then((payload) => {
-      setJobs(payload.jobs);
-      setLastUpdated(payload.last_updated);
-    }).catch((reason: Error) => setError(reason.message)).finally(() => setLoading(false));
+    Promise.allSettled([fetchJobs(), fetchSourceHealth()]).then(([jobsResult, healthResult]) => {
+      if (jobsResult.status === "rejected") {
+        setError(jobsResult.reason instanceof Error ? jobsResult.reason.message : "Unable to load jobs data");
+        return;
+      }
+      setJobs(jobsResult.value.jobs);
+      setLastUpdated(jobsResult.value.last_updated);
+      if (healthResult.status === "fulfilled") setSourceHealth(healthResult.value);
+    }).finally(() => setLoading(false));
   }, []);
 
   const filteredJobs = useMemo(() => {
@@ -41,7 +48,7 @@ export function FilterProvider({ children }: { children: ReactNode }) {
 
   const resetFilters = () => { setCity("All cities"); setJobType("All types"); setDateRange("90"); };
 
-  return <FilterContext.Provider value={{ jobs, filteredJobs, city, jobType, dateRange, setCity, setJobType, setDateRange, resetFilters, lastUpdated, loading, error }}>{children}</FilterContext.Provider>;
+  return <FilterContext.Provider value={{ jobs, filteredJobs, city, jobType, dateRange, setCity, setJobType, setDateRange, resetFilters, lastUpdated, loading, error, sourceHealth }}>{children}</FilterContext.Provider>;
 }
 
 export function useFilters() {
