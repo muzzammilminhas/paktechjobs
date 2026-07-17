@@ -1654,21 +1654,36 @@
   },
   {
     "date": "2026-07-17",
-    "total": 5,
+    "total": 45,
     "skills": {
-      "React": 1,
-      "SQL": 1
+      "AI/ML": 1,
+      "AWS": 3,
+      "Cypress": 1,
+      "Java": 1,
+      "JavaScript": 2,
+      "Kubernetes": 2,
+      "Next.js": 1,
+      "PostgreSQL": 2,
+      "Python": 4,
+      "QA": 1,
+      "React": 2,
+      "SQL": 2,
+      "TypeScript": 1
     },
     "cities": {
-      "Remote": 5
+      "Lahore": 1,
+      "Other": 29,
+      "Remote": 15
     },
     "experience": {
-      "Lead/Manager": 1,
-      "Mid Level": 1,
-      "Senior": 3
+      "Entry Level": 4,
+      "Lead/Manager": 7,
+      "Mid Level": 24,
+      "Senior": 10
     },
     "job_types": {
-      "Remote": 5
+      "Onsite": 30,
+      "Remote": 15
     }
   }
 ]

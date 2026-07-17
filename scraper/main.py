@@ -10,6 +10,7 @@ from playwright.async_api import async_playwright
 
 from cleaner import RAW_PATH, atomic_json, clean_jobs, write_outputs
 from glassdoor import scrape_glassdoor
+from jobicy import scrape_jobicy
 from mustakbil import scrape_mustakbil
 from remoteok import scrape_remoteok
 from rozee import scrape_rozee
@@ -32,6 +33,7 @@ async def run(headed: bool, limit: int) -> int:
             ("Rozee.pk", scrape_rozee),
             ("Mustakbil.com", scrape_mustakbil),
             ("Glassdoor", scrape_glassdoor),
+            ("Jobicy APAC", scrape_jobicy),
             ("Remote OK", scrape_remoteok),
         )
         for name, scraper in scrapers:
