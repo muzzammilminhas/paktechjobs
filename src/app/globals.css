@@ -1,0 +1,39 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root { color-scheme: light; }
+.dark { color-scheme: dark; }
+* { border-color: rgb(226 232 240); }
+.dark * { border-color: rgb(51 65 85); }
+html { background: #f8fafc; }
+html.dark { background: #0f172a; }
+
+body {
+  min-height: 100vh;
+  background: radial-gradient(circle at 82% -10%, rgba(99, 102, 241, .10), transparent 30rem), #f8fafc;
+  color: #0f172a;
+  font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  font-feature-settings: "cv02", "cv03", "cv04", "cv11";
+}
+.dark body {
+  background: radial-gradient(circle at 82% -10%, rgba(99, 102, 241, .16), transparent 34rem), #0f172a;
+  color: #e2e8f0;
+}
+
+@layer components {
+  .panel { @apply rounded-2xl border border-slate-200/80 bg-white shadow-sm dark:border-slate-700/70 dark:bg-slate-800/75; }
+  .eyebrow { @apply text-[11px] font-bold uppercase tracking-[0.18em] text-indigo-500 dark:text-indigo-400; }
+  .muted { @apply text-sm text-slate-500 dark:text-slate-400; }
+  .input { @apply h-10 rounded-xl border border-slate-200 bg-white px-3 text-sm text-slate-800 outline-none transition focus:border-indigo-500 focus:ring-2 focus:ring-indigo-500/20 dark:border-slate-700 dark:bg-slate-900 dark:text-slate-100; }
+  .badge { @apply inline-flex items-center rounded-full border px-2.5 py-1 text-xs font-semibold; }
+}
+
+::-webkit-scrollbar { width: 9px; height: 9px; }
+::-webkit-scrollbar-thumb { border: 2px solid transparent; border-radius: 999px; background: #94a3b8; background-clip: padding-box; }
+.dark ::-webkit-scrollbar-thumb { background: #475569; background-clip: padding-box; }
+.recharts-cartesian-axis-tick-value { fill: #64748b; font-size: 12px; }
+.dark .recharts-cartesian-axis-tick-value { fill: #94a3b8; }
+.recharts-default-tooltip { border-radius: 12px !important; border-color: #cbd5e1 !important; }
+.dark .recharts-default-tooltip { background: #0f172a !important; border-color: #334155 !important; }
+.dark .recharts-tooltip-label, .dark .recharts-tooltip-item { color: #e2e8f0 !important; }

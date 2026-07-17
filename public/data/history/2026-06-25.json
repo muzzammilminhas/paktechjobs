@@ -1,0 +1,2906 @@
+{
+  "last_updated": "2026-06-25T08:00:00+05:00",
+  "count": 153,
+  "jobs": [
+    {
+      "id": "f779308d49bdc8be",
+      "job_title": "Machine Learning Engineer — Infrastructure",
+      "company_name": "i2c Inc.",
+      "city": "Karachi",
+      "skills": [
+        "Python",
+        "AI/ML",
+        "PyTorch"
+      ],
+      "experience_level": "Mid Level",
+      "job_type": "Hybrid",
+      "salary_min": null,
+      "salary_max": null,
+      "posted_date": "2026-06-25",
+      "source": "Glassdoor",
+      "description": "Join i2c Inc.'s infrastructure team to build production systems with AI/ML, Python, PyTorch. This hybrid role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://www.glassdoor.com/Job/pakistan-tech-jobs-SRCH_IL.0,8_IN192_KO9,13.htm"
+    },
+    {
+      "id": "ea40500e53af1d3a",
+      "job_title": "Lead Angular Developer — Analytics",
+      "company_name": "Arbisoft",
+      "city": "Lahore",
+      "skills": [
+        "Node.js",
+        "Angular",
+        "TypeScript"
+      ],
+      "experience_level": "Lead/Manager",
+      "job_type": "Onsite",
+      "salary_min": 435000,
+      "salary_max": 505000,
+      "posted_date": "2026-06-25",
+      "source": "Glassdoor",
+      "description": "Join Arbisoft's analytics team to build production systems with Angular, TypeScript, Node.js. This onsite role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://www.glassdoor.com/Job/pakistan-tech-jobs-SRCH_IL.0,8_IN192_KO9,13.htm"
+    },
+    {
+      "id": "492d57b35f313c45",
+      "job_title": "Junior Java Software Engineer — Payments",
+      "company_name": "Arbisoft",
+      "city": "Lahore",
+      "skills": [
+        "Java",
+        "Spring",
+        "SQL"
+      ],
+      "experience_level": "Entry Level",
+      "job_type": "Onsite",
+      "salary_min": null,
+      "salary_max": null,
+      "posted_date": "2026-06-25",
+      "source": "Mustakbil.com",
+      "description": "Join Arbisoft's payments team to build production systems with Java, Spring, SQL. This onsite role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://www.mustakbil.com/jobs/it-telecom/"
+    },
+    {
+      "id": "7c4ed2d4dbb9cc25",
+      "job_title": "Angular Developer — Automation",
+      "company_name": "i2c Inc.",
+      "city": "Islamabad",
+      "skills": [
+        "Node.js",
+        "Angular",
+        "TypeScript"
+      ],
+      "experience_level": "Mid Level",
+      "job_type": "Hybrid",
+      "salary_min": null,
+      "salary_max": null,
+      "posted_date": "2026-06-25",
+      "source": "Glassdoor",
+      "description": "Join i2c Inc.'s automation team to build production systems with Angular, TypeScript, Node.js. This hybrid role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://www.glassdoor.com/Job/pakistan-tech-jobs-SRCH_IL.0,8_IN192_KO9,13.htm"
+    },
+    {
+      "id": "2354d1d761bb739a",
+      "job_title": "AI Product Engineer — Infrastructure",
+      "company_name": "Emumba",
+      "city": "Karachi",
+      "skills": [
+        "Python",
+        "FastAPI",
+        "AI/ML"
+      ],
+      "experience_level": "Mid Level",
+      "job_type": "Onsite",
+      "salary_min": 140000,
+      "salary_max": 280000,
+      "posted_date": "2026-06-25",
+      "source": "Glassdoor",
+      "description": "Join Emumba's infrastructure team to build production systems with AI/ML, FastAPI, Python. This onsite role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://www.glassdoor.com/Job/pakistan-tech-jobs-SRCH_IL.0,8_IN192_KO9,13.htm"
+    },
+    {
+      "id": "43e6f6ee495465a7",
+      "job_title": "Senior Android Engineer — Core Product",
+      "company_name": "NetSol Technologies",
+      "city": "Rawalpindi",
+      "skills": [
+        "Firebase",
+        "Android",
+        "Kotlin"
+      ],
+      "experience_level": "Senior",
+      "job_type": "Onsite",
+      "salary_min": 275000,
+      "salary_max": 415000,
+      "posted_date": "2026-06-24",
+      "source": "Rozee.pk",
+      "description": "Join NetSol Technologies's core product team to build production systems with Android, Kotlin, Firebase. This onsite role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://rozee.pk/job/jsearch/q/technology"
+    },
+    {
+      "id": "52d9b62a79a4b108",
+      "job_title": "Junior Full Stack Developer — Infrastructure",
+      "company_name": "S&P Global",
+      "city": "Islamabad",
+      "skills": [
+        "Next.js",
+        "Node.js",
+        "PostgreSQL"
+      ],
+      "experience_level": "Entry Level",
+      "job_type": "Hybrid",
+      "salary_min": 80000,
+      "salary_max": 220000,
+      "posted_date": "2026-06-24",
+      "source": "Rozee.pk",
+      "description": "Join S&P Global's infrastructure team to build production systems with Next.js, Node.js, PostgreSQL. This hybrid role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://rozee.pk/job/jsearch/q/technology"
+    },
+    {
+      "id": "5ce1fad808432349",
+      "job_title": "Full Stack Developer — Platform",
+      "company_name": "Devsinc",
+      "city": "Remote",
+      "skills": [
+        "Next.js",
+        "Node.js",
+        "PostgreSQL"
+      ],
+      "experience_level": "Mid Level",
+      "job_type": "Remote",
+      "salary_min": 130000,
+      "salary_max": 200000,
+      "posted_date": "2026-06-24",
+      "source": "Glassdoor",
+      "description": "Join Devsinc's platform team to build production systems with Next.js, Node.js, PostgreSQL. This remote role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://www.glassdoor.com/Job/pakistan-tech-jobs-SRCH_IL.0,8_IN192_KO9,13.htm"
+    },
+    {
+      "id": "0eab34ca0c5857cd",
+      "job_title": "Senior Cloud DevOps Engineer — Commerce",
+      "company_name": "10Pearls",
+      "city": "Remote",
+      "skills": [
+        "AWS",
+        "Docker",
+        "Kubernetes"
+      ],
+      "experience_level": "Senior",
+      "job_type": "Remote",
+      "salary_min": 290000,
+      "salary_max": 360000,
+      "posted_date": "2026-06-23",
+      "source": "Glassdoor",
+      "description": "Join 10Pearls's commerce team to build production systems with AWS, Docker, Kubernetes. This remote role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://www.glassdoor.com/Job/pakistan-tech-jobs-SRCH_IL.0,8_IN192_KO9,13.htm"
+    },
+    {
+      "id": "c13df627d04e474f",
+      "job_title": "Junior MERN Stack Developer — Commerce",
+      "company_name": "Meezan Digital",
+      "city": "Remote",
+      "skills": [
+        "React",
+        "Node.js",
+        "MongoDB"
+      ],
+      "experience_level": "Entry Level",
+      "job_type": "Remote",
+      "salary_min": null,
+      "salary_max": null,
+      "posted_date": "2026-06-23",
+      "source": "Rozee.pk",
+      "description": "Join Meezan Digital's commerce team to build production systems with React, Node.js, MongoDB. This remote role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://rozee.pk/job/jsearch/q/technology"
+    },
+    {
+      "id": "cf95dcfb0b883af7",
+      "job_title": "Junior Android Engineer — Commerce",
+      "company_name": "Techlogix",
+      "city": "Rawalpindi",
+      "skills": [
+        "Firebase",
+        "Android",
+        "Kotlin"
+      ],
+      "experience_level": "Entry Level",
+      "job_type": "Onsite",
+      "salary_min": 75000,
+      "salary_max": 145000,
+      "posted_date": "2026-06-23",
+      "source": "Glassdoor",
+      "description": "Join Techlogix's commerce team to build production systems with Android, Kotlin, Firebase. This onsite role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://www.glassdoor.com/Job/pakistan-tech-jobs-SRCH_IL.0,8_IN192_KO9,13.htm"
+    },
+    {
+      "id": "4fc9c3c41dfe4029",
+      "job_title": "Python Backend Engineer — Infrastructure",
+      "company_name": "i2c Inc.",
+      "city": "Karachi",
+      "skills": [
+        "Python",
+        "Django",
+        "PostgreSQL"
+      ],
+      "experience_level": "Mid Level",
+      "job_type": "Onsite",
+      "salary_min": 145000,
+      "salary_max": 245000,
+      "posted_date": "2026-06-22",
+      "source": "Rozee.pk",
+      "description": "Join i2c Inc.'s infrastructure team to build production systems with Python, Django, PostgreSQL. This onsite role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://rozee.pk/job/jsearch/q/technology"
+    },
+    {
+      "id": "d55983ab04295ee4",
+      "job_title": "Junior Full Stack Developer — Growth",
+      "company_name": "Arbisoft",
+      "city": "Karachi",
+      "skills": [
+        "Next.js",
+        "Node.js",
+        "PostgreSQL"
+      ],
+      "experience_level": "Entry Level",
+      "job_type": "Hybrid",
+      "salary_min": 65000,
+      "salary_max": 135000,
+      "posted_date": "2026-06-22",
+      "source": "Mustakbil.com",
+      "description": "Join Arbisoft's growth team to build production systems with Next.js, Node.js, PostgreSQL. This hybrid role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://www.mustakbil.com/jobs/it-telecom/"
+    },
+    {
+      "id": "214b6085f53e22e6",
+      "job_title": "Senior Java Software Engineer — Core Product",
+      "company_name": "LMKR",
+      "city": "Karachi",
+      "skills": [
+        "Java",
+        "Spring",
+        "SQL"
+      ],
+      "experience_level": "Senior",
+      "job_type": "Onsite",
+      "salary_min": 270000,
+      "salary_max": 370000,
+      "posted_date": "2026-06-21",
+      "source": "Rozee.pk",
+      "description": "Join LMKR's core product team to build production systems with Java, Spring, SQL. This onsite role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://rozee.pk/job/jsearch/q/technology"
+    },
+    {
+      "id": "0d552b056397745e",
+      "job_title": "Frontend Engineer — Analytics",
+      "company_name": "NetSol Technologies",
+      "city": "Peshawar",
+      "skills": [
+        "React",
+        "TypeScript",
+        "JavaScript"
+      ],
+      "experience_level": "Mid Level",
+      "job_type": "Onsite",
+      "salary_min": 185000,
+      "salary_max": 325000,
+      "posted_date": "2026-06-21",
+      "source": "Mustakbil.com",
+      "description": "Join NetSol Technologies's analytics team to build production systems with React, TypeScript, JavaScript. This onsite role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://www.mustakbil.com/jobs/it-telecom/"
+    },
+    {
+      "id": "33e80b262674c7e9",
+      "job_title": "Data Engineer — Growth",
+      "company_name": "PureLogics",
+      "city": "Lahore",
+      "skills": [
+        "Python",
+        "SQL",
+        "AWS"
+      ],
+      "experience_level": "Mid Level",
+      "job_type": "Hybrid",
+      "salary_min": 160000,
+      "salary_max": 210000,
+      "posted_date": "2026-06-21",
+      "source": "Rozee.pk",
+      "description": "Join PureLogics's growth team to build production systems with Python, SQL, AWS. This hybrid role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://rozee.pk/job/jsearch/q/technology"
+    },
+    {
+      "id": "2bb0a1beed48ef61",
+      "job_title": "Senior Cloud DevOps Engineer — Growth",
+      "company_name": "Afiniti",
+      "city": "Remote",
+      "skills": [
+        "AWS",
+        "Docker",
+        "Kubernetes"
+      ],
+      "experience_level": "Senior",
+      "job_type": "Remote",
+      "salary_min": null,
+      "salary_max": null,
+      "posted_date": "2026-06-20",
+      "source": "Glassdoor",
+      "description": "Join Afiniti's growth team to build production systems with AWS, Docker, Kubernetes. This remote role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://www.glassdoor.com/Job/pakistan-tech-jobs-SRCH_IL.0,8_IN192_KO9,13.htm"
+    },
+    {
+      "id": "31c77a0f8e41089a",
+      "job_title": "Lead Java Software Engineer — Growth",
+      "company_name": "S&P Global",
+      "city": "Karachi",
+      "skills": [
+        "Java",
+        "Spring",
+        "SQL"
+      ],
+      "experience_level": "Lead/Manager",
+      "job_type": "Onsite",
+      "salary_min": 440000,
+      "salary_max": 580000,
+      "posted_date": "2026-06-20",
+      "source": "Glassdoor",
+      "description": "Join S&P Global's growth team to build production systems with Java, Spring, SQL. This onsite role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://www.glassdoor.com/Job/pakistan-tech-jobs-SRCH_IL.0,8_IN192_KO9,13.htm"
+    },
+    {
+      "id": "714a85157bb8e561",
+      "job_title": "Junior Mobile App Developer — Automation",
+      "company_name": "Creative Chaos",
+      "city": "Lahore",
+      "skills": [
+        "Flutter",
+        "Dart",
+        "Firebase"
+      ],
+      "experience_level": "Entry Level",
+      "job_type": "Onsite",
+      "salary_min": null,
+      "salary_max": null,
+      "posted_date": "2026-06-20",
+      "source": "Glassdoor",
+      "description": "Join Creative Chaos's automation team to build production systems with Flutter, Dart, Firebase. This onsite role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://www.glassdoor.com/Job/pakistan-tech-jobs-SRCH_IL.0,8_IN192_KO9,13.htm"
+    },
+    {
+      "id": "2cf95883bbe77748",
+      "job_title": "Frontend Engineer — Commerce",
+      "company_name": "LMKR",
+      "city": "Remote",
+      "skills": [
+        "React",
+        "TypeScript",
+        "JavaScript"
+      ],
+      "experience_level": "Mid Level",
+      "job_type": "Remote",
+      "salary_min": 140000,
+      "salary_max": 190000,
+      "posted_date": "2026-06-20",
+      "source": "Mustakbil.com",
+      "description": "Join LMKR's commerce team to build production systems with React, TypeScript, JavaScript. This remote role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://www.mustakbil.com/jobs/it-telecom/"
+    },
+    {
+      "id": "993c1b438d0c3e86",
+      "job_title": "Lead Quality Assurance Engineer — Commerce",
+      "company_name": "Motive",
+      "city": "Remote",
+      "skills": [
+        "QA",
+        "Selenium",
+        "Cypress"
+      ],
+      "experience_level": "Lead/Manager",
+      "job_type": "Remote",
+      "salary_min": 425000,
+      "salary_max": 525000,
+      "posted_date": "2026-06-19",
+      "source": "Glassdoor",
+      "description": "Join Motive's commerce team to build production systems with QA, Selenium, Cypress. This remote role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://www.glassdoor.com/Job/pakistan-tech-jobs-SRCH_IL.0,8_IN192_KO9,13.htm"
+    },
+    {
+      "id": "d144c8bee2f1535c",
+      "job_title": "Quality Assurance Engineer — Core Product",
+      "company_name": "NorthBay Solutions",
+      "city": "Lahore",
+      "skills": [
+        "QA",
+        "Selenium",
+        "Cypress"
+      ],
+      "experience_level": "Mid Level",
+      "job_type": "Onsite",
+      "salary_min": null,
+      "salary_max": null,
+      "posted_date": "2026-06-18",
+      "source": "Mustakbil.com",
+      "description": "Join NorthBay Solutions's core product team to build production systems with QA, Selenium, Cypress. This onsite role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://www.mustakbil.com/jobs/it-telecom/"
+    },
+    {
+      "id": "8dce970ba3df7305",
+      "job_title": "Lead Java Software Engineer — Platform",
+      "company_name": "NetSol Technologies",
+      "city": "Lahore",
+      "skills": [
+        "Java",
+        "Spring",
+        "SQL"
+      ],
+      "experience_level": "Lead/Manager",
+      "job_type": "Hybrid",
+      "salary_min": null,
+      "salary_max": null,
+      "posted_date": "2026-06-18",
+      "source": "Glassdoor",
+      "description": "Join NetSol Technologies's platform team to build production systems with Java, Spring, SQL. This hybrid role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://www.glassdoor.com/Job/pakistan-tech-jobs-SRCH_IL.0,8_IN192_KO9,13.htm"
+    },
+    {
+      "id": "1a2fee970e258002",
+      "job_title": "AI Product Engineer — Payments",
+      "company_name": "Systems Limited",
+      "city": "Other",
+      "skills": [
+        "Python",
+        "FastAPI",
+        "AI/ML"
+      ],
+      "experience_level": "Mid Level",
+      "job_type": "Onsite",
+      "salary_min": 165000,
+      "salary_max": 265000,
+      "posted_date": "2026-06-18",
+      "source": "Glassdoor",
+      "description": "Join Systems Limited's payments team to build production systems with AI/ML, FastAPI, Python. This onsite role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://www.glassdoor.com/Job/pakistan-tech-jobs-SRCH_IL.0,8_IN192_KO9,13.htm"
+    },
+    {
+      "id": "4d376c24c23d3688",
+      "job_title": "Senior MERN Stack Developer — Growth",
+      "company_name": "Jazz Digital",
+      "city": "Remote",
+      "skills": [
+        "React",
+        "Node.js",
+        "MongoDB"
+      ],
+      "experience_level": "Senior",
+      "job_type": "Remote",
+      "salary_min": 300000,
+      "salary_max": 400000,
+      "posted_date": "2026-06-17",
+      "source": "Mustakbil.com",
+      "description": "Join Jazz Digital's growth team to build production systems with React, Node.js, MongoDB. This remote role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://www.mustakbil.com/jobs/it-telecom/"
+    },
+    {
+      "id": "bc2dfd66576b5d43",
+      "job_title": "Machine Learning Engineer — Infrastructure",
+      "company_name": "Careem",
+      "city": "Remote",
+      "skills": [
+        "Python",
+        "AI/ML",
+        "PyTorch"
+      ],
+      "experience_level": "Mid Level",
+      "job_type": "Remote",
+      "salary_min": 180000,
+      "salary_max": 280000,
+      "posted_date": "2026-06-17",
+      "source": "Glassdoor",
+      "description": "Join Careem's infrastructure team to build production systems with AI/ML, Python, PyTorch. This remote role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://www.glassdoor.com/Job/pakistan-tech-jobs-SRCH_IL.0,8_IN192_KO9,13.htm"
+    },
+    {
+      "id": "d60d0b60a0ebe110",
+      "job_title": "Lead PHP Web Developer — Growth",
+      "company_name": "LMKR",
+      "city": "Rawalpindi",
+      "skills": [
+        "PHP",
+        "Laravel"
+      ],
+      "experience_level": "Lead/Manager",
+      "job_type": "Hybrid",
+      "salary_min": 445000,
+      "salary_max": 495000,
+      "posted_date": "2026-06-17",
+      "source": "Glassdoor",
+      "description": "Join LMKR's growth team to build production systems with PHP, Laravel, MySQL. This hybrid role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://www.glassdoor.com/Job/pakistan-tech-jobs-SRCH_IL.0,8_IN192_KO9,13.htm"
+    },
+    {
+      "id": "1489fbe9e9a93f77",
+      "job_title": "MERN Stack Developer — Infrastructure",
+      "company_name": "Creative Chaos",
+      "city": "Peshawar",
+      "skills": [
+        "React",
+        "Node.js",
+        "MongoDB"
+      ],
+      "experience_level": "Mid Level",
+      "job_type": "Onsite",
+      "salary_min": 135000,
+      "salary_max": 235000,
+      "posted_date": "2026-06-16",
+      "source": "Rozee.pk",
+      "description": "Join Creative Chaos's infrastructure team to build production systems with React, Node.js, MongoDB. This onsite role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://rozee.pk/job/jsearch/q/technology"
+    },
+    {
+      "id": "979cf694a451de39",
+      "job_title": "Cloud DevOps Engineer — Core Product",
+      "company_name": "Emumba",
+      "city": "Karachi",
+      "skills": [
+        "AWS",
+        "Docker",
+        "Kubernetes"
+      ],
+      "experience_level": "Mid Level",
+      "job_type": "Onsite",
+      "salary_min": null,
+      "salary_max": null,
+      "posted_date": "2026-06-16",
+      "source": "Mustakbil.com",
+      "description": "Join Emumba's core product team to build production systems with AWS, Docker, Kubernetes. This onsite role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://www.mustakbil.com/jobs/it-telecom/"
+    },
+    {
+      "id": "bbd55f1c1fde9a7b",
+      "job_title": "Senior Mobile App Developer — Analytics",
+      "company_name": "Systems Limited",
+      "city": "Karachi",
+      "skills": [
+        "Flutter",
+        "Dart",
+        "Firebase"
+      ],
+      "experience_level": "Senior",
+      "job_type": "Hybrid",
+      "salary_min": null,
+      "salary_max": null,
+      "posted_date": "2026-06-15",
+      "source": "Rozee.pk",
+      "description": "Join Systems Limited's analytics team to build production systems with Flutter, Dart, Firebase. This hybrid role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://rozee.pk/job/jsearch/q/technology"
+    },
+    {
+      "id": "84141e6b6ee36de9",
+      "job_title": "Senior Data Engineer — Infrastructure",
+      "company_name": "Meezan Digital",
+      "city": "Islamabad",
+      "skills": [
+        "Python",
+        "SQL",
+        "AWS"
+      ],
+      "experience_level": "Senior",
+      "job_type": "Onsite",
+      "salary_min": 280000,
+      "salary_max": 420000,
+      "posted_date": "2026-06-15",
+      "source": "Rozee.pk",
+      "description": "Join Meezan Digital's infrastructure team to build production systems with Python, SQL, AWS. This onsite role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://rozee.pk/job/jsearch/q/technology"
+    },
+    {
+      "id": "5302f29bc300f21a",
+      "job_title": "Senior Cloud DevOps Engineer — Payments",
+      "company_name": "Devsinc",
+      "city": "Karachi",
+      "skills": [
+        "AWS",
+        "Docker",
+        "Kubernetes"
+      ],
+      "experience_level": "Senior",
+      "job_type": "Onsite",
+      "salary_min": 305000,
+      "salary_max": 405000,
+      "posted_date": "2026-06-15",
+      "source": "Mustakbil.com",
+      "description": "Join Devsinc's payments team to build production systems with AWS, Docker, Kubernetes. This onsite role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://www.mustakbil.com/jobs/it-telecom/"
+    },
+    {
+      "id": "ecfbbd39d7a5bc6f",
+      "job_title": "Lead Full Stack Developer — Automation",
+      "company_name": "NorthBay Solutions",
+      "city": "Remote",
+      "skills": [
+        "Next.js",
+        "Node.js",
+        "PostgreSQL"
+      ],
+      "experience_level": "Lead/Manager",
+      "job_type": "Remote",
+      "salary_min": 425000,
+      "salary_max": 495000,
+      "posted_date": "2026-06-15",
+      "source": "Mustakbil.com",
+      "description": "Join NorthBay Solutions's automation team to build production systems with Next.js, Node.js, PostgreSQL. This remote role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://www.mustakbil.com/jobs/it-telecom/"
+    },
+    {
+      "id": "6a172d2e90847c45",
+      "job_title": "Junior Mobile App Developer — Infrastructure",
+      "company_name": "Meezan Digital",
+      "city": "Karachi",
+      "skills": [
+        "Flutter",
+        "Dart",
+        "Firebase"
+      ],
+      "experience_level": "Entry Level",
+      "job_type": "Onsite",
+      "salary_min": 75000,
+      "salary_max": 125000,
+      "posted_date": "2026-06-15",
+      "source": "Glassdoor",
+      "description": "Join Meezan Digital's infrastructure team to build production systems with Flutter, Dart, Firebase. This onsite role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://www.glassdoor.com/Job/pakistan-tech-jobs-SRCH_IL.0,8_IN192_KO9,13.htm"
+    },
+    {
+      "id": "309f447f921d755c",
+      "job_title": "Lead Java Software Engineer — Analytics",
+      "company_name": "Devsinc",
+      "city": "Rawalpindi",
+      "skills": [
+        "Java",
+        "Spring",
+        "SQL"
+      ],
+      "experience_level": "Lead/Manager",
+      "job_type": "Onsite",
+      "salary_min": null,
+      "salary_max": null,
+      "posted_date": "2026-06-14",
+      "source": "Rozee.pk",
+      "description": "Join Devsinc's analytics team to build production systems with Java, Spring, SQL. This onsite role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://rozee.pk/job/jsearch/q/technology"
+    },
+    {
+      "id": "bd6d057bdddc9642",
+      "job_title": "Junior Angular Developer — Platform",
+      "company_name": "Devsinc",
+      "city": "Other",
+      "skills": [
+        "Node.js",
+        "Angular",
+        "TypeScript"
+      ],
+      "experience_level": "Entry Level",
+      "job_type": "Onsite",
+      "salary_min": 90000,
+      "salary_max": 140000,
+      "posted_date": "2026-06-14",
+      "source": "Mustakbil.com",
+      "description": "Join Devsinc's platform team to build production systems with Angular, TypeScript, Node.js. This onsite role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://www.mustakbil.com/jobs/it-telecom/"
+    },
+    {
+      "id": "c6f0c416f4321301",
+      "job_title": "Cloud DevOps Engineer — Infrastructure",
+      "company_name": "S&P Global",
+      "city": "Karachi",
+      "skills": [
+        "AWS",
+        "Docker",
+        "Kubernetes"
+      ],
+      "experience_level": "Mid Level",
+      "job_type": "Hybrid",
+      "salary_min": null,
+      "salary_max": null,
+      "posted_date": "2026-06-14",
+      "source": "Glassdoor",
+      "description": "Join S&P Global's infrastructure team to build production systems with AWS, Docker, Kubernetes. This hybrid role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://www.glassdoor.com/Job/pakistan-tech-jobs-SRCH_IL.0,8_IN192_KO9,13.htm"
+    },
+    {
+      "id": "d54160a4e556e856",
+      "job_title": "Senior MERN Stack Developer — Platform",
+      "company_name": "i2c Inc.",
+      "city": "Islamabad",
+      "skills": [
+        "React",
+        "Node.js",
+        "MongoDB"
+      ],
+      "experience_level": "Senior",
+      "job_type": "Onsite",
+      "salary_min": 265000,
+      "salary_max": 315000,
+      "posted_date": "2026-06-13",
+      "source": "Glassdoor",
+      "description": "Join i2c Inc.'s platform team to build production systems with React, Node.js, MongoDB. This onsite role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://www.glassdoor.com/Job/pakistan-tech-jobs-SRCH_IL.0,8_IN192_KO9,13.htm"
+    },
+    {
+      "id": "beb91b58135fc57f",
+      "job_title": "Lead PHP Web Developer — Platform",
+      "company_name": "Motive",
+      "city": "Karachi",
+      "skills": [
+        "PHP",
+        "Laravel"
+      ],
+      "experience_level": "Lead/Manager",
+      "job_type": "Hybrid",
+      "salary_min": null,
+      "salary_max": null,
+      "posted_date": "2026-06-13",
+      "source": "Rozee.pk",
+      "description": "Join Motive's platform team to build production systems with PHP, Laravel, MySQL. This hybrid role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://rozee.pk/job/jsearch/q/technology"
+    },
+    {
+      "id": "ef62c5c58469feeb",
+      "job_title": "Lead Machine Learning Engineer — Payments",
+      "company_name": "Techlogix",
+      "city": "Karachi",
+      "skills": [
+        "Python",
+        "AI/ML",
+        "PyTorch"
+      ],
+      "experience_level": "Lead/Manager",
+      "job_type": "Hybrid",
+      "salary_min": 430000,
+      "salary_max": 530000,
+      "posted_date": "2026-06-13",
+      "source": "Mustakbil.com",
+      "description": "Join Techlogix's payments team to build production systems with AI/ML, Python, PyTorch. This hybrid role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://www.mustakbil.com/jobs/it-telecom/"
+    },
+    {
+      "id": "89f0a7aa2dcf8117",
+      "job_title": "Junior Data Engineer — Payments",
+      "company_name": "Careem",
+      "city": "Karachi",
+      "skills": [
+        "Python",
+        "SQL",
+        "AWS"
+      ],
+      "experience_level": "Entry Level",
+      "job_type": "Onsite",
+      "salary_min": 90000,
+      "salary_max": 140000,
+      "posted_date": "2026-06-13",
+      "source": "Mustakbil.com",
+      "description": "Join Careem's payments team to build production systems with Python, SQL, AWS. This onsite role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://www.mustakbil.com/jobs/it-telecom/"
+    },
+    {
+      "id": "3ea92cb0f8dc7caa",
+      "job_title": "Frontend Engineer — Platform",
+      "company_name": "Systems Limited",
+      "city": "Karachi",
+      "skills": [
+        "React",
+        "TypeScript",
+        "JavaScript"
+      ],
+      "experience_level": "Mid Level",
+      "job_type": "Onsite",
+      "salary_min": null,
+      "salary_max": null,
+      "posted_date": "2026-06-13",
+      "source": "Glassdoor",
+      "description": "Join Systems Limited's platform team to build production systems with React, TypeScript, JavaScript. This onsite role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://www.glassdoor.com/Job/pakistan-tech-jobs-SRCH_IL.0,8_IN192_KO9,13.htm"
+    },
+    {
+      "id": "9ff6c6fa2c22167d",
+      "job_title": "Data Engineer — Core Product",
+      "company_name": "Confiz",
+      "city": "Remote",
+      "skills": [
+        "Python",
+        "SQL",
+        "AWS"
+      ],
+      "experience_level": "Mid Level",
+      "job_type": "Remote",
+      "salary_min": 155000,
+      "salary_max": 255000,
+      "posted_date": "2026-06-13",
+      "source": "Mustakbil.com",
+      "description": "Join Confiz's core product team to build production systems with Python, SQL, AWS. This remote role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://www.mustakbil.com/jobs/it-telecom/"
+    },
+    {
+      "id": "ae175dfbe7c141ee",
+      "job_title": "Android Engineer — Automation",
+      "company_name": "Bazaar Technologies",
+      "city": "Karachi",
+      "skills": [
+        "Firebase",
+        "Android",
+        "Kotlin"
+      ],
+      "experience_level": "Mid Level",
+      "job_type": "Onsite",
+      "salary_min": null,
+      "salary_max": null,
+      "posted_date": "2026-06-13",
+      "source": "Rozee.pk",
+      "description": "Join Bazaar Technologies's automation team to build production systems with Android, Kotlin, Firebase. This onsite role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://rozee.pk/job/jsearch/q/technology"
+    },
+    {
+      "id": "a3e214e9a2de47b6",
+      "job_title": "AI Product Engineer — Platform",
+      "company_name": "Dubizzle Labs",
+      "city": "Other",
+      "skills": [
+        "Python",
+        "FastAPI",
+        "AI/ML"
+      ],
+      "experience_level": "Mid Level",
+      "job_type": "Onsite",
+      "salary_min": 135000,
+      "salary_max": 185000,
+      "posted_date": "2026-06-13",
+      "source": "Rozee.pk",
+      "description": "Join Dubizzle Labs's platform team to build production systems with AI/ML, FastAPI, Python. This onsite role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://rozee.pk/job/jsearch/q/technology"
+    },
+    {
+      "id": "1377cf755ade3ce1",
+      "job_title": "Lead MERN Stack Developer — Payments",
+      "company_name": "Tkxel",
+      "city": "Remote",
+      "skills": [
+        "React",
+        "Node.js",
+        "MongoDB"
+      ],
+      "experience_level": "Lead/Manager",
+      "job_type": "Remote",
+      "salary_min": 445000,
+      "salary_max": 545000,
+      "posted_date": "2026-06-12",
+      "source": "Rozee.pk",
+      "description": "Join Tkxel's payments team to build production systems with React, Node.js, MongoDB. This remote role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://rozee.pk/job/jsearch/q/technology"
+    },
+    {
+      "id": "9628c0c58a3576c4",
+      "job_title": "Junior Android Engineer — Core Product",
+      "company_name": "Systems Limited",
+      "city": "Lahore",
+      "skills": [
+        "Firebase",
+        "Android",
+        "Kotlin"
+      ],
+      "experience_level": "Entry Level",
+      "job_type": "Hybrid",
+      "salary_min": 50000,
+      "salary_max": 100000,
+      "posted_date": "2026-06-12",
+      "source": "Rozee.pk",
+      "description": "Join Systems Limited's core product team to build production systems with Android, Kotlin, Firebase. This hybrid role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://rozee.pk/job/jsearch/q/technology"
+    },
+    {
+      "id": "32fa1f3ce56c9cf2",
+      "job_title": "Senior Data Engineer — Infrastructure",
+      "company_name": "Dubizzle Labs",
+      "city": "Remote",
+      "skills": [
+        "Python",
+        "SQL",
+        "AWS"
+      ],
+      "experience_level": "Senior",
+      "job_type": "Remote",
+      "salary_min": 270000,
+      "salary_max": 320000,
+      "posted_date": "2026-06-11",
+      "source": "Rozee.pk",
+      "description": "Join Dubizzle Labs's infrastructure team to build production systems with Python, SQL, AWS. This remote role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://rozee.pk/job/jsearch/q/technology"
+    },
+    {
+      "id": "91ea52627a18c793",
+      "job_title": "Senior Data Engineer — Core Product",
+      "company_name": "Motive",
+      "city": "Karachi",
+      "skills": [
+        "Python",
+        "SQL",
+        "AWS"
+      ],
+      "experience_level": "Senior",
+      "job_type": "Hybrid",
+      "salary_min": 310000,
+      "salary_max": 450000,
+      "posted_date": "2026-06-11",
+      "source": "Mustakbil.com",
+      "description": "Join Motive's core product team to build production systems with Python, SQL, AWS. This hybrid role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://www.mustakbil.com/jobs/it-telecom/"
+    },
+    {
+      "id": "034c32135f5b06b6",
+      "job_title": "Senior Angular Developer — Platform",
+      "company_name": "Afiniti",
+      "city": "Rawalpindi",
+      "skills": [
+        "Node.js",
+        "Angular",
+        "TypeScript"
+      ],
+      "experience_level": "Senior",
+      "job_type": "Onsite",
+      "salary_min": null,
+      "salary_max": null,
+      "posted_date": "2026-06-11",
+      "source": "Rozee.pk",
+      "description": "Join Afiniti's platform team to build production systems with Angular, TypeScript, Node.js. This onsite role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://rozee.pk/job/jsearch/q/technology"
+    },
+    {
+      "id": "248d1cd278b925ea",
+      "job_title": "Python Backend Engineer — Payments",
+      "company_name": "Meezan Digital",
+      "city": "Remote",
+      "skills": [
+        "Python",
+        "Django",
+        "PostgreSQL"
+      ],
+      "experience_level": "Mid Level",
+      "job_type": "Remote",
+      "salary_min": 150000,
+      "salary_max": 290000,
+      "posted_date": "2026-06-11",
+      "source": "Mustakbil.com",
+      "description": "Join Meezan Digital's payments team to build production systems with Python, Django, PostgreSQL. This remote role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://www.mustakbil.com/jobs/it-telecom/"
+    },
+    {
+      "id": "3a708f13ca69c552",
+      "job_title": "PHP Web Developer — Core Product",
+      "company_name": "Tkxel",
+      "city": "Islamabad",
+      "skills": [
+        "PHP",
+        "Laravel"
+      ],
+      "experience_level": "Mid Level",
+      "job_type": "Hybrid",
+      "salary_min": 180000,
+      "salary_max": 280000,
+      "posted_date": "2026-06-11",
+      "source": "Glassdoor",
+      "description": "Join Tkxel's core product team to build production systems with PHP, Laravel, MySQL. This hybrid role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://www.glassdoor.com/Job/pakistan-tech-jobs-SRCH_IL.0,8_IN192_KO9,13.htm"
+    },
+    {
+      "id": "961678423df7b29a",
+      "job_title": "Lead MERN Stack Developer — Growth",
+      "company_name": "Dastgyr",
+      "city": "Lahore",
+      "skills": [
+        "React",
+        "Node.js",
+        "MongoDB"
+      ],
+      "experience_level": "Lead/Manager",
+      "job_type": "Onsite",
+      "salary_min": 445000,
+      "salary_max": 585000,
+      "posted_date": "2026-06-11",
+      "source": "Glassdoor",
+      "description": "Join Dastgyr's growth team to build production systems with React, Node.js, MongoDB. This onsite role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://www.glassdoor.com/Job/pakistan-tech-jobs-SRCH_IL.0,8_IN192_KO9,13.htm"
+    },
+    {
+      "id": "b2245d953dee7203",
+      "job_title": "Cloud DevOps Engineer — Platform",
+      "company_name": "Emumba",
+      "city": "Rawalpindi",
+      "skills": [
+        "AWS",
+        "Docker",
+        "Kubernetes"
+      ],
+      "experience_level": "Mid Level",
+      "job_type": "Onsite",
+      "salary_min": 175000,
+      "salary_max": 245000,
+      "posted_date": "2026-06-11",
+      "source": "Glassdoor",
+      "description": "Join Emumba's platform team to build production systems with AWS, Docker, Kubernetes. This onsite role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://www.glassdoor.com/Job/pakistan-tech-jobs-SRCH_IL.0,8_IN192_KO9,13.htm"
+    },
+    {
+      "id": "b091579914c0696a",
+      "job_title": "Cloud DevOps Engineer — Analytics",
+      "company_name": "Arbisoft",
+      "city": "Remote",
+      "skills": [
+        "AWS",
+        "Docker",
+        "Kubernetes"
+      ],
+      "experience_level": "Mid Level",
+      "job_type": "Remote",
+      "salary_min": 145000,
+      "salary_max": 245000,
+      "posted_date": "2026-06-11",
+      "source": "Glassdoor",
+      "description": "Join Arbisoft's analytics team to build production systems with AWS, Docker, Kubernetes. This remote role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://www.glassdoor.com/Job/pakistan-tech-jobs-SRCH_IL.0,8_IN192_KO9,13.htm"
+    },
+    {
+      "id": "efe5c47455ee2253",
+      "job_title": "Senior Data Engineer — Infrastructure",
+      "company_name": "Emumba",
+      "city": "Remote",
+      "skills": [
+        "Python",
+        "SQL",
+        "AWS"
+      ],
+      "experience_level": "Senior",
+      "job_type": "Remote",
+      "salary_min": 295000,
+      "salary_max": 365000,
+      "posted_date": "2026-06-10",
+      "source": "Mustakbil.com",
+      "description": "Join Emumba's infrastructure team to build production systems with Python, SQL, AWS. This remote role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://www.mustakbil.com/jobs/it-telecom/"
+    },
+    {
+      "id": "7d035b17446d0650",
+      "job_title": "Senior Data Engineer — Analytics",
+      "company_name": "Emumba",
+      "city": "Karachi",
+      "skills": [
+        "Python",
+        "SQL",
+        "AWS"
+      ],
+      "experience_level": "Senior",
+      "job_type": "Onsite",
+      "salary_min": 315000,
+      "salary_max": 415000,
+      "posted_date": "2026-06-10",
+      "source": "Mustakbil.com",
+      "description": "Join Emumba's analytics team to build production systems with Python, SQL, AWS. This onsite role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://www.mustakbil.com/jobs/it-telecom/"
+    },
+    {
+      "id": "d1997455d6dfe641",
+      "job_title": "MERN Stack Developer — Analytics",
+      "company_name": "Jazz Digital",
+      "city": "Islamabad",
+      "skills": [
+        "React",
+        "Node.js",
+        "MongoDB"
+      ],
+      "experience_level": "Mid Level",
+      "job_type": "Onsite",
+      "salary_min": 150000,
+      "salary_max": 290000,
+      "posted_date": "2026-06-09",
+      "source": "Glassdoor",
+      "description": "Join Jazz Digital's analytics team to build production systems with React, Node.js, MongoDB. This onsite role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://www.glassdoor.com/Job/pakistan-tech-jobs-SRCH_IL.0,8_IN192_KO9,13.htm"
+    },
+    {
+      "id": "29c16d4c1d8abfde",
+      "job_title": "Lead Quality Assurance Engineer — Automation",
+      "company_name": "Devsinc",
+      "city": "Islamabad",
+      "skills": [
+        "QA",
+        "Selenium",
+        "Cypress"
+      ],
+      "experience_level": "Lead/Manager",
+      "job_type": "Hybrid",
+      "salary_min": null,
+      "salary_max": null,
+      "posted_date": "2026-06-09",
+      "source": "Glassdoor",
+      "description": "Join Devsinc's automation team to build production systems with QA, Selenium, Cypress. This hybrid role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://www.glassdoor.com/Job/pakistan-tech-jobs-SRCH_IL.0,8_IN192_KO9,13.htm"
+    },
+    {
+      "id": "2560a2728d7e1abd",
+      "job_title": "Junior Mobile App Developer — Analytics",
+      "company_name": "Bykea",
+      "city": "Islamabad",
+      "skills": [
+        "Flutter",
+        "Dart",
+        "Firebase"
+      ],
+      "experience_level": "Entry Level",
+      "job_type": "Onsite",
+      "salary_min": 60000,
+      "salary_max": 200000,
+      "posted_date": "2026-06-09",
+      "source": "Mustakbil.com",
+      "description": "Join Bykea's analytics team to build production systems with Flutter, Dart, Firebase. This onsite role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://www.mustakbil.com/jobs/it-telecom/"
+    },
+    {
+      "id": "4ff36b2442a8316d",
+      "job_title": "Junior Cloud DevOps Engineer — Analytics",
+      "company_name": "NorthBay Solutions",
+      "city": "Islamabad",
+      "skills": [
+        "AWS",
+        "Docker",
+        "Kubernetes"
+      ],
+      "experience_level": "Entry Level",
+      "job_type": "Hybrid",
+      "salary_min": null,
+      "salary_max": null,
+      "posted_date": "2026-06-09",
+      "source": "Rozee.pk",
+      "description": "Join NorthBay Solutions's analytics team to build production systems with AWS, Docker, Kubernetes. This hybrid role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://rozee.pk/job/jsearch/q/technology"
+    },
+    {
+      "id": "3c5263d648d74b05",
+      "job_title": "Lead Full Stack Developer — Infrastructure",
+      "company_name": "Meezan Digital",
+      "city": "Islamabad",
+      "skills": [
+        "Next.js",
+        "Node.js",
+        "PostgreSQL"
+      ],
+      "experience_level": "Lead/Manager",
+      "job_type": "Onsite",
+      "salary_min": null,
+      "salary_max": null,
+      "posted_date": "2026-06-08",
+      "source": "Glassdoor",
+      "description": "Join Meezan Digital's infrastructure team to build production systems with Next.js, Node.js, PostgreSQL. This onsite role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://www.glassdoor.com/Job/pakistan-tech-jobs-SRCH_IL.0,8_IN192_KO9,13.htm"
+    },
+    {
+      "id": "164698f0b2dc4773",
+      "job_title": "Lead Angular Developer — Core Product",
+      "company_name": "Educative",
+      "city": "Rawalpindi",
+      "skills": [
+        "Node.js",
+        "Angular",
+        "TypeScript"
+      ],
+      "experience_level": "Lead/Manager",
+      "job_type": "Onsite",
+      "salary_min": 455000,
+      "salary_max": 505000,
+      "posted_date": "2026-06-08",
+      "source": "Glassdoor",
+      "description": "Join Educative's core product team to build production systems with Angular, TypeScript, Node.js. This onsite role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://www.glassdoor.com/Job/pakistan-tech-jobs-SRCH_IL.0,8_IN192_KO9,13.htm"
+    },
+    {
+      "id": "2ba8e66b5735c6a9",
+      "job_title": "Junior PHP Web Developer — Analytics",
+      "company_name": "Meezan Digital",
+      "city": "Lahore",
+      "skills": [
+        "PHP",
+        "Laravel"
+      ],
+      "experience_level": "Entry Level",
+      "job_type": "Onsite",
+      "salary_min": 85000,
+      "salary_max": 135000,
+      "posted_date": "2026-06-08",
+      "source": "Glassdoor",
+      "description": "Join Meezan Digital's analytics team to build production systems with PHP, Laravel, MySQL. This onsite role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://www.glassdoor.com/Job/pakistan-tech-jobs-SRCH_IL.0,8_IN192_KO9,13.htm"
+    },
+    {
+      "id": "88a7956490e12c5c",
+      "job_title": "Junior Mobile App Developer — Commerce",
+      "company_name": "Bazaar Technologies",
+      "city": "Remote",
+      "skills": [
+        "Flutter",
+        "Dart",
+        "Firebase"
+      ],
+      "experience_level": "Entry Level",
+      "job_type": "Remote",
+      "salary_min": null,
+      "salary_max": null,
+      "posted_date": "2026-06-08",
+      "source": "Mustakbil.com",
+      "description": "Join Bazaar Technologies's commerce team to build production systems with Flutter, Dart, Firebase. This remote role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://www.mustakbil.com/jobs/it-telecom/"
+    },
+    {
+      "id": "48f678fb1016f305",
+      "job_title": "Junior Data Engineer — Core Product",
+      "company_name": "PureLogics",
+      "city": "Karachi",
+      "skills": [
+        "Python",
+        "SQL",
+        "AWS"
+      ],
+      "experience_level": "Entry Level",
+      "job_type": "Onsite",
+      "salary_min": 55000,
+      "salary_max": 195000,
+      "posted_date": "2026-06-08",
+      "source": "Glassdoor",
+      "description": "Join PureLogics's core product team to build production systems with Python, SQL, AWS. This onsite role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://www.glassdoor.com/Job/pakistan-tech-jobs-SRCH_IL.0,8_IN192_KO9,13.htm"
+    },
+    {
+      "id": "95f89cda65374f3c",
+      "job_title": "Senior Angular Developer — Payments",
+      "company_name": "i2c Inc.",
+      "city": "Other",
+      "skills": [
+        "Node.js",
+        "Angular",
+        "TypeScript"
+      ],
+      "experience_level": "Senior",
+      "job_type": "Onsite",
+      "salary_min": null,
+      "salary_max": null,
+      "posted_date": "2026-06-07",
+      "source": "Rozee.pk",
+      "description": "Join i2c Inc.'s payments team to build production systems with Angular, TypeScript, Node.js. This onsite role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://rozee.pk/job/jsearch/q/technology"
+    },
+    {
+      "id": "aafa485a4decd692",
+      "job_title": "Lead Python Backend Engineer — Automation",
+      "company_name": "Folio3",
+      "city": "Other",
+      "skills": [
+        "Python",
+        "Django",
+        "PostgreSQL"
+      ],
+      "experience_level": "Lead/Manager",
+      "job_type": "Onsite",
+      "salary_min": 420000,
+      "salary_max": 470000,
+      "posted_date": "2026-06-07",
+      "source": "Glassdoor",
+      "description": "Join Folio3's automation team to build production systems with Python, Django, PostgreSQL. This onsite role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://www.glassdoor.com/Job/pakistan-tech-jobs-SRCH_IL.0,8_IN192_KO9,13.htm"
+    },
+    {
+      "id": "317557e6ccf34ac8",
+      "job_title": "Junior Frontend Engineer — Commerce",
+      "company_name": "NetSol Technologies",
+      "city": "Other",
+      "skills": [
+        "React",
+        "TypeScript",
+        "JavaScript"
+      ],
+      "experience_level": "Entry Level",
+      "job_type": "Onsite",
+      "salary_min": null,
+      "salary_max": null,
+      "posted_date": "2026-06-07",
+      "source": "Mustakbil.com",
+      "description": "Join NetSol Technologies's commerce team to build production systems with React, TypeScript, JavaScript. This onsite role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://www.mustakbil.com/jobs/it-telecom/"
+    },
+    {
+      "id": "d3baeb5e1e06dd6f",
+      "job_title": "Frontend Engineer — Growth",
+      "company_name": "Arbisoft",
+      "city": "Karachi",
+      "skills": [
+        "React",
+        "TypeScript",
+        "JavaScript"
+      ],
+      "experience_level": "Mid Level",
+      "job_type": "Onsite",
+      "salary_min": 155000,
+      "salary_max": 255000,
+      "posted_date": "2026-06-07",
+      "source": "Mustakbil.com",
+      "description": "Join Arbisoft's growth team to build production systems with React, TypeScript, JavaScript. This onsite role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://www.mustakbil.com/jobs/it-telecom/"
+    },
+    {
+      "id": "a7e2c3ef82876f0b",
+      "job_title": "Frontend Engineer — Core Product",
+      "company_name": "Systems Limited",
+      "city": "Remote",
+      "skills": [
+        "React",
+        "TypeScript",
+        "JavaScript"
+      ],
+      "experience_level": "Mid Level",
+      "job_type": "Remote",
+      "salary_min": 185000,
+      "salary_max": 255000,
+      "posted_date": "2026-06-07",
+      "source": "Glassdoor",
+      "description": "Join Systems Limited's core product team to build production systems with React, TypeScript, JavaScript. This remote role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://www.glassdoor.com/Job/pakistan-tech-jobs-SRCH_IL.0,8_IN192_KO9,13.htm"
+    },
+    {
+      "id": "4ff6ab536e51a15f",
+      "job_title": "Mobile App Developer — Growth",
+      "company_name": "Meezan Digital",
+      "city": "Remote",
+      "skills": [
+        "Flutter",
+        "Dart",
+        "Firebase"
+      ],
+      "experience_level": "Mid Level",
+      "job_type": "Remote",
+      "salary_min": 140000,
+      "salary_max": 190000,
+      "posted_date": "2026-06-06",
+      "source": "Rozee.pk",
+      "description": "Join Meezan Digital's growth team to build production systems with Flutter, Dart, Firebase. This remote role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://rozee.pk/job/jsearch/q/technology"
+    },
+    {
+      "id": "ed0e7af6c17a48f7",
+      "job_title": "Senior Mobile App Developer — Analytics",
+      "company_name": "Emumba",
+      "city": "Lahore",
+      "skills": [
+        "Flutter",
+        "Dart",
+        "Firebase"
+      ],
+      "experience_level": "Senior",
+      "job_type": "Onsite",
+      "salary_min": 285000,
+      "salary_max": 425000,
+      "posted_date": "2026-06-05",
+      "source": "Rozee.pk",
+      "description": "Join Emumba's analytics team to build production systems with Flutter, Dart, Firebase. This onsite role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://rozee.pk/job/jsearch/q/technology"
+    },
+    {
+      "id": "d229f30cae531ced",
+      "job_title": "Python Backend Engineer — Automation",
+      "company_name": "Educative",
+      "city": "Islamabad",
+      "skills": [
+        "Python",
+        "Django",
+        "PostgreSQL"
+      ],
+      "experience_level": "Mid Level",
+      "job_type": "Onsite",
+      "salary_min": null,
+      "salary_max": null,
+      "posted_date": "2026-06-05",
+      "source": "Glassdoor",
+      "description": "Join Educative's automation team to build production systems with Python, Django, PostgreSQL. This onsite role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://www.glassdoor.com/Job/pakistan-tech-jobs-SRCH_IL.0,8_IN192_KO9,13.htm"
+    },
+    {
+      "id": "c604eac2a2d5f944",
+      "job_title": "Machine Learning Engineer — Growth",
+      "company_name": "NetSol Technologies",
+      "city": "Islamabad",
+      "skills": [
+        "Python",
+        "AI/ML",
+        "PyTorch"
+      ],
+      "experience_level": "Mid Level",
+      "job_type": "Onsite",
+      "salary_min": null,
+      "salary_max": null,
+      "posted_date": "2026-06-05",
+      "source": "Glassdoor",
+      "description": "Join NetSol Technologies's growth team to build production systems with AI/ML, Python, PyTorch. This onsite role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://www.glassdoor.com/Job/pakistan-tech-jobs-SRCH_IL.0,8_IN192_KO9,13.htm"
+    },
+    {
+      "id": "c495489c4074a660",
+      "job_title": "Lead MERN Stack Developer — Commerce",
+      "company_name": "Techlogix",
+      "city": "Karachi",
+      "skills": [
+        "React",
+        "Node.js",
+        "MongoDB"
+      ],
+      "experience_level": "Lead/Manager",
+      "job_type": "Onsite",
+      "salary_min": 435000,
+      "salary_max": 505000,
+      "posted_date": "2026-06-05",
+      "source": "Mustakbil.com",
+      "description": "Join Techlogix's commerce team to build production systems with React, Node.js, MongoDB. This onsite role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://www.mustakbil.com/jobs/it-telecom/"
+    },
+    {
+      "id": "57c53e31758a1af8",
+      "job_title": "Junior Cloud DevOps Engineer — Platform",
+      "company_name": "VentureDive",
+      "city": "Islamabad",
+      "skills": [
+        "AWS",
+        "Docker",
+        "Kubernetes"
+      ],
+      "experience_level": "Entry Level",
+      "job_type": "Onsite",
+      "salary_min": 85000,
+      "salary_max": 225000,
+      "posted_date": "2026-06-05",
+      "source": "Glassdoor",
+      "description": "Join VentureDive's platform team to build production systems with AWS, Docker, Kubernetes. This onsite role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://www.glassdoor.com/Job/pakistan-tech-jobs-SRCH_IL.0,8_IN192_KO9,13.htm"
+    },
+    {
+      "id": "6a78a9625489b02a",
+      "job_title": "iOS Engineer — Core Product",
+      "company_name": "Techlogix",
+      "city": "Lahore",
+      "skills": [
+        "Firebase",
+        "iOS",
+        "Swift"
+      ],
+      "experience_level": "Mid Level",
+      "job_type": "Hybrid",
+      "salary_min": 140000,
+      "salary_max": 280000,
+      "posted_date": "2026-06-04",
+      "source": "Rozee.pk",
+      "description": "Join Techlogix's core product team to build production systems with iOS, Swift, Firebase. This hybrid role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://rozee.pk/job/jsearch/q/technology"
+    },
+    {
+      "id": "4b20520aa49960af",
+      "job_title": "Senior Quality Assurance Engineer — Platform",
+      "company_name": "Dubizzle Labs",
+      "city": "Islamabad",
+      "skills": [
+        "QA",
+        "Selenium",
+        "Cypress"
+      ],
+      "experience_level": "Senior",
+      "job_type": "Onsite",
+      "salary_min": null,
+      "salary_max": null,
+      "posted_date": "2026-06-04",
+      "source": "Mustakbil.com",
+      "description": "Join Dubizzle Labs's platform team to build production systems with QA, Selenium, Cypress. This onsite role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://www.mustakbil.com/jobs/it-telecom/"
+    },
+    {
+      "id": "4ccece2fabdd4731",
+      "job_title": "Junior Mobile App Developer — Automation",
+      "company_name": "Arbisoft",
+      "city": "Remote",
+      "skills": [
+        "Flutter",
+        "Dart",
+        "Firebase"
+      ],
+      "experience_level": "Entry Level",
+      "job_type": "Remote",
+      "salary_min": null,
+      "salary_max": null,
+      "posted_date": "2026-06-04",
+      "source": "Mustakbil.com",
+      "description": "Join Arbisoft's automation team to build production systems with Flutter, Dart, Firebase. This remote role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://www.mustakbil.com/jobs/it-telecom/"
+    },
+    {
+      "id": "eeee9a85fe33335d",
+      "job_title": "Machine Learning Engineer — Commerce",
+      "company_name": "Bazaar Technologies",
+      "city": "Lahore",
+      "skills": [
+        "Python",
+        "AI/ML",
+        "PyTorch"
+      ],
+      "experience_level": "Mid Level",
+      "job_type": "Onsite",
+      "salary_min": 175000,
+      "salary_max": 315000,
+      "posted_date": "2026-06-03",
+      "source": "Glassdoor",
+      "description": "Join Bazaar Technologies's commerce team to build production systems with AI/ML, Python, PyTorch. This onsite role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://www.glassdoor.com/Job/pakistan-tech-jobs-SRCH_IL.0,8_IN192_KO9,13.htm"
+    },
+    {
+      "id": "3e306388ea68b84b",
+      "job_title": "Angular Developer — Infrastructure",
+      "company_name": "NorthBay Solutions",
+      "city": "Remote",
+      "skills": [
+        "Node.js",
+        "Angular",
+        "TypeScript"
+      ],
+      "experience_level": "Mid Level",
+      "job_type": "Remote",
+      "salary_min": null,
+      "salary_max": null,
+      "posted_date": "2026-06-03",
+      "source": "Mustakbil.com",
+      "description": "Join NorthBay Solutions's infrastructure team to build production systems with Angular, TypeScript, Node.js. This remote role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://www.mustakbil.com/jobs/it-telecom/"
+    },
+    {
+      "id": "8da2c87f693fce5e",
+      "job_title": "Angular Developer — Growth",
+      "company_name": "i2c Inc.",
+      "city": "Peshawar",
+      "skills": [
+        "Node.js",
+        "Angular",
+        "TypeScript"
+      ],
+      "experience_level": "Mid Level",
+      "job_type": "Onsite",
+      "salary_min": null,
+      "salary_max": null,
+      "posted_date": "2026-06-03",
+      "source": "Glassdoor",
+      "description": "Join i2c Inc.'s growth team to build production systems with Angular, TypeScript, Node.js. This onsite role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://www.glassdoor.com/Job/pakistan-tech-jobs-SRCH_IL.0,8_IN192_KO9,13.htm"
+    },
+    {
+      "id": "27e0b85325880b4f",
+      "job_title": "AI Product Engineer — Infrastructure",
+      "company_name": "Techlogix",
+      "city": "Karachi",
+      "skills": [
+        "Python",
+        "FastAPI",
+        "AI/ML"
+      ],
+      "experience_level": "Mid Level",
+      "job_type": "Onsite",
+      "salary_min": 165000,
+      "salary_max": 235000,
+      "posted_date": "2026-06-03",
+      "source": "Glassdoor",
+      "description": "Join Techlogix's infrastructure team to build production systems with AI/ML, FastAPI, Python. This onsite role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://www.glassdoor.com/Job/pakistan-tech-jobs-SRCH_IL.0,8_IN192_KO9,13.htm"
+    },
+    {
+      "id": "1f6c22504f623525",
+      "job_title": "Senior iOS Engineer — Platform",
+      "company_name": "NetSol Technologies",
+      "city": "Islamabad",
+      "skills": [
+        "Firebase",
+        "iOS",
+        "Swift"
+      ],
+      "experience_level": "Senior",
+      "job_type": "Onsite",
+      "salary_min": null,
+      "salary_max": null,
+      "posted_date": "2026-06-02",
+      "source": "Rozee.pk",
+      "description": "Join NetSol Technologies's platform team to build production systems with iOS, Swift, Firebase. This onsite role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://rozee.pk/job/jsearch/q/technology"
+    },
+    {
+      "id": "ec3a8cdc54db9e46",
+      "job_title": "Quality Assurance Engineer — Payments",
+      "company_name": "Educative",
+      "city": "Islamabad",
+      "skills": [
+        "QA",
+        "Selenium",
+        "Cypress"
+      ],
+      "experience_level": "Mid Level",
+      "job_type": "Onsite",
+      "salary_min": 185000,
+      "salary_max": 255000,
+      "posted_date": "2026-06-02",
+      "source": "Rozee.pk",
+      "description": "Join Educative's payments team to build production systems with QA, Selenium, Cypress. This onsite role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://rozee.pk/job/jsearch/q/technology"
+    },
+    {
+      "id": "ef5c9721fe9fa938",
+      "job_title": "Junior MERN Stack Developer — Growth",
+      "company_name": "NetSol Technologies",
+      "city": "Lahore",
+      "skills": [
+        "React",
+        "Node.js",
+        "MongoDB"
+      ],
+      "experience_level": "Entry Level",
+      "job_type": "Onsite",
+      "salary_min": 75000,
+      "salary_max": 145000,
+      "posted_date": "2026-06-02",
+      "source": "Glassdoor",
+      "description": "Join NetSol Technologies's growth team to build production systems with React, Node.js, MongoDB. This onsite role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://www.glassdoor.com/Job/pakistan-tech-jobs-SRCH_IL.0,8_IN192_KO9,13.htm"
+    },
+    {
+      "id": "263a13153687cdbe",
+      "job_title": "Python Backend Engineer — Growth",
+      "company_name": "Techlogix",
+      "city": "Karachi",
+      "skills": [
+        "Python",
+        "Django",
+        "PostgreSQL"
+      ],
+      "experience_level": "Mid Level",
+      "job_type": "Onsite",
+      "salary_min": null,
+      "salary_max": null,
+      "posted_date": "2026-06-01",
+      "source": "Rozee.pk",
+      "description": "Join Techlogix's growth team to build production systems with Python, Django, PostgreSQL. This onsite role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://rozee.pk/job/jsearch/q/technology"
+    },
+    {
+      "id": "e0998f8f6e23eca2",
+      "job_title": "Junior Python Backend Engineer — Growth",
+      "company_name": "Arbisoft",
+      "city": "Rawalpindi",
+      "skills": [
+        "Python",
+        "Django",
+        "PostgreSQL"
+      ],
+      "experience_level": "Entry Level",
+      "job_type": "Onsite",
+      "salary_min": 55000,
+      "salary_max": 155000,
+      "posted_date": "2026-06-01",
+      "source": "Glassdoor",
+      "description": "Join Arbisoft's growth team to build production systems with Python, Django, PostgreSQL. This onsite role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://www.glassdoor.com/Job/pakistan-tech-jobs-SRCH_IL.0,8_IN192_KO9,13.htm"
+    },
+    {
+      "id": "6ec95993810d8818",
+      "job_title": "AI Product Engineer — Platform",
+      "company_name": "Creative Chaos",
+      "city": "Lahore",
+      "skills": [
+        "Python",
+        "FastAPI",
+        "AI/ML"
+      ],
+      "experience_level": "Mid Level",
+      "job_type": "Onsite",
+      "salary_min": 155000,
+      "salary_max": 225000,
+      "posted_date": "2026-06-01",
+      "source": "Glassdoor",
+      "description": "Join Creative Chaos's platform team to build production systems with AI/ML, FastAPI, Python. This onsite role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://www.glassdoor.com/Job/pakistan-tech-jobs-SRCH_IL.0,8_IN192_KO9,13.htm"
+    },
+    {
+      "id": "57325c5ce9ef0c6d",
+      "job_title": "Senior PHP Web Developer — Payments",
+      "company_name": "Motive",
+      "city": "Lahore",
+      "skills": [
+        "PHP",
+        "Laravel"
+      ],
+      "experience_level": "Senior",
+      "job_type": "Onsite",
+      "salary_min": 290000,
+      "salary_max": 340000,
+      "posted_date": "2026-05-31",
+      "source": "Glassdoor",
+      "description": "Join Motive's payments team to build production systems with PHP, Laravel, MySQL. This onsite role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://www.glassdoor.com/Job/pakistan-tech-jobs-SRCH_IL.0,8_IN192_KO9,13.htm"
+    },
+    {
+      "id": "2ac7b97ce4e220d9",
+      "job_title": "Senior Cloud DevOps Engineer — Payments",
+      "company_name": "Jazz Digital",
+      "city": "Lahore",
+      "skills": [
+        "AWS",
+        "Docker",
+        "Kubernetes"
+      ],
+      "experience_level": "Senior",
+      "job_type": "Hybrid",
+      "salary_min": 310000,
+      "salary_max": 360000,
+      "posted_date": "2026-05-31",
+      "source": "Glassdoor",
+      "description": "Join Jazz Digital's payments team to build production systems with AWS, Docker, Kubernetes. This hybrid role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://www.glassdoor.com/Job/pakistan-tech-jobs-SRCH_IL.0,8_IN192_KO9,13.htm"
+    },
+    {
+      "id": "6aadae317e9f35a1",
+      "job_title": "Senior Angular Developer — Payments",
+      "company_name": "VentureDive",
+      "city": "Remote",
+      "skills": [
+        "Node.js",
+        "Angular",
+        "TypeScript"
+      ],
+      "experience_level": "Senior",
+      "job_type": "Remote",
+      "salary_min": 315000,
+      "salary_max": 385000,
+      "posted_date": "2026-05-31",
+      "source": "Glassdoor",
+      "description": "Join VentureDive's payments team to build production systems with Angular, TypeScript, Node.js. This remote role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://www.glassdoor.com/Job/pakistan-tech-jobs-SRCH_IL.0,8_IN192_KO9,13.htm"
+    },
+    {
+      "id": "8ffbb6281dda34f9",
+      "job_title": "Lead Angular Developer — Automation",
+      "company_name": "Creative Chaos",
+      "city": "Remote",
+      "skills": [
+        "Node.js",
+        "Angular",
+        "TypeScript"
+      ],
+      "experience_level": "Lead/Manager",
+      "job_type": "Remote",
+      "salary_min": 420000,
+      "salary_max": 520000,
+      "posted_date": "2026-05-31",
+      "source": "Rozee.pk",
+      "description": "Join Creative Chaos's automation team to build production systems with Angular, TypeScript, Node.js. This remote role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://rozee.pk/job/jsearch/q/technology"
+    },
+    {
+      "id": "faa42f0eca6b9b5f",
+      "job_title": "Junior Quality Assurance Engineer — Platform",
+      "company_name": "Contour Software",
+      "city": "Karachi",
+      "skills": [
+        "QA",
+        "Selenium",
+        "Cypress"
+      ],
+      "experience_level": "Entry Level",
+      "job_type": "Onsite",
+      "salary_min": null,
+      "salary_max": null,
+      "posted_date": "2026-05-31",
+      "source": "Rozee.pk",
+      "description": "Join Contour Software's platform team to build production systems with QA, Selenium, Cypress. This onsite role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://rozee.pk/job/jsearch/q/technology"
+    },
+    {
+      "id": "512e009da2f8ae32",
+      "job_title": "Junior MERN Stack Developer — Platform",
+      "company_name": "Meezan Digital",
+      "city": "Islamabad",
+      "skills": [
+        "React",
+        "Node.js",
+        "MongoDB"
+      ],
+      "experience_level": "Entry Level",
+      "job_type": "Onsite",
+      "salary_min": 75000,
+      "salary_max": 175000,
+      "posted_date": "2026-05-31",
+      "source": "Mustakbil.com",
+      "description": "Join Meezan Digital's platform team to build production systems with React, Node.js, MongoDB. This onsite role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://www.mustakbil.com/jobs/it-telecom/"
+    },
+    {
+      "id": "7359246c476e10e2",
+      "job_title": "Junior Android Engineer — Commerce",
+      "company_name": "S&P Global",
+      "city": "Islamabad",
+      "skills": [
+        "Firebase",
+        "Android",
+        "Kotlin"
+      ],
+      "experience_level": "Entry Level",
+      "job_type": "Onsite",
+      "salary_min": null,
+      "salary_max": null,
+      "posted_date": "2026-05-31",
+      "source": "Glassdoor",
+      "description": "Join S&P Global's commerce team to build production systems with Android, Kotlin, Firebase. This onsite role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://www.glassdoor.com/Job/pakistan-tech-jobs-SRCH_IL.0,8_IN192_KO9,13.htm"
+    },
+    {
+      "id": "f22ef96bf98809fc",
+      "job_title": "Full Stack Developer — Infrastructure",
+      "company_name": "Tkxel",
+      "city": "Karachi",
+      "skills": [
+        "Next.js",
+        "Node.js",
+        "PostgreSQL"
+      ],
+      "experience_level": "Mid Level",
+      "job_type": "Hybrid",
+      "salary_min": 140000,
+      "salary_max": 210000,
+      "posted_date": "2026-05-31",
+      "source": "Glassdoor",
+      "description": "Join Tkxel's infrastructure team to build production systems with Next.js, Node.js, PostgreSQL. This hybrid role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://www.glassdoor.com/Job/pakistan-tech-jobs-SRCH_IL.0,8_IN192_KO9,13.htm"
+    },
+    {
+      "id": "cb4281f5beea6d03",
+      "job_title": "iOS Engineer — Core Product",
+      "company_name": "Meezan Digital",
+      "city": "Rawalpindi",
+      "skills": [
+        "Firebase",
+        "iOS",
+        "Swift"
+      ],
+      "experience_level": "Mid Level",
+      "job_type": "Onsite",
+      "salary_min": 175000,
+      "salary_max": 315000,
+      "posted_date": "2026-05-30",
+      "source": "Glassdoor",
+      "description": "Join Meezan Digital's core product team to build production systems with iOS, Swift, Firebase. This onsite role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://www.glassdoor.com/Job/pakistan-tech-jobs-SRCH_IL.0,8_IN192_KO9,13.htm"
+    },
+    {
+      "id": "a6d67b5fda96342a",
+      "job_title": "Senior Frontend Engineer — Automation",
+      "company_name": "10Pearls",
+      "city": "Rawalpindi",
+      "skills": [
+        "React",
+        "TypeScript",
+        "JavaScript"
+      ],
+      "experience_level": "Senior",
+      "job_type": "Onsite",
+      "salary_min": 270000,
+      "salary_max": 410000,
+      "posted_date": "2026-05-30",
+      "source": "Rozee.pk",
+      "description": "Join 10Pearls's automation team to build production systems with React, TypeScript, JavaScript. This onsite role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://rozee.pk/job/jsearch/q/technology"
+    },
+    {
+      "id": "91565badbf6f853c",
+      "job_title": "Senior AI Product Engineer — Automation",
+      "company_name": "Meezan Digital",
+      "city": "Karachi",
+      "skills": [
+        "Python",
+        "FastAPI",
+        "AI/ML"
+      ],
+      "experience_level": "Senior",
+      "job_type": "Onsite",
+      "salary_min": 285000,
+      "salary_max": 425000,
+      "posted_date": "2026-05-30",
+      "source": "Glassdoor",
+      "description": "Join Meezan Digital's automation team to build production systems with AI/ML, FastAPI, Python. This onsite role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://www.glassdoor.com/Job/pakistan-tech-jobs-SRCH_IL.0,8_IN192_KO9,13.htm"
+    },
+    {
+      "id": "ceb6988d11d6d98a",
+      "job_title": "Quality Assurance Engineer — Commerce",
+      "company_name": "LMKR",
+      "city": "Islamabad",
+      "skills": [
+        "QA",
+        "Selenium",
+        "Cypress"
+      ],
+      "experience_level": "Mid Level",
+      "job_type": "Hybrid",
+      "salary_min": null,
+      "salary_max": null,
+      "posted_date": "2026-05-30",
+      "source": "Rozee.pk",
+      "description": "Join LMKR's commerce team to build production systems with QA, Selenium, Cypress. This hybrid role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://rozee.pk/job/jsearch/q/technology"
+    },
+    {
+      "id": "c541e3b376302d16",
+      "job_title": "Lead AI Product Engineer — Platform",
+      "company_name": "Devsinc",
+      "city": "Remote",
+      "skills": [
+        "Python",
+        "FastAPI",
+        "AI/ML"
+      ],
+      "experience_level": "Lead/Manager",
+      "job_type": "Remote",
+      "salary_min": 440000,
+      "salary_max": 540000,
+      "posted_date": "2026-05-30",
+      "source": "Glassdoor",
+      "description": "Join Devsinc's platform team to build production systems with AI/ML, FastAPI, Python. This remote role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://www.glassdoor.com/Job/pakistan-tech-jobs-SRCH_IL.0,8_IN192_KO9,13.htm"
+    },
+    {
+      "id": "c6ab5648162e57b3",
+      "job_title": "Junior Quality Assurance Engineer — Payments",
+      "company_name": "PureLogics",
+      "city": "Karachi",
+      "skills": [
+        "QA",
+        "Selenium",
+        "Cypress"
+      ],
+      "experience_level": "Entry Level",
+      "job_type": "Onsite",
+      "salary_min": 75000,
+      "salary_max": 175000,
+      "posted_date": "2026-05-30",
+      "source": "Glassdoor",
+      "description": "Join PureLogics's payments team to build production systems with QA, Selenium, Cypress. This onsite role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://www.glassdoor.com/Job/pakistan-tech-jobs-SRCH_IL.0,8_IN192_KO9,13.htm"
+    },
+    {
+      "id": "a229b6861c2e5d3e",
+      "job_title": "Junior Java Software Engineer — Infrastructure",
+      "company_name": "LMKR",
+      "city": "Remote",
+      "skills": [
+        "Java",
+        "Spring",
+        "SQL"
+      ],
+      "experience_level": "Entry Level",
+      "job_type": "Remote",
+      "salary_min": null,
+      "salary_max": null,
+      "posted_date": "2026-05-30",
+      "source": "Rozee.pk",
+      "description": "Join LMKR's infrastructure team to build production systems with Java, Spring, SQL. This remote role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://rozee.pk/job/jsearch/q/technology"
+    },
+    {
+      "id": "2ec6c4e083f75f2a",
+      "job_title": "Junior Frontend Engineer — Payments",
+      "company_name": "i2c Inc.",
+      "city": "Remote",
+      "skills": [
+        "React",
+        "TypeScript",
+        "JavaScript"
+      ],
+      "experience_level": "Entry Level",
+      "job_type": "Remote",
+      "salary_min": 100000,
+      "salary_max": 200000,
+      "posted_date": "2026-05-30",
+      "source": "Mustakbil.com",
+      "description": "Join i2c Inc.'s payments team to build production systems with React, TypeScript, JavaScript. This remote role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://www.mustakbil.com/jobs/it-telecom/"
+    },
+    {
+      "id": "6508d866049494a5",
+      "job_title": "Angular Developer — Platform",
+      "company_name": "Bazaar Technologies",
+      "city": "Remote",
+      "skills": [
+        "Node.js",
+        "Angular",
+        "TypeScript"
+      ],
+      "experience_level": "Mid Level",
+      "job_type": "Remote",
+      "salary_min": null,
+      "salary_max": null,
+      "posted_date": "2026-05-30",
+      "source": "Glassdoor",
+      "description": "Join Bazaar Technologies's platform team to build production systems with Angular, TypeScript, Node.js. This remote role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://www.glassdoor.com/Job/pakistan-tech-jobs-SRCH_IL.0,8_IN192_KO9,13.htm"
+    },
+    {
+      "id": "b7c3fe058a408e70",
+      "job_title": "Senior MERN Stack Developer — Analytics",
+      "company_name": "Motive",
+      "city": "Lahore",
+      "skills": [
+        "React",
+        "Node.js",
+        "MongoDB"
+      ],
+      "experience_level": "Senior",
+      "job_type": "Hybrid",
+      "salary_min": 290000,
+      "salary_max": 390000,
+      "posted_date": "2026-05-29",
+      "source": "Rozee.pk",
+      "description": "Join Motive's analytics team to build production systems with React, Node.js, MongoDB. This hybrid role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://rozee.pk/job/jsearch/q/technology"
+    },
+    {
+      "id": "4837c8b2c4d58183",
+      "job_title": "Senior Data Engineer — Platform",
+      "company_name": "Confiz",
+      "city": "Karachi",
+      "skills": [
+        "Python",
+        "SQL",
+        "AWS"
+      ],
+      "experience_level": "Senior",
+      "job_type": "Hybrid",
+      "salary_min": 305000,
+      "salary_max": 445000,
+      "posted_date": "2026-05-29",
+      "source": "Glassdoor",
+      "description": "Join Confiz's platform team to build production systems with Python, SQL, AWS. This hybrid role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://www.glassdoor.com/Job/pakistan-tech-jobs-SRCH_IL.0,8_IN192_KO9,13.htm"
+    },
+    {
+      "id": "2dad086b039d1d4b",
+      "job_title": "Lead Full Stack Developer — Analytics",
+      "company_name": "Techlogix",
+      "city": "Rawalpindi",
+      "skills": [
+        "Next.js",
+        "Node.js",
+        "PostgreSQL"
+      ],
+      "experience_level": "Lead/Manager",
+      "job_type": "Onsite",
+      "salary_min": null,
+      "salary_max": null,
+      "posted_date": "2026-05-29",
+      "source": "Glassdoor",
+      "description": "Join Techlogix's analytics team to build production systems with Next.js, Node.js, PostgreSQL. This onsite role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://www.glassdoor.com/Job/pakistan-tech-jobs-SRCH_IL.0,8_IN192_KO9,13.htm"
+    },
+    {
+      "id": "c768be3f2845b287",
+      "job_title": "Lead Frontend Engineer — Commerce",
+      "company_name": "Tkxel",
+      "city": "Lahore",
+      "skills": [
+        "React",
+        "TypeScript",
+        "JavaScript"
+      ],
+      "experience_level": "Lead/Manager",
+      "job_type": "Onsite",
+      "salary_min": 435000,
+      "salary_max": 575000,
+      "posted_date": "2026-05-29",
+      "source": "Mustakbil.com",
+      "description": "Join Tkxel's commerce team to build production systems with React, TypeScript, JavaScript. This onsite role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://www.mustakbil.com/jobs/it-telecom/"
+    },
+    {
+      "id": "cb21bc30889c0aba",
+      "job_title": "Frontend Engineer — Infrastructure",
+      "company_name": "Jazz Digital",
+      "city": "Remote",
+      "skills": [
+        "React",
+        "TypeScript",
+        "JavaScript"
+      ],
+      "experience_level": "Mid Level",
+      "job_type": "Remote",
+      "salary_min": null,
+      "salary_max": null,
+      "posted_date": "2026-05-29",
+      "source": "Mustakbil.com",
+      "description": "Join Jazz Digital's infrastructure team to build production systems with React, TypeScript, JavaScript. This remote role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://www.mustakbil.com/jobs/it-telecom/"
+    },
+    {
+      "id": "f92f4af1af3de4de",
+      "job_title": "Senior Machine Learning Engineer — Platform",
+      "company_name": "VentureDive",
+      "city": "Islamabad",
+      "skills": [
+        "Python",
+        "AI/ML",
+        "PyTorch"
+      ],
+      "experience_level": "Senior",
+      "job_type": "Onsite",
+      "salary_min": 275000,
+      "salary_max": 415000,
+      "posted_date": "2026-05-28",
+      "source": "Rozee.pk",
+      "description": "Join VentureDive's platform team to build production systems with AI/ML, Python, PyTorch. This onsite role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://rozee.pk/job/jsearch/q/technology"
+    },
+    {
+      "id": "8e8a2c00737d8b08",
+      "job_title": "PHP Web Developer — Infrastructure",
+      "company_name": "S&P Global",
+      "city": "Karachi",
+      "skills": [
+        "PHP",
+        "Laravel"
+      ],
+      "experience_level": "Mid Level",
+      "job_type": "Hybrid",
+      "salary_min": null,
+      "salary_max": null,
+      "posted_date": "2026-05-28",
+      "source": "Glassdoor",
+      "description": "Join S&P Global's infrastructure team to build production systems with PHP, Laravel, MySQL. This hybrid role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://www.glassdoor.com/Job/pakistan-tech-jobs-SRCH_IL.0,8_IN192_KO9,13.htm"
+    },
+    {
+      "id": "1b733a11b7742956",
+      "job_title": "Lead Frontend Engineer — Analytics",
+      "company_name": "Meezan Digital",
+      "city": "Lahore",
+      "skills": [
+        "React",
+        "TypeScript",
+        "JavaScript"
+      ],
+      "experience_level": "Lead/Manager",
+      "job_type": "Hybrid",
+      "salary_min": 445000,
+      "salary_max": 495000,
+      "posted_date": "2026-05-28",
+      "source": "Rozee.pk",
+      "description": "Join Meezan Digital's analytics team to build production systems with React, TypeScript, JavaScript. This hybrid role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://rozee.pk/job/jsearch/q/technology"
+    },
+    {
+      "id": "3a3648b2bb8a405d",
+      "job_title": "Senior Mobile App Developer — Commerce",
+      "company_name": "S&P Global",
+      "city": "Lahore",
+      "skills": [
+        "Flutter",
+        "Dart",
+        "Firebase"
+      ],
+      "experience_level": "Senior",
+      "job_type": "Onsite",
+      "salary_min": 295000,
+      "salary_max": 345000,
+      "posted_date": "2026-05-27",
+      "source": "Rozee.pk",
+      "description": "Join S&P Global's commerce team to build production systems with Flutter, Dart, Firebase. This onsite role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://rozee.pk/job/jsearch/q/technology"
+    },
+    {
+      "id": "82b205881a9defc7",
+      "job_title": "Lead Java Software Engineer — Platform",
+      "company_name": "NorthBay Solutions",
+      "city": "Karachi",
+      "skills": [
+        "Java",
+        "Spring",
+        "SQL"
+      ],
+      "experience_level": "Lead/Manager",
+      "job_type": "Onsite",
+      "salary_min": null,
+      "salary_max": null,
+      "posted_date": "2026-05-27",
+      "source": "Rozee.pk",
+      "description": "Join NorthBay Solutions's platform team to build production systems with Java, Spring, SQL. This onsite role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://rozee.pk/job/jsearch/q/technology"
+    },
+    {
+      "id": "d8220d2bc383af43",
+      "job_title": "Lead Frontend Engineer — Automation",
+      "company_name": "Devsinc",
+      "city": "Karachi",
+      "skills": [
+        "React",
+        "TypeScript",
+        "JavaScript"
+      ],
+      "experience_level": "Lead/Manager",
+      "job_type": "Onsite",
+      "salary_min": null,
+      "salary_max": null,
+      "posted_date": "2026-05-27",
+      "source": "Rozee.pk",
+      "description": "Join Devsinc's automation team to build production systems with React, TypeScript, JavaScript. This onsite role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://rozee.pk/job/jsearch/q/technology"
+    },
+    {
+      "id": "8ca0922c516b1ff8",
+      "job_title": "Lead Android Engineer — Core Product",
+      "company_name": "Dubizzle Labs",
+      "city": "Lahore",
+      "skills": [
+        "Firebase",
+        "Android",
+        "Kotlin"
+      ],
+      "experience_level": "Lead/Manager",
+      "job_type": "Onsite",
+      "salary_min": 445000,
+      "salary_max": 545000,
+      "posted_date": "2026-05-27",
+      "source": "Rozee.pk",
+      "description": "Join Dubizzle Labs's core product team to build production systems with Android, Kotlin, Firebase. This onsite role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://rozee.pk/job/jsearch/q/technology"
+    },
+    {
+      "id": "c6d8277418d05d05",
+      "job_title": "Junior Data Engineer — Analytics",
+      "company_name": "Careem",
+      "city": "Remote",
+      "skills": [
+        "Python",
+        "SQL",
+        "AWS"
+      ],
+      "experience_level": "Entry Level",
+      "job_type": "Remote",
+      "salary_min": null,
+      "salary_max": null,
+      "posted_date": "2026-05-27",
+      "source": "Mustakbil.com",
+      "description": "Join Careem's analytics team to build production systems with Python, SQL, AWS. This remote role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://www.mustakbil.com/jobs/it-telecom/"
+    },
+    {
+      "id": "b89901aebf43b545",
+      "job_title": "iOS Engineer — Infrastructure",
+      "company_name": "Techlogix",
+      "city": "Remote",
+      "skills": [
+        "Firebase",
+        "iOS",
+        "Swift"
+      ],
+      "experience_level": "Mid Level",
+      "job_type": "Remote",
+      "salary_min": 165000,
+      "salary_max": 235000,
+      "posted_date": "2026-05-26",
+      "source": "Mustakbil.com",
+      "description": "Join Techlogix's infrastructure team to build production systems with iOS, Swift, Firebase. This remote role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://www.mustakbil.com/jobs/it-telecom/"
+    },
+    {
+      "id": "93b3583a98ec6d40",
+      "job_title": "Quality Assurance Engineer — Analytics",
+      "company_name": "Motive",
+      "city": "Karachi",
+      "skills": [
+        "QA",
+        "Selenium",
+        "Cypress"
+      ],
+      "experience_level": "Mid Level",
+      "job_type": "Onsite",
+      "salary_min": 130000,
+      "salary_max": 180000,
+      "posted_date": "2026-05-26",
+      "source": "Rozee.pk",
+      "description": "Join Motive's analytics team to build production systems with QA, Selenium, Cypress. This onsite role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://rozee.pk/job/jsearch/q/technology"
+    },
+    {
+      "id": "f9c4300168bfd297",
+      "job_title": "Python Backend Engineer — Growth",
+      "company_name": "Bykea",
+      "city": "Rawalpindi",
+      "skills": [
+        "Python",
+        "Django",
+        "PostgreSQL"
+      ],
+      "experience_level": "Mid Level",
+      "job_type": "Onsite",
+      "salary_min": 140000,
+      "salary_max": 210000,
+      "posted_date": "2026-05-26",
+      "source": "Rozee.pk",
+      "description": "Join Bykea's growth team to build production systems with Python, Django, PostgreSQL. This onsite role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://rozee.pk/job/jsearch/q/technology"
+    },
+    {
+      "id": "c033bd47385a699b",
+      "job_title": "Frontend Engineer — Commerce",
+      "company_name": "VentureDive",
+      "city": "Islamabad",
+      "skills": [
+        "React",
+        "TypeScript",
+        "JavaScript"
+      ],
+      "experience_level": "Mid Level",
+      "job_type": "Hybrid",
+      "salary_min": null,
+      "salary_max": null,
+      "posted_date": "2026-05-26",
+      "source": "Rozee.pk",
+      "description": "Join VentureDive's commerce team to build production systems with React, TypeScript, JavaScript. This hybrid role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://rozee.pk/job/jsearch/q/technology"
+    },
+    {
+      "id": "14f0739dd5d4d16c",
+      "job_title": "Data Engineer — Analytics",
+      "company_name": "Dastgyr",
+      "city": "Lahore",
+      "skills": [
+        "Python",
+        "SQL",
+        "AWS"
+      ],
+      "experience_level": "Mid Level",
+      "job_type": "Onsite",
+      "salary_min": null,
+      "salary_max": null,
+      "posted_date": "2026-05-26",
+      "source": "Mustakbil.com",
+      "description": "Join Dastgyr's analytics team to build production systems with Python, SQL, AWS. This onsite role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://www.mustakbil.com/jobs/it-telecom/"
+    },
+    {
+      "id": "b727283acc94a221",
+      "job_title": "Angular Developer — Infrastructure",
+      "company_name": "10Pearls",
+      "city": "Remote",
+      "skills": [
+        "Node.js",
+        "Angular",
+        "TypeScript"
+      ],
+      "experience_level": "Mid Level",
+      "job_type": "Remote",
+      "salary_min": 170000,
+      "salary_max": 240000,
+      "posted_date": "2026-05-26",
+      "source": "Glassdoor",
+      "description": "Join 10Pearls's infrastructure team to build production systems with Angular, TypeScript, Node.js. This remote role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://www.glassdoor.com/Job/pakistan-tech-jobs-SRCH_IL.0,8_IN192_KO9,13.htm"
+    },
+    {
+      "id": "cbe08c3eb7bc4847",
+      "job_title": "Senior Python Backend Engineer — Payments",
+      "company_name": "Meezan Digital",
+      "city": "Karachi",
+      "skills": [
+        "Python",
+        "Django",
+        "PostgreSQL"
+      ],
+      "experience_level": "Senior",
+      "job_type": "Onsite",
+      "salary_min": 295000,
+      "salary_max": 395000,
+      "posted_date": "2026-05-25",
+      "source": "Glassdoor",
+      "description": "Join Meezan Digital's payments team to build production systems with Python, Django, PostgreSQL. This onsite role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://www.glassdoor.com/Job/pakistan-tech-jobs-SRCH_IL.0,8_IN192_KO9,13.htm"
+    },
+    {
+      "id": "66cd72ff9e536eb9",
+      "job_title": "Mobile App Developer — Infrastructure",
+      "company_name": "Confiz",
+      "city": "Karachi",
+      "skills": [
+        "Flutter",
+        "Dart",
+        "Firebase"
+      ],
+      "experience_level": "Mid Level",
+      "job_type": "Hybrid",
+      "salary_min": 145000,
+      "salary_max": 285000,
+      "posted_date": "2026-05-25",
+      "source": "Glassdoor",
+      "description": "Join Confiz's infrastructure team to build production systems with Flutter, Dart, Firebase. This hybrid role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://www.glassdoor.com/Job/pakistan-tech-jobs-SRCH_IL.0,8_IN192_KO9,13.htm"
+    },
+    {
+      "id": "4b94a691d87546c3",
+      "job_title": "MERN Stack Developer — Infrastructure",
+      "company_name": "Confiz",
+      "city": "Remote",
+      "skills": [
+        "React",
+        "Node.js",
+        "MongoDB"
+      ],
+      "experience_level": "Mid Level",
+      "job_type": "Remote",
+      "salary_min": 155000,
+      "salary_max": 225000,
+      "posted_date": "2026-05-25",
+      "source": "Glassdoor",
+      "description": "Join Confiz's infrastructure team to build production systems with React, Node.js, MongoDB. This remote role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://www.glassdoor.com/Job/pakistan-tech-jobs-SRCH_IL.0,8_IN192_KO9,13.htm"
+    },
+    {
+      "id": "a6f3228bb4541113",
+      "job_title": "Android Engineer — Payments",
+      "company_name": "Tkxel",
+      "city": "Remote",
+      "skills": [
+        "Firebase",
+        "Android",
+        "Kotlin"
+      ],
+      "experience_level": "Mid Level",
+      "job_type": "Remote",
+      "salary_min": 140000,
+      "salary_max": 240000,
+      "posted_date": "2026-05-25",
+      "source": "Rozee.pk",
+      "description": "Join Tkxel's payments team to build production systems with Android, Kotlin, Firebase. This remote role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://rozee.pk/job/jsearch/q/technology"
+    },
+    {
+      "id": "ad79330b05f5c91f",
+      "job_title": "Senior Data Engineer — Infrastructure",
+      "company_name": "NorthBay Solutions",
+      "city": "Remote",
+      "skills": [
+        "Python",
+        "SQL",
+        "AWS"
+      ],
+      "experience_level": "Senior",
+      "job_type": "Remote",
+      "salary_min": 280000,
+      "salary_max": 420000,
+      "posted_date": "2026-05-24",
+      "source": "Mustakbil.com",
+      "description": "Join NorthBay Solutions's infrastructure team to build production systems with Python, SQL, AWS. This remote role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://www.mustakbil.com/jobs/it-telecom/"
+    },
+    {
+      "id": "5b53af98146da0c3",
+      "job_title": "Junior Android Engineer — Core Product",
+      "company_name": "i2c Inc.",
+      "city": "Islamabad",
+      "skills": [
+        "Firebase",
+        "Android",
+        "Kotlin"
+      ],
+      "experience_level": "Entry Level",
+      "job_type": "Hybrid",
+      "salary_min": 65000,
+      "salary_max": 165000,
+      "posted_date": "2026-05-24",
+      "source": "Glassdoor",
+      "description": "Join i2c Inc.'s core product team to build production systems with Android, Kotlin, Firebase. This hybrid role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://www.glassdoor.com/Job/pakistan-tech-jobs-SRCH_IL.0,8_IN192_KO9,13.htm"
+    },
+    {
+      "id": "e672d85de76cc841",
+      "job_title": "Full Stack Developer — Platform",
+      "company_name": "Systems Limited",
+      "city": "Rawalpindi",
+      "skills": [
+        "Next.js",
+        "Node.js",
+        "PostgreSQL"
+      ],
+      "experience_level": "Mid Level",
+      "job_type": "Onsite",
+      "salary_min": null,
+      "salary_max": null,
+      "posted_date": "2026-05-24",
+      "source": "Mustakbil.com",
+      "description": "Join Systems Limited's platform team to build production systems with Next.js, Node.js, PostgreSQL. This onsite role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://www.mustakbil.com/jobs/it-telecom/"
+    },
+    {
+      "id": "5411f76e526a21e8",
+      "job_title": "Angular Developer — Platform",
+      "company_name": "i2c Inc.",
+      "city": "Islamabad",
+      "skills": [
+        "Node.js",
+        "Angular",
+        "TypeScript"
+      ],
+      "experience_level": "Mid Level",
+      "job_type": "Onsite",
+      "salary_min": null,
+      "salary_max": null,
+      "posted_date": "2026-05-24",
+      "source": "Glassdoor",
+      "description": "Join i2c Inc.'s platform team to build production systems with Angular, TypeScript, Node.js. This onsite role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://www.glassdoor.com/Job/pakistan-tech-jobs-SRCH_IL.0,8_IN192_KO9,13.htm"
+    },
+    {
+      "id": "9311b1d36eee1bee",
+      "job_title": "iOS Engineer — Platform",
+      "company_name": "Educative",
+      "city": "Islamabad",
+      "skills": [
+        "Firebase",
+        "iOS",
+        "Swift"
+      ],
+      "experience_level": "Mid Level",
+      "job_type": "Onsite",
+      "salary_min": 160000,
+      "salary_max": 260000,
+      "posted_date": "2026-05-23",
+      "source": "Mustakbil.com",
+      "description": "Join Educative's platform team to build production systems with iOS, Swift, Firebase. This onsite role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://www.mustakbil.com/jobs/it-telecom/"
+    },
+    {
+      "id": "c0663316cc0ea154",
+      "job_title": "Senior MERN Stack Developer — Platform",
+      "company_name": "Careem",
+      "city": "Rawalpindi",
+      "skills": [
+        "React",
+        "Node.js",
+        "MongoDB"
+      ],
+      "experience_level": "Senior",
+      "job_type": "Hybrid",
+      "salary_min": 265000,
+      "salary_max": 365000,
+      "posted_date": "2026-05-23",
+      "source": "Rozee.pk",
+      "description": "Join Careem's platform team to build production systems with React, Node.js, MongoDB. This hybrid role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://rozee.pk/job/jsearch/q/technology"
+    },
+    {
+      "id": "305bf2b4cbe45cf7",
+      "job_title": "Lead Frontend Engineer — Infrastructure",
+      "company_name": "Dastgyr",
+      "city": "Karachi",
+      "skills": [
+        "React",
+        "TypeScript",
+        "JavaScript"
+      ],
+      "experience_level": "Lead/Manager",
+      "job_type": "Onsite",
+      "salary_min": 420000,
+      "salary_max": 560000,
+      "posted_date": "2026-05-23",
+      "source": "Mustakbil.com",
+      "description": "Join Dastgyr's infrastructure team to build production systems with React, TypeScript, JavaScript. This onsite role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://www.mustakbil.com/jobs/it-telecom/"
+    },
+    {
+      "id": "6676ccff36932eae",
+      "job_title": "Junior Java Software Engineer — Automation",
+      "company_name": "Emumba",
+      "city": "Lahore",
+      "skills": [
+        "Java",
+        "Spring",
+        "SQL"
+      ],
+      "experience_level": "Entry Level",
+      "job_type": "Hybrid",
+      "salary_min": 90000,
+      "salary_max": 140000,
+      "posted_date": "2026-05-23",
+      "source": "Glassdoor",
+      "description": "Join Emumba's automation team to build production systems with Java, Spring, SQL. This hybrid role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://www.glassdoor.com/Job/pakistan-tech-jobs-SRCH_IL.0,8_IN192_KO9,13.htm"
+    },
+    {
+      "id": "4e61d0630907ac82",
+      "job_title": "Senior MERN Stack Developer — Infrastructure",
+      "company_name": "LMKR",
+      "city": "Lahore",
+      "skills": [
+        "React",
+        "Node.js",
+        "MongoDB"
+      ],
+      "experience_level": "Senior",
+      "job_type": "Hybrid",
+      "salary_min": 275000,
+      "salary_max": 345000,
+      "posted_date": "2026-05-22",
+      "source": "Rozee.pk",
+      "description": "Join LMKR's infrastructure team to build production systems with React, Node.js, MongoDB. This hybrid role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://rozee.pk/job/jsearch/q/technology"
+    },
+    {
+      "id": "e70d4331ef63d48b",
+      "job_title": "Senior Cloud DevOps Engineer — Payments",
+      "company_name": "Dastgyr",
+      "city": "Lahore",
+      "skills": [
+        "AWS",
+        "Docker",
+        "Kubernetes"
+      ],
+      "experience_level": "Senior",
+      "job_type": "Hybrid",
+      "salary_min": 300000,
+      "salary_max": 440000,
+      "posted_date": "2026-05-22",
+      "source": "Rozee.pk",
+      "description": "Join Dastgyr's payments team to build production systems with AWS, Docker, Kubernetes. This hybrid role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://rozee.pk/job/jsearch/q/technology"
+    },
+    {
+      "id": "e4d03c51fc27df6f",
+      "job_title": "Quality Assurance Engineer — Infrastructure",
+      "company_name": "Motive",
+      "city": "Remote",
+      "skills": [
+        "QA",
+        "Selenium",
+        "Cypress"
+      ],
+      "experience_level": "Mid Level",
+      "job_type": "Remote",
+      "salary_min": 185000,
+      "salary_max": 255000,
+      "posted_date": "2026-05-22",
+      "source": "Mustakbil.com",
+      "description": "Join Motive's infrastructure team to build production systems with QA, Selenium, Cypress. This remote role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://www.mustakbil.com/jobs/it-telecom/"
+    },
+    {
+      "id": "2782ba030a5c8a50",
+      "job_title": "Python Backend Engineer — Platform",
+      "company_name": "Careem",
+      "city": "Lahore",
+      "skills": [
+        "Python",
+        "Django",
+        "PostgreSQL"
+      ],
+      "experience_level": "Mid Level",
+      "job_type": "Hybrid",
+      "salary_min": 175000,
+      "salary_max": 225000,
+      "posted_date": "2026-05-22",
+      "source": "Rozee.pk",
+      "description": "Join Careem's platform team to build production systems with Python, Django, PostgreSQL. This hybrid role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://rozee.pk/job/jsearch/q/technology"
+    },
+    {
+      "id": "b39337b2208a6b37",
+      "job_title": "Lead Cloud DevOps Engineer — Analytics",
+      "company_name": "Meezan Digital",
+      "city": "Remote",
+      "skills": [
+        "AWS",
+        "Docker",
+        "Kubernetes"
+      ],
+      "experience_level": "Lead/Manager",
+      "job_type": "Remote",
+      "salary_min": 445000,
+      "salary_max": 495000,
+      "posted_date": "2026-05-22",
+      "source": "Rozee.pk",
+      "description": "Join Meezan Digital's analytics team to build production systems with AWS, Docker, Kubernetes. This remote role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://rozee.pk/job/jsearch/q/technology"
+    },
+    {
+      "id": "d9f8023cb94a7351",
+      "job_title": "Senior Java Software Engineer — Automation",
+      "company_name": "S&P Global",
+      "city": "Lahore",
+      "skills": [
+        "Java",
+        "Spring",
+        "SQL"
+      ],
+      "experience_level": "Senior",
+      "job_type": "Hybrid",
+      "salary_min": 270000,
+      "salary_max": 410000,
+      "posted_date": "2026-05-21",
+      "source": "Glassdoor",
+      "description": "Join S&P Global's automation team to build production systems with Java, Spring, SQL. This hybrid role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://www.glassdoor.com/Job/pakistan-tech-jobs-SRCH_IL.0,8_IN192_KO9,13.htm"
+    },
+    {
+      "id": "16bfb1792bdb542d",
+      "job_title": "Python Backend Engineer — Core Product",
+      "company_name": "Techlogix",
+      "city": "Islamabad",
+      "skills": [
+        "Python",
+        "Django",
+        "PostgreSQL"
+      ],
+      "experience_level": "Mid Level",
+      "job_type": "Hybrid",
+      "salary_min": null,
+      "salary_max": null,
+      "posted_date": "2026-05-21",
+      "source": "Glassdoor",
+      "description": "Join Techlogix's core product team to build production systems with Python, Django, PostgreSQL. This hybrid role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://www.glassdoor.com/Job/pakistan-tech-jobs-SRCH_IL.0,8_IN192_KO9,13.htm"
+    },
+    {
+      "id": "cb17e190549ceae9",
+      "job_title": "Mobile App Developer — Platform",
+      "company_name": "Dastgyr",
+      "city": "Remote",
+      "skills": [
+        "Flutter",
+        "Dart",
+        "Firebase"
+      ],
+      "experience_level": "Mid Level",
+      "job_type": "Remote",
+      "salary_min": 135000,
+      "salary_max": 185000,
+      "posted_date": "2026-05-21",
+      "source": "Rozee.pk",
+      "description": "Join Dastgyr's platform team to build production systems with Flutter, Dart, Firebase. This remote role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://rozee.pk/job/jsearch/q/technology"
+    },
+    {
+      "id": "c56ab46d47d7708a",
+      "job_title": "MERN Stack Developer — Automation",
+      "company_name": "Dastgyr",
+      "city": "Islamabad",
+      "skills": [
+        "React",
+        "Node.js",
+        "MongoDB"
+      ],
+      "experience_level": "Mid Level",
+      "job_type": "Hybrid",
+      "salary_min": 145000,
+      "salary_max": 245000,
+      "posted_date": "2026-05-21",
+      "source": "Rozee.pk",
+      "description": "Join Dastgyr's automation team to build production systems with React, Node.js, MongoDB. This hybrid role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://rozee.pk/job/jsearch/q/technology"
+    },
+    {
+      "id": "a18737a1fe763ed7",
+      "job_title": "Lead Python Backend Engineer — Analytics",
+      "company_name": "NetSol Technologies",
+      "city": "Islamabad",
+      "skills": [
+        "Python",
+        "Django",
+        "PostgreSQL"
+      ],
+      "experience_level": "Lead/Manager",
+      "job_type": "Hybrid",
+      "salary_min": null,
+      "salary_max": null,
+      "posted_date": "2026-05-21",
+      "source": "Glassdoor",
+      "description": "Join NetSol Technologies's analytics team to build production systems with Python, Django, PostgreSQL. This hybrid role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://www.glassdoor.com/Job/pakistan-tech-jobs-SRCH_IL.0,8_IN192_KO9,13.htm"
+    },
+    {
+      "id": "25a601f59ec9ddcc",
+      "job_title": "iOS Engineer — Analytics",
+      "company_name": "Afiniti",
+      "city": "Karachi",
+      "skills": [
+        "Firebase",
+        "iOS",
+        "Swift"
+      ],
+      "experience_level": "Mid Level",
+      "job_type": "Onsite",
+      "salary_min": null,
+      "salary_max": null,
+      "posted_date": "2026-05-20",
+      "source": "Glassdoor",
+      "description": "Join Afiniti's analytics team to build production systems with iOS, Swift, Firebase. This onsite role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://www.glassdoor.com/Job/pakistan-tech-jobs-SRCH_IL.0,8_IN192_KO9,13.htm"
+    },
+    {
+      "id": "281239b152a7c0b6",
+      "job_title": "Quality Assurance Engineer — Analytics",
+      "company_name": "Motive",
+      "city": "Lahore",
+      "skills": [
+        "QA",
+        "Selenium",
+        "Cypress"
+      ],
+      "experience_level": "Mid Level",
+      "job_type": "Onsite",
+      "salary_min": 150000,
+      "salary_max": 200000,
+      "posted_date": "2026-05-20",
+      "source": "Rozee.pk",
+      "description": "Join Motive's analytics team to build production systems with QA, Selenium, Cypress. This onsite role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://rozee.pk/job/jsearch/q/technology"
+    },
+    {
+      "id": "a34de1d998cd056e",
+      "job_title": "Junior PHP Web Developer — Commerce",
+      "company_name": "Arbisoft",
+      "city": "Remote",
+      "skills": [
+        "PHP",
+        "Laravel"
+      ],
+      "experience_level": "Entry Level",
+      "job_type": "Remote",
+      "salary_min": 75000,
+      "salary_max": 145000,
+      "posted_date": "2026-05-20",
+      "source": "Glassdoor",
+      "description": "Join Arbisoft's commerce team to build production systems with PHP, Laravel, MySQL. This remote role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://www.glassdoor.com/Job/pakistan-tech-jobs-SRCH_IL.0,8_IN192_KO9,13.htm"
+    },
+    {
+      "id": "5e728ff336ca8c45",
+      "job_title": "iOS Engineer — Platform",
+      "company_name": "LMKR",
+      "city": "Remote",
+      "skills": [
+        "Firebase",
+        "iOS",
+        "Swift"
+      ],
+      "experience_level": "Mid Level",
+      "job_type": "Remote",
+      "salary_min": null,
+      "salary_max": null,
+      "posted_date": "2026-05-19",
+      "source": "Glassdoor",
+      "description": "Join LMKR's platform team to build production systems with iOS, Swift, Firebase. This remote role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://www.glassdoor.com/Job/pakistan-tech-jobs-SRCH_IL.0,8_IN192_KO9,13.htm"
+    },
+    {
+      "id": "6529afcfc92c0e17",
+      "job_title": "Lead Mobile App Developer — Core Product",
+      "company_name": "Techlogix",
+      "city": "Other",
+      "skills": [
+        "Flutter",
+        "Dart",
+        "Firebase"
+      ],
+      "experience_level": "Lead/Manager",
+      "job_type": "Onsite",
+      "salary_min": null,
+      "salary_max": null,
+      "posted_date": "2026-05-19",
+      "source": "Rozee.pk",
+      "description": "Join Techlogix's core product team to build production systems with Flutter, Dart, Firebase. This onsite role values clear communication, testing, ownership and reliable delivery.",
+      "job_url": "https://rozee.pk/job/jsearch/q/technology"
+    }
+  ]
+}
