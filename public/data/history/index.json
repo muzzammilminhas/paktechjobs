@@ -1654,59 +1654,21 @@
   },
   {
     "date": "2026-07-17",
-    "total": 240,
+    "total": 5,
     "skills": {
-      "AI/ML": 25,
-      "AWS": 34,
-      "Android": 12,
-      "Angular": 18,
-      "Cypress": 17,
-      "Dart": 22,
-      "Django": 18,
-      "Docker": 16,
-      "FastAPI": 13,
-      "Firebase": 46,
-      "Flutter": 22,
-      "Java": 15,
-      "JavaScript": 20,
-      "Kotlin": 12,
-      "Kubernetes": 16,
-      "Laravel": 11,
-      "MongoDB": 22,
-      "Next.js": 14,
-      "Node.js": 54,
-      "PHP": 11,
-      "PostgreSQL": 32,
-      "PyTorch": 12,
-      "Python": 61,
-      "QA": 17,
-      "React": 42,
-      "SQL": 33,
-      "Selenium": 17,
-      "Spring": 15,
-      "Swift": 12,
-      "TypeScript": 38,
-      "iOS": 12
+      "React": 1,
+      "SQL": 1
     },
     "cities": {
-      "Islamabad": 42,
-      "Karachi": 59,
-      "Lahore": 48,
-      "Other": 12,
-      "Peshawar": 5,
-      "Rawalpindi": 23,
-      "Remote": 51
+      "Remote": 5
     },
     "experience": {
-      "Entry Level": 54,
-      "Lead/Manager": 49,
-      "Mid Level": 91,
-      "Senior": 46
+      "Lead/Manager": 1,
+      "Mid Level": 1,
+      "Senior": 3
     },
     "job_types": {
-      "Hybrid": 55,
-      "Onsite": 134,
-      "Remote": 51
+      "Remote": 5
     }
   }
 ]
