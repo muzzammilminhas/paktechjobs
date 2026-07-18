@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-18T02:43:40+05:00",
+  "generated_at": "2026-07-19T02:42:06+05:00",
   "publish_status": "published",
   "publish_message": "Fresh and cache-backed source results passed validation.",
   "guard_streak": 0,
-  "previous_count": 45,
+  "previous_count": 46,
   "published_count": 46,
   "fresh_sources": 2,
   "cached_sources": 1,
@@ -44,7 +44,7 @@
       "live_count": 11,
       "cached_count": 0,
       "effective_count": 11,
-      "last_success_at": "2026-07-18T02:43:40+05:00",
+      "last_success_at": "2026-07-19T02:42:06+05:00",
       "message": "Live scrape succeeded; 0 older active listings were retained."
     },
     {
@@ -53,7 +53,7 @@
       "live_count": 14,
       "cached_count": 0,
       "effective_count": 5,
-      "last_success_at": "2026-07-18T02:43:40+05:00",
+      "last_success_at": "2026-07-19T02:42:06+05:00",
       "message": "Live scrape succeeded; 0 older active listings were retained."
     }
   ]
