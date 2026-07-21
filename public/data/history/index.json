@@ -1795,5 +1795,47 @@
       "Onsite": 30,
       "Remote": 16
     }
+  },
+  {
+    "date": "2026-07-21",
+    "total": 68,
+    "skills": {
+      "AI/ML": 4,
+      "AWS": 6,
+      "Android": 1,
+      "C++": 13,
+      "Cypress": 1,
+      "Dart": 1,
+      "Docker": 10,
+      "Flutter": 7,
+      "Java": 3,
+      "JavaScript": 4,
+      "Kubernetes": 16,
+      "MongoDB": 1,
+      "Next.js": 1,
+      "Node.js": 1,
+      "PostgreSQL": 5,
+      "Python": 25,
+      "QA": 1,
+      "React": 6,
+      "SQL": 4,
+      "TypeScript": 3,
+      "iOS": 1
+    },
+    "cities": {
+      "Lahore": 1,
+      "Other": 29,
+      "Remote": 38
+    },
+    "experience": {
+      "Entry Level": 8,
+      "Lead/Manager": 16,
+      "Mid Level": 27,
+      "Senior": 17
+    },
+    "job_types": {
+      "Onsite": 30,
+      "Remote": 38
+    }
   }
 ]
