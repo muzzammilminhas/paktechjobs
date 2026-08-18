@@ -1,24 +1,24 @@
 {
-  "generated_at": "2026-08-18T02:19:24+05:00",
+  "generated_at": "2026-08-19T02:15:21+05:00",
   "publish_status": "published",
   "publish_message": "Fresh and cache-backed source results passed validation.",
   "guard_streak": 0,
-  "previous_count": 48,
-  "published_count": 50,
-  "fresh_sources": 2,
+  "previous_count": 50,
+  "published_count": 74,
+  "fresh_sources": 3,
   "cached_sources": 0,
-  "failed_sources": 3,
+  "failed_sources": 2,
   "total_sources": 5,
   "cache_ttl_days": 14,
   "sources": [
     {
       "source": "Rozee.pk",
-      "status": "failed",
-      "live_count": 0,
+      "status": "healthy",
+      "live_count": 22,
       "cached_count": 0,
-      "effective_count": 0,
-      "last_success_at": null,
-      "message": "No live jobs or recent cache are available."
+      "effective_count": 22,
+      "last_success_at": "2026-08-19T02:15:21+05:00",
+      "message": "Live scrape succeeded; 0 older active listings were retained."
     },
     {
       "source": "Mustakbil.com",
@@ -41,10 +41,10 @@
     {
       "source": "Jobicy APAC",
       "status": "healthy",
-      "live_count": 45,
+      "live_count": 47,
       "cached_count": 5,
-      "effective_count": 50,
-      "last_success_at": "2026-08-18T02:19:24+05:00",
+      "effective_count": 52,
+      "last_success_at": "2026-08-19T02:15:21+05:00",
       "message": "Live scrape succeeded; 5 older active listings were retained."
     },
     {
@@ -53,7 +53,7 @@
       "live_count": 11,
       "cached_count": 0,
       "effective_count": 0,
-      "last_success_at": "2026-08-18T02:19:24+05:00",
+      "last_success_at": "2026-08-19T02:15:21+05:00",
       "message": "Live scrape succeeded; 0 older active listings were retained."
     }
   ]
