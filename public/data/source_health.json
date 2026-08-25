@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-25T02:20:22+05:00",
+  "generated_at": "2026-08-26T02:19:34+05:00",
   "publish_status": "published",
   "publish_message": "Fresh and cache-backed source results passed validation.",
   "guard_streak": 0,
-  "previous_count": 79,
-  "published_count": 80,
+  "previous_count": 80,
+  "published_count": 113,
   "fresh_sources": 2,
   "cached_sources": 1,
   "failed_sources": 2,
@@ -42,10 +42,10 @@
       "source": "Jobicy APAC",
       "status": "healthy",
       "live_count": 50,
-      "cached_count": 7,
-      "effective_count": 57,
-      "last_success_at": "2026-08-25T02:20:22+05:00",
-      "message": "Live scrape succeeded; 7 older active listings were retained."
+      "cached_count": 40,
+      "effective_count": 90,
+      "last_success_at": "2026-08-26T02:19:34+05:00",
+      "message": "Live scrape succeeded; 40 older active listings were retained."
     },
     {
       "source": "Remote OK",
@@ -53,7 +53,7 @@
       "live_count": 10,
       "cached_count": 0,
       "effective_count": 0,
-      "last_success_at": "2026-08-25T02:20:22+05:00",
+      "last_success_at": "2026-08-26T02:19:34+05:00",
       "message": "Live scrape succeeded; 0 older active listings were retained."
     }
   ]
