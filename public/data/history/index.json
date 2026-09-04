@@ -3650,5 +3650,55 @@
       "Onsite": 36,
       "Remote": 108
     }
+  },
+  {
+    "date": "2026-09-04",
+    "total": 146,
+    "skills": {
+      "AI/ML": 13,
+      "AWS": 16,
+      "Android": 11,
+      "C++": 34,
+      "Cypress": 2,
+      "Dart": 2,
+      "Docker": 25,
+      "FastAPI": 1,
+      "Flutter": 16,
+      "Java": 9,
+      "JavaScript": 10,
+      "Kotlin": 2,
+      "Kubernetes": 37,
+      "MongoDB": 2,
+      "Next.js": 4,
+      "Node.js": 3,
+      "PHP": 2,
+      "PostgreSQL": 13,
+      "PyTorch": 1,
+      "Python": 62,
+      "QA": 4,
+      "React": 21,
+      "SQL": 7,
+      "Supabase": 1,
+      "Swift": 2,
+      "TensorFlow": 1,
+      "TypeScript": 11,
+      "Vue": 3,
+      "iOS": 11
+    },
+    "cities": {
+      "Other": 36,
+      "Remote": 110
+    },
+    "experience": {
+      "Entry Level": 10,
+      "Lead/Manager": 49,
+      "Mid Level": 44,
+      "Senior": 43
+    },
+    "job_types": {
+      "Hybrid": 1,
+      "Onsite": 36,
+      "Remote": 109
+    }
   }
 ]
