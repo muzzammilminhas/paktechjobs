@@ -1,6 +1,6 @@
 {
   "source": "Jobicy APAC",
-  "last_success_at": "2026-09-20T03:35:41+05:00",
+  "last_success_at": "2026-09-21T03:48:36+05:00",
   "jobs": [
     {
       "job_title": "Java Backend Engineer (AI/LLM Chatbot, Customer Service)",
@@ -805,7 +805,7 @@
       "experience": "Entry-Level, Junior",
       "job_type": "Remote",
       "salary": "",
-      "posted_date": "2026-08-19",
+      "posted_date": "2026-09-20",
       "source": "Jobicy APAC",
       "job_url": "https://jobicy.com/jobs/146760-norwegian-tech-linguistic-tester",
       "skills": [
@@ -1828,6 +1828,21 @@
       "posted_date": "2026-09-19",
       "source": "Jobicy APAC",
       "job_url": "https://jobicy.com/jobs/150994-software-engineer-secure-container-images",
+      "skills": [
+        "Software Engineering"
+      ]
+    },
+    {
+      "job_title": "Electrical Engineer",
+      "company_name": "Serve Robotics",
+      "location": "Remote",
+      "description": "At Serve Robotics, we’re reimagining how things move in cities. Our personable sidewalk robot is our vision for the future. It’s designed to take deliveries away from congested streets, make deliveries available to more people, and benefit local businesses. The Serve fleet has been delighting merchants, customers, and pedestrians along the way in Los Angeles, Miami, Dallas, Atlanta and Chicago while doing commercial deliveries. We’re looking for talented individuals who will grow robotic deliveries from surprising novelty to efficient ubiquity. Who We Are We are tech industry veterans in software, hardware, and design who are pooling our skills to build the future we want to live in. We are solving real-world problems leveraging robotics, machine learning and computer vision, among other disciplines, with a mindful eye towards the end-to-end user experience. Our team is agile, diverse, and driven. We believe that the best way to solve complicated dynamic problems is collaboratively and respectfully. As an Electrical Engineer on the Power Train Electrical Engineering team, you will support the manufacturing, validation, and test infrastructure needs of Serve's electrical hardware, in Malaysia. This role entails: Hands-on engineering support for builds at our CM EMI Scanning activities for new robots, and testing retrofits on our existing fleet Overseeing/Guiding Development of test fixtures with our CM that improves product quality, test readiness, and production robustness. You will work closely with electrical engineering, systems, manufacturing, quality, suppliers, and test partners to troubleshoot issues, implement corrective actions, and help ensure reliable hardware performance from build through validation. Responsibilities Provide local, on-the-ground electrical engineering support for manufacturing builds, NPI activities, and sustaining production issues in Malaysia. Troubleshoot electrical failures observed during manufacturing, bring-up, and system integration, and drive root cause analysis to closure. Support yield improvement, failure analysis, rework guidance, and corrective actions related to PCBAs, harnesses, power systems, and electromechanical assemblies. Support EMI scan planning and execution, including test setup review, debug support, issue isolation, mitigation follow-up, and documentation of findings. Work with design and systems teams to identify likely emission sources and implement electrical mitigation actions such as grounding, shielding, filtering, layout, and cable-routing improvements. Provide technical guidance for IAC test fixtures, including fixture requirements, electrical interfaces, instrumentation, safety, and test coverage expectations. Support the development, debug, and improvement of IAC test fixtures used for board-level or system-level verification and manufacturing test. Partner with contract manufacturers, test partners, and local suppliers to resolve production and test issues, improve readiness, and support reliable execution. Assist in creating and maintaining test procedures, troubleshooting guides, engineering documentation, and validation records. Collaborate with remote teams across electrical engineering, systems, firmware, reliability, and manufacturing engineering to communicate issues clearly and drive timely resolution. Qualifications Bachelor's degree in Electrical Engineering or related engineering discipline, or equivalent practical experience. 4+ years of experience in electrical engineering, hardware validation, manufacturing support, or test engineering for electromechanical products. Hands-on experience troubleshooting electrical and electromechanical systems in lab, manufacturing, or field environments. Experience supporting contract manufacturers, suppliers, or production lines for electronic products. Familiarity with EMI or EMC pre-scan testing, lab setup, electrical debug, and compliance-oriented validation workflows. Experience working with PCBAs, power distribution, cables, harnesses, and embedded hardware systems. Ability to read and review schematics, wiring diagrams, test setups, and technical drawings. Hands-on experience debugging and testing electrical subsystems using laboratory equipment such as oscilloscopes, power supplies, digital multimeters, spectrum analyzers, electronic loads, or similar tools. Strong problem-solving skills and ability to independently drive technical work through ambiguity. Experience collaborating with cross-functional engineering, manufacturing, quality, and supplier teams. Preferred Experience, Qualifications, and Skills Experience in robotics, automation, consumer electronics, automotive, aerospace, medical device, or other complex electromechanical industries. Familiarity with design for manufacturing, design for test, and production test methodologies. Experience supporting EMC mitigation efforts through board-level, cable-level, or system-level design changes. Experience defining or developing electrical test fixtures, manufacturing test stations, or validation setups. Experience developing test automation tools using Python, LabVIEW, Bash, or similar scripting languages. Experience with PLM, ECO, or hardware change management workflows. Additional Information This role is based onsite in Penang, Malaysia. This role may require occasional travel to support suppliers, manufacturing partners, test activities, and engineering validation efforts. The position is expected to operate with a high degree of hands-on execution while collaborating closely with cross-functional teams to deliver reliable hardware support and test capability at scale.",
+      "experience": "Any",
+      "job_type": "Remote",
+      "salary": "",
+      "posted_date": "2026-09-20",
+      "source": "Jobicy APAC",
+      "job_url": "https://jobicy.com/jobs/153758-electrical-engineer-3",
       "skills": [
         "Software Engineering"
       ]
