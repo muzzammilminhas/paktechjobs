@@ -1,6 +1,6 @@
 {
   "source": "Jobicy APAC",
-  "last_success_at": "2026-09-21T03:48:36+05:00",
+  "last_success_at": "2026-09-22T04:44:35+05:00",
   "jobs": [
     {
       "job_title": "Java Backend Engineer (AI/LLM Chatbot, Customer Service)",
@@ -133,21 +133,6 @@
       "posted_date": "2026-06-25",
       "source": "Jobicy APAC",
       "job_url": "https://jobicy.com/jobs/147723-financial-software-engineer",
-      "skills": [
-        "Software Engineering"
-      ]
-    },
-    {
-      "job_title": "AI Systems Engineering Subject Matter Expert",
-      "company_name": "TripleTen",
-      "location": "Remote",
-      "description": "Description At TripleTen , we're building an international platform of digital re-skilling products to help people from diverse backgrounds learn new professions and build sustainable careers in tech. Our program graduates have landed jobs at top companies like Tesla, Spotify, PlayStation, Google, and Microsoft. So far, over 5,000 students have chosen TripleTen, and hundreds of new students are joining us each month. We believe everyone can jumpstart a new career, which is why we produce quality educational content and offer intensive courses in tech complete with full access to an interactive platform, code reviews, and support from industry practitioners. We're building a program for experienced engineers transitioning into system architecture roles. We need AI Systems Engineering practitioners who can do more than just know their craft — they need to help build the curriculum and turn their expertise into content others can learn from. This is a content authoring role. You'll start by shaping the program syllabus based on our existing draft, then move into producing lessons using AI-gen tools — following our content guidelines, reviewing the output, and fine-tuning it until it's accurate and teachable. An LX designer will review your content and send comments back; you'll iterate from there. The best candidates are people who are opinionated about what good systems engineering looks like and what engineers need to learn, can spot when something is oversimplified or wrong, and are comfortable working in a structured production process and keeping up with deadlines. Your audience: experienced engineers looking to level up to system architecture roles. They will spot shallow content instantly. Format: async-first, project-based, estimated 4-6 months. We expect you to be ready to commit from 20 to 40 hrs/week. Please submit all resumes or CV's in English. What you will do Review and shape the existing syllabus draft — validate topic sequencing, flag gaps or unrealistic scope, and make sure the content reflects how these systems are actually built in production Define clear learning objectives per topic: what should a student be able to do after this lesson, not just know Produce lessons using AI-gen tools following our content guidelines — then review, fact-check, and fine-tune the output until it's technically sound Design hands-on projects and exercises that are realistic for a working engineer studying 20 hrs/week Write supporting content: project instructions, rubrics, and reviewer guides Respond to LX designer feedback and iterate on content — this is a back-and-forth process, not a one-time handoff Requirements 5+ years of real-world experience as a Senior Systems Engineer with depth in your area (see SME profiles above) Has designed and shipped systems at scale in a real company — not just coursework or side projects Can explain why a decision was made, not just how it was implemented Strong technical communication skills — ability to explain complex topics clearly to learners Comfortable using AI tools for content drafting and iteration Strong English C1+ — content will be in English for a US-based audience Attention to detail, proactivity and ability to meet deadlines independently What we can offer you Milestone-based payments tied to deliverables Fully remote work with flexible hours A digital office — we use modern tools (Notion, Miro, Slack, Figma) to keep collaboration smooth Professional trust and autonomy — no micromanaging The chance to see real impact: our metric is graduates landing jobs in tech Join a diverse, international, and close-knit team excited to work with you",
-      "experience": "Senior",
-      "job_type": "Remote",
-      "salary": "",
-      "posted_date": "2026-06-23",
-      "source": "Jobicy APAC",
-      "job_url": "https://jobicy.com/jobs/144479-ai-systems-engineering-subject-matter-expert",
       "skills": [
         "Software Engineering"
       ]
@@ -1195,7 +1180,7 @@
       "experience": "Any",
       "job_type": "Remote",
       "salary": "",
-      "posted_date": "2026-08-20",
+      "posted_date": "2026-09-21",
       "source": "Jobicy APAC",
       "job_url": "https://jobicy.com/jobs/151197-c-rust-graphics-and-windowing-system-software-engineer-mir",
       "skills": [
@@ -1843,6 +1828,51 @@
       "posted_date": "2026-09-20",
       "source": "Jobicy APAC",
       "job_url": "https://jobicy.com/jobs/153758-electrical-engineer-3",
+      "skills": [
+        "Software Engineering"
+      ]
+    },
+    {
+      "job_title": "AI agent engineer",
+      "company_name": "Sticker Mule",
+      "location": "Remote",
+      "description": "Sticker Mule is building the most lucrative commerce platform on the Internet by combining software, manufacturing, and AI in one stack. We're hiring an engineer to build, run and manage a team of AI agents to help us innovate faster, improve performance, and better serve customers. Work performed Identify where agents can help and build them accordingly. Work with department leads to assess AI needs. Help connect agents to appropriate third-party and internal tools. Measure results and remove agents that don't deliver. Test new tools and models as they ship and adopt what works. Advise others on AI capabilities to help them perform. Requirements Experience building agents that run on their own and do meaningful work Strong with Grok, Claude, OpenAI, and open source Comfortable in Go, TypeScript, GraphQL, Postgres, GCP Writes clearly in English Compensation Salary: $150,000–$250,000 USD $20,000 signing bonus 4 weeks vacation + country-specific holidays Fully remote",
+      "experience": "Any",
+      "job_type": "Remote",
+      "salary": "",
+      "posted_date": "2026-09-21",
+      "source": "Jobicy APAC",
+      "job_url": "https://jobicy.com/jobs/153825-ai-agent-engineer",
+      "skills": [
+        "Software Engineering"
+      ]
+    },
+    {
+      "job_title": "Software Engineer",
+      "company_name": "UpGuard",
+      "location": "Remote",
+      "description": "Who are we? At UpGuard, we are replacing manual security bottlenecks with AI-driven precision. Fresh off a US$75M Series C, we are scaling our infrastructure to process 100 billion risk signals daily. This isn’t just growth; it’s a total reimagining of how the world manages cyber risk. We build the Cyber Risk Posture Management (CRPM) platform that security teams actually love. By integrating security ratings, threat intel, and agentic AI, we empower organisations to stay ahead of an ever evolving attack surface. We aren’t just building another tool; we’re defining a category. We provide the autonomy to ship world-class technology and the resources to do it at a global scale. About the role We're hiring a Software Engineer to join our Product Engineering team. You'll work across the whole stack: customer-facing features in React and TypeScript, Go services that process security data at internet scale, and the plumbing that keeps it all secure and reliable. You'll ship real work in your first weeks with a senior engineer as your buddy, and your scope will grow as you're ready for it. You don't need to know cybersecurity yet, but you do need to be curious about it. You'll join one of our 11 (and growing) Product Engineering squads, most of which have a product manager, designer and technical lead alongside the engineers. Our stack is React and TypeScript on the front end, Go services with Postgres as our primary database, running on Kubernetes via Google Cloud Platform. Our engineers work with agentic coding tools, mostly Claude Code and Cursor, and a growing part of the product is LLM-backed. You'll work this way from day one, and we'll want your ideas on what to automate next, from how we write code to how we test, review, ship and run it. What you'll do Build and ship customer-facing features across our React front end and Go services Own well-scoped work end to end, with senior engineers to pair with and review your designs Help keep the platform fast and reliable as we scale Give and receive thoughtful code review and join the technical discussions that shape how we build Go deep on the cybersecurity domain; it's one of the best parts of the job Grow toward senior, with increasing scope as you're ready and a manager focused on getting you there What we're looking for Typically 2+ years of relevant engineering experience Strong TypeScript and React A backend language you're productive in (we use Go) Solid relational database skills (we use Postgres) AI coding tools as your default workflow, and the judgment to review and own what they produce Pragmatic trade-offs: you weigh technical quality against what the business needs now Low ego, high care: you're in it for the product and the customer, not just the code What will give you an edge? Cybersecurity experience Running services on Kubernetes, ideally on GCP What's in it for you? We're fully remote, and we'd rather spend on things people actually use than on perks that look good in a job ad. Fully remote and flexible: work from anywhere in Australia. We have offices in Sydney and Hobart, a co-working allowance everywhere else, and no attendance mandate. Real face time: two off-sites a year, one with your squad and one with the wider Product team or the whole company, plus city-based socials in between, with colleagues who like spending time together. Stock options: every engineer gets equity, so you share in UpGuard's growth. Annual leave: PTO plus two additional UpGuardian leave days to give you time to recharge your batteries. 18 weeks paid Parental Leave: irrespective of parenting role (all regions) Personal Leave allowance: this includes sick and carer’s leave. $[amount] monthly lifestyle subsidy for your financial, physical and mental wellbeing. US$1,500 annual learning and development allowance, spent on whatever helps your career, not just courses. WFH set-up allowance to get your home office right in your first three months. UpGuard is a Certified Great Place to Work® in the US, Australia, UK and India, establishing its position as a leading global technology employer. 99% of team members agree that UpGuard is a great place to work! Apply now to find out why! As an Equal Employment Opportunity and Affirmative Action Employer, qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender perception or identity, national origin, age, marital status, protected veteran status, or disability status. Please Note: Not all roles can be performed from the United States. Please check your specific job listing to confirm its advertised location. If the role you are applying for is listed as based in the US, we are currently only able to support hiring in the following locations: CA, CO, FL, IL, MA, MD, MO, OR, PA, TX, WA, and DC. Before starting work with us, you will need to undertake a national police history check and reference checks.",
+      "experience": "Senior",
+      "job_type": "Remote",
+      "salary": "",
+      "posted_date": "2026-09-21",
+      "source": "Jobicy APAC",
+      "job_url": "https://jobicy.com/jobs/153799-software-engineer-10",
+      "skills": [
+        "Software Engineering"
+      ]
+    },
+    {
+      "job_title": "Senior Software Engineer",
+      "company_name": "UpGuard",
+      "location": "Remote",
+      "description": "Who are we? At UpGuard, we are replacing manual security bottlenecks with AI-driven precision. Fresh off a US$75M Series C, we are scaling our infrastructure to process 100 billion risk signals daily. This isn’t just growth; it’s a total reimagining of how the world manages cyber risk. We build the Cyber Risk Posture Management (CRPM) platform that security teams actually love. By integrating security ratings, threat intel, and agentic AI, we empower organisations to stay ahead of an ever evolving attack surface. We aren’t just building another tool; we’re defining a category. We provide the autonomy to ship world-class technology and the resources to do it at a global scale. About the role We're hiring a Senior Software Engineer to own a feature area within our Product Engineering team. You'll be the engineer your product manager turns to for \"is this possible, and how big is it\", leading technical design for your area and seeing it through to production. You'll shape how your squad builds, mentor the engineers around you, and have real influence over what we ship for customers who depend on us to understand their cyber risk. You'll join one of our 11 (and growing) Product Engineering squads, most of which have a product manager, designer and technical lead alongside the engineers. Our stack is React and TypeScript on the front end, Go services with Postgres as our primary database, running on Kubernetes via Google Cloud Platform. Our engineers work with agentic coding tools, mostly Claude Code and Cursor, and a growing part of the product is LLM-backed. You'll work this way from day one, and we'll want your ideas on what to automate next, from how we write code to how we test, review, ship and run it. What you'll do Own a feature area end to end, from design conversations with product through to production and follow-up Lead technical design for your area and drive the architectural decisions within it Work with product and design to shape what we build: what's possible, what it costs, and what should come first Mentor the engineers around you and lift the quality of the squad's code and decisions Improve the reliability, scalability and performance of the systems you own Go deep on the cybersecurity domain and bring that understanding into what we build What we're looking for Typically 5+ years of relevant engineering experience at tech-centric, product-driven companies Strong TypeScript and React A backend language you're productive in (we use Go) Solid relational database skills (we use Postgres) AI coding tools as your default workflow, and the judgment to review and own what they produce Pragmatic trade-offs: you weigh technical quality against what the business needs now Low ego, high care: you're in it for the product and the customer, not just the code A track record of leading technical design for a feature area and seeing it through to production Experience mentoring engineers and lifting the quality of the code and decisions around you What will give you an edge? Cybersecurity experience Running services on Kubernetes, ideally on GCP Building complex applications or systems from the ground up with a cross-functional team Owning a service in production: on-call, observability, and the judgment to know what to fix now and what can wait What's in it for you? We're fully remote, and we'd rather spend on things people actually use than on perks that look good in a job ad. Fully remote and flexible: work from anywhere in Australia. We have offices in Sydney and Hobart, a co-working allowance everywhere else, and no attendance mandate. Real face time: two off-sites a year, one with your squad and one with the wider Product team or the whole company, plus city-based socials in between, with colleagues who like spending time together. Stock options: every engineer gets equity, so you share in UpGuard's growth. Annual leave: PTO plus two additional UpGuardian leave days to give you time to recharge your batteries. 18 weeks paid Parental Leave: irrespective of parenting role (all regions) Personal Leave allowance: this includes sick and carer’s leave. $[amount] monthly lifestyle subsidy for your financial, physical and mental wellbeing. US$1,500 annual learning and development allowance, spent on whatever helps your career, not just courses. WFH set-up allowance to get your home office right in your first three months. UpGuard is a Certified Great Place to Work® in the US, Australia, UK and India, establishing its position as a leading global technology employer. 99% of team members agree that UpGuard is a great place to work! Apply now to find out why! As an Equal Employment Opportunity and Affirmative Action Employer, qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender perception or identity, national origin, age, marital status, protected veteran status, or disability status. Please Note: Not all roles can be performed from the United States. Please check your specific job listing to confirm its advertised location. If the role you are applying for is listed as based in the US, we are currently only able to support hiring in the following locations: CA, CO, FL, IL, MA, MD, MO, OR, PA, TX, WA, and DC. Before starting work with us, you will need to undertake a national police history check and reference checks.",
+      "experience": "Senior",
+      "job_type": "Remote",
+      "salary": "",
+      "posted_date": "2026-09-21",
+      "source": "Jobicy APAC",
+      "job_url": "https://jobicy.com/jobs/153804-senior-software-engineer-5",
       "skills": [
         "Software Engineering"
       ]
