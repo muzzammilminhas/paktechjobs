@@ -1,6 +1,6 @@
 {
   "source": "Jobicy APAC",
-  "last_success_at": "2026-10-06T06:37:01+05:00",
+  "last_success_at": "2026-10-07T05:15:10+05:00",
   "jobs": [
     {
       "job_title": "Java Backend Engineer (AI/LLM Chatbot, Customer Service)",
@@ -1615,7 +1615,7 @@
       "experience": "Director",
       "job_type": "Remote",
       "salary": "",
-      "posted_date": "2026-09-05",
+      "posted_date": "2026-10-06",
       "source": "Jobicy APAC",
       "job_url": "https://jobicy.com/jobs/152574-solution-engineer-3",
       "skills": [
@@ -1980,6 +1980,21 @@
       "job_url": "https://jobicy.com/jobs/154611-gtm-engineer-3",
       "skills": [
         "Software Engineering"
+      ]
+    },
+    {
+      "job_title": "Ads Quality Rater - Filipino (Philippines)",
+      "company_name": "Welo Global",
+      "location": "Remote",
+      "description": "Welo Data is an award-winning localization and data transformation company. We run one of the world’s largest Ads Rating Programs and we want you to join! As an Ads Quality Rater , you will review and grade internet advertisements to help shape how ads are delivered to the end users. In other words, you’ll tell the AI program how good or bad its advertisement suggestions are based on the user’s keywords. You will review ads in both English and Filipino This role is great for people who: - Surf the internet daily - Use major search engines frequently - Know what people want based on a few keywords - Enjoy researching topics online - Want a flexible and fun side job Project Details Job Title: Ads Quality Rater Pay Rate: Based on tasks (approximately $4 per hour) Location: Remote/work from home - must be based in the Philippines Hours: Set your schedule based on the following – Minimum commitment is 5 hours per week. You can choose to work up to 20 hours per week. Start Date: ASAP Employment Type: Independent Contractor/Freelance/Self-Employed Project Duration: Long-term Note: - Even though the position is WFH, you must reside in the country that is noted in this description. This will be automatically checked during the hiring process. Recruitment Process - There is no formal interview for this job! No phone calls, no waiting, and no wasting time wondering whether you got the job or not. - Instead, you will be guided through a self-paced and automated recruitment process. IMPORTANT NOTE: Welo Data uses numerous identity checks to ensure that everyone who makes the team is real, qualified, and ready to work. To avoid any misunderstandings, do not use IP masking programs (such as VPNs). Experience & Requirements Fluency in Filipino Strong understanding of English (written and spoken) Comfortable knowledge of modern popular culture Reliable computer system and internet connection Familiar with using online search engines Sign a standard Non-Disclosure Agreement and Service Level Agreement Compensation Additional Information Please note that this work is based on project needs. Due to this, weekly hours may vary and flexibility with change is expected. You must legally be able to work on freelance projects in the Philippines . To know more details (Click here)",
+      "experience": "Any",
+      "job_type": "Remote",
+      "salary": "",
+      "posted_date": "2026-10-06",
+      "source": "Jobicy APAC",
+      "job_url": "https://jobicy.com/jobs/154743-ads-quality-rater-filipino-philippines",
+      "skills": [
+        "QA & Testing"
       ]
     }
   ]
