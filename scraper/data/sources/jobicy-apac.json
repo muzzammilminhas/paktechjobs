@@ -1,6 +1,6 @@
 {
   "source": "Jobicy APAC",
-  "last_success_at": "2026-10-11T05:00:09+05:00",
+  "last_success_at": "2026-10-12T05:07:22+05:00",
   "jobs": [
     {
       "job_title": "Java Backend Engineer (AI/LLM Chatbot, Customer Service)",
@@ -1195,7 +1195,7 @@
       "experience": "Senior",
       "job_type": "Remote",
       "salary": "",
-      "posted_date": "2026-09-10",
+      "posted_date": "2026-10-11",
       "source": "Jobicy APAC",
       "job_url": "https://jobicy.com/jobs/150365-go-golang-software-engineer-developer-tooling-and-containers",
       "skills": [
@@ -1210,7 +1210,7 @@
       "experience": "Any",
       "job_type": "Remote",
       "salary": "",
-      "posted_date": "2026-09-10",
+      "posted_date": "2026-10-11",
       "source": "Jobicy APAC",
       "job_url": "https://jobicy.com/jobs/150364-software-engineer-python-container-images",
       "skills": [
@@ -1225,7 +1225,7 @@
       "experience": "Senior",
       "job_type": "Remote",
       "salary": "",
-      "posted_date": "2026-09-10",
+      "posted_date": "2026-10-11",
       "source": "Jobicy APAC",
       "job_url": "https://jobicy.com/jobs/150361-embedded-linux-consultant-japan",
       "skills": [
@@ -1240,7 +1240,7 @@
       "experience": "Any",
       "job_type": "Remote",
       "salary": "",
-      "posted_date": "2026-09-10",
+      "posted_date": "2026-10-11",
       "source": "Jobicy APAC",
       "job_url": "https://jobicy.com/jobs/150360-open-source-networking-software-engineer-tor-switch-smartnic-dpu",
       "skills": [
@@ -2010,6 +2010,21 @@
       "job_url": "https://jobicy.com/jobs/154770-senior-software-development-engineer-in-test-sdet",
       "skills": [
         "QA & Testing"
+      ]
+    },
+    {
+      "job_title": "Forward Deployed Engineer",
+      "company_name": "Nash",
+      "location": "Remote",
+      "description": "Forward Deployed Engineer Sydney or Melbourne (Hybrid) About Nash Nash is building the digital logistics infrastructure that powers delivery for some of the world’s largest retailers, tech platforms, and delivery services. Our platform connects merchants, carriers, and customers through unified AI-driven logistics, helping enterprises like Walmart, Woolworths, 7-Eleven, and Coles orchestrate millions of deliveries every month. We’re now expanding our engineering presence in Australia and looking for a Forward Deployed Engineer who can ship code, solve real customer problems, and help shape how Nash scales across APAC. The Role This is hands-on engineering at the edge — not pre-sales, not implementation. You’ll build, deploy, and operate production software directly with customers while working closely with our global product and AI teams. You’ll be part of the foundational team defining how our Australia engineering office operates. Expect to move fast, own outcomes, and see your work drive real-world impact within weeks, not quarters. What You’ll Do • Build and deploy production systems used by top enterprise retailers • Work directly with customers’ engineering, ops, and leadership teams • Take new products from concept to live deployments • Design and extend core infrastructure underpinning global delivery orchestration • Partner with product and AI teams to influence direction across APAC • Debug real-world logistics workflows across fleets, APIs, and integrations Who You Are • 4 plus years building and shipping production software • Strong experience with APIs, backend systems, or platform integrations • Comfortable jumping between code, customer problems, and architecture decisions • Bias toward speed, iteration, and ownership • Clear communicator who can work directly with operators, CTOs, and execs • Motivated by building software that touches the physical world at scale Why This Role If you’ve wanted to join a high-velocity YC-backed startup redefining how logistics works worldwide — while getting to build and see your code operate inside real enterprise workflows — this is the one. Your work will touch millions of deliveries each month and help define Nash’s engineering footprint across APAC. More about Nash Nash is the platform that powers modern logistics. Commerce has inverted. For decades, customers came to where products and services were. Now products and services come to them, on their terms, in real time. That shift has turned every company into a logistics company, even though almost none of them were built to be one. Couriers, fleets, gig workers, parcel carriers, in-store labor, and increasingly autonomous systems all have to be coordinated in real time, against tighter windows and rising expectations, with hard-fought customer trust on the line. Nash unifies decisioning, execution, and capacity into a single programmable platform. Real-time, AI-native intelligence determines what should happen, operational control executes it, and the platform dynamically orchestrates capacity from any source: a company's own fleets, partners, or the Nash delivery network. Whether a job involves a courier, a gig driver, an internal fleet, a store employee, a technician, or an autonomous vehicle, Nash selects the right resource and manages execution through completion. We power delivery and logistics for some of the most recognizable brands in commerce, including Walmart, Urban Outfitters, 7-Eleven, and Woolworths, alongside platforms like Shopify and Toast. Over the next decade, logistics will become as foundational to commerce as payments, cloud, and connectivity. Nash is the platform that powers it. Nash was founded in 2021 by Mahmoud Ghulman (2x Founder, MIT) and Aziz Alghunaim (2x Founder, 2x YC, Ex-Palantir, MIT) and is backed by Y Combinator, a16z, and other top investors. We are headquartered in San Francisco. What You’ll Love About Us ✅ Early-stage, well-funded startup – directly impact the company and grow your career! ✅ Quarterly broader team on-sites to bond with teammates ✅ Competitive compensation and opportunity for equity ✅ Flexible paid time off ✅ Health, dental, and vision insurance for US employees",
+      "experience": "Any",
+      "job_type": "Remote",
+      "salary": "",
+      "posted_date": "2026-10-11",
+      "source": "Jobicy APAC",
+      "job_url": "https://jobicy.com/jobs/155033-forward-deployed-engineer-6",
+      "skills": [
+        "Software Engineering"
       ]
     }
   ]
