@@ -1,6 +1,6 @@
 {
   "source": "Jobicy APAC",
-  "last_success_at": "2026-10-12T05:07:22+05:00",
+  "last_success_at": "2026-10-13T07:19:36+05:00",
   "jobs": [
     {
       "job_title": "Java Backend Engineer (AI/LLM Chatbot, Customer Service)",
@@ -1645,7 +1645,7 @@
       "experience": "Entry-Level, Junior",
       "job_type": "Remote",
       "salary": "",
-      "posted_date": "2026-09-11",
+      "posted_date": "2026-10-12",
       "source": "Jobicy APAC",
       "job_url": "https://jobicy.com/jobs/153014-binance-accelerator-program-applied-ai-application-engineer",
       "skills": [
@@ -1660,7 +1660,7 @@
       "experience": "Any",
       "job_type": "Remote",
       "salary": "",
-      "posted_date": "2026-09-11",
+      "posted_date": "2026-10-12",
       "source": "Jobicy APAC",
       "job_url": "https://jobicy.com/jobs/153012-binance-accelerator-program-ai-intelligence-efficiency-engineer",
       "skills": [
@@ -2023,6 +2023,21 @@
       "posted_date": "2026-10-11",
       "source": "Jobicy APAC",
       "job_url": "https://jobicy.com/jobs/155033-forward-deployed-engineer-6",
+      "skills": [
+        "Software Engineering"
+      ]
+    },
+    {
+      "job_title": "Senior Web Developer",
+      "company_name": "UpGuard",
+      "location": "Remote",
+      "description": "Who are we? At UpGuard , we are replacing manual security bottlenecks with AI-driven precision. Fresh off a US$75M Series C, we are scaling our infrastructure to process 100 billion risk signals daily. This isn’t just growth; it’s a total reimagining of how the world manages cyber risk. We build the Cyber Risk Posture Management (CRPM) platform that security teams actually love. By integrating security ratings, threat intel, and agentic AI, we empower organisations to stay ahead of an ever evolving attack surface. We aren’t just building another tool; we’re defining a category. We provide the autonomy to ship world-class technology and the resources to do it at a global scale. Where does this role fit in? The Marketing team at UpGuard includes multiple marketing and design functions, including Product Marketing, Demand Gen, Marketing Ops, Content Marketing, SEO, Community, Design, and Video. UpGuard’s vision is to become a leader in the markets we play in (Cyber VRM, Attack Surface Management) by providing a best-in-class SaaS platform for organizations to manage their third-party risk and external attack surface. Our purpose as a Marketing team is to facilitate this goal by growing UpGuard with a repeatable and scalable marketing engine and a leading brand. This role is a pivotal technical position within UpGuard's marketing team, focusing on the full-stack development of our website. You'll be instrumental in building robust and high-performing web experiences, from intricate front-end interfaces to powerful back-end systems (largely leveraging Netlify). This position offers a unique opportunity to contribute significantly to our ongoing tech stack evolution , including the implementation of the Astro framework. You'll work closely with our cross-functional web team, including designers, content strategists, and SEO specialists, to translate design concepts into functional realities, develop interactive tools, and ensure our website stands as a leading example of modern web development in the SaaS space. What will you do? Full-Stack Web Development: Take ownership of both front-end and back-end development for UpGuard's marketing website, ensuring seamless integration, high performance, and scalability. Tech Stack Evolution & Implementation: Play a key role in the research, adoption, and implementation of new web technologies, with a strong focus on Astro , Netlify and other modern frameworks, contributing to architectural decisions and best practices. Build Interactive Experiences: Develop and implement dynamic and interactive content , including tools, calculators, and programmatic features, working closely with designers to bring user experience concepts to life. CMS Integration & Optimization: Work with various modern CMS platforms, optimizing their integration and performance to facilitate content delivery and marketing initiatives. Cross-Functional Collaboration: Collaborate effectively with our web designers and key project stakeholders to implement UI/UX designs, and with content and SEO specialists to ensure technical SEO best practices and content delivery. Performance & Security: Develop with a strong focus on website performance, accessibility, responsiveness, and security across all devices and browsers. Maintenance & Support: Provide ongoing maintenance, troubleshooting, and support for existing website features and infrastructure. What will you bring? Full-Stack Development Expertise with emphasis on front-end skills: Proven experience (8+ years) with a strong portfolio of projects, ideally within a SaaS environment . Modern Web Technologies: A comprehensive understanding and hands-on experience with a range of modern web technologies, including front-end frameworks (e.g., Astro, React, Vue, Svelte) and back-end languages/frameworks (we're predominantly Typescript on Node.js/Deno but experience in Python, Ruby, and Infrastructure-as-a-Service platforms is considered valuable). CMS Proficiency: Experience working with and optimizing various Content Management Systems (CMS). UI/UX Implementation: Strong ability to translate design mockups and UX flows into pixel-perfect and highly functional web interfaces. Problem-Solving & Collaboration: Excellent analytical and problem-solving skills, with a proven ability to work collaboratively within a cross-functional team. Code Quality & Best Practices: A commitment to writing clean, well-documented, and maintainable code, adhering to industry best practices. What will give you an edge? Experience with Infrastructure-as-a-Service platforms or cloud platforms (e.g., Netlify, AWS) and CI/CD pipelines. Familiarity with database design. Experience with Jamstack architecture. Experience with internationalisation (i18n), content translation, and regionalised product offerings Demonstrated experience or a strong passion for developing with Astro, with a clear understanding of its architecture and benefits. Understanding of web analytics and A/B testing implementation. A self-starter attitude with the ability to manage multiple projects simultaneously in a fast-paced environment. Experience working in cybersecurity or a related technical B2B field. What's in it for you? Monthly Lifestyle subsidy: Use this for financial, physical, and mental well-being WFH set-up allowance: To ensure you have the right environment to work in, we will help you get set up within your first 3 months at UpGuard $1500 USD annual Learning & Development allowance: To support your career development, all team members will be able to expense development opportunities against this allowance Annual leave: PTO plus two additional UpGuardian leave days to give you time to recharge your batteries. 18 weeks paid Parental Leave: Irrespective of parenting role Personal Leave Allowance: This includes sick & carer’s leave Fully remote working environment: While we have physical offices in Sydney & Hobart, we do not mandate compulsory attendance Top-spec hardware: All team members will be provided with top-spec laptops for their role Generative AI subsidy: UpGuard provides paid subscriptions for all team members to access generative AI tools to support their work. UpGuard is a Certified Great Place to Work® in the US, Australia, UK and India, establishing its position as a leading global technology employer. 99% of team members agree that UpGuard is a great place to work! Apply now to find out why! As an Equal Employment Opportunity and Affirmative Action Employer, qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender perception or identity, national origin, age, marital status, protected veteran status, or disability status. Please Note: Not all roles can be performed from the United States. Please check your specific job listing to confirm its advertised location. If the role you are applying for is listed as based in the US, we are currently only able to support hiring in the following locations: CA, CO, FL, IL, MA, MD, MO, OR, PA, TX, WA, and DC. Before starting work with us, you will need to undertake a national police history check and reference checks.",
+      "experience": "Senior",
+      "job_type": "Remote",
+      "salary": "",
+      "posted_date": "2026-10-12",
+      "source": "Jobicy APAC",
+      "job_url": "https://jobicy.com/jobs/155084-senior-web-developer",
       "skills": [
         "Software Engineering"
       ]
