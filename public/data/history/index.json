@@ -4251,10 +4251,10 @@
   },
   {
     "date": "2026-10-14",
-    "total": 347,
+    "total": 348,
     "skills": {
       "AI/ML": 18,
-      "AWS": 22,
+      "AWS": 23,
       "Android": 13,
       "C#": 1,
       "C++": 37,
@@ -4289,16 +4289,16 @@
     },
     "cities": {
       "Other": 210,
-      "Remote": 137
+      "Remote": 138
     },
     "experience": {
       "Entry Level": 25,
-      "Lead/Manager": 99,
+      "Lead/Manager": 100,
       "Mid Level": 159,
       "Senior": 64
     },
     "job_types": {
-      "Hybrid": 4,
+      "Hybrid": 5,
       "Onsite": 201,
       "Remote": 142
     }
