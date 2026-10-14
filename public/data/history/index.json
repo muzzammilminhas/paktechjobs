@@ -1,62 +1,5 @@
 [
   {
-    "date": "2026-07-11",
-    "total": 216,
-    "skills": {
-      "AI/ML": 23,
-      "AWS": 31,
-      "Android": 11,
-      "Angular": 17,
-      "Cypress": 15,
-      "Dart": 19,
-      "Django": 15,
-      "Docker": 16,
-      "FastAPI": 11,
-      "Firebase": 42,
-      "Flutter": 19,
-      "Java": 14,
-      "JavaScript": 17,
-      "Kotlin": 11,
-      "Kubernetes": 16,
-      "Laravel": 11,
-      "MongoDB": 18,
-      "Next.js": 13,
-      "Node.js": 48,
-      "PHP": 11,
-      "PostgreSQL": 28,
-      "PyTorch": 12,
-      "Python": 53,
-      "QA": 15,
-      "React": 35,
-      "SQL": 29,
-      "Selenium": 15,
-      "Spring": 14,
-      "Swift": 12,
-      "TypeScript": 34,
-      "iOS": 12
-    },
-    "cities": {
-      "Islamabad": 36,
-      "Karachi": 53,
-      "Lahore": 41,
-      "Other": 11,
-      "Peshawar": 5,
-      "Rawalpindi": 19,
-      "Remote": 51
-    },
-    "experience": {
-      "Entry Level": 49,
-      "Lead/Manager": 42,
-      "Mid Level": 85,
-      "Senior": 40
-    },
-    "job_types": {
-      "Hybrid": 50,
-      "Onsite": 115,
-      "Remote": 51
-    }
-  },
-  {
     "date": "2026-07-12",
     "total": 222,
     "skills": {
@@ -4304,6 +4247,60 @@
       "Hybrid": 4,
       "Onsite": 197,
       "Remote": 141
+    }
+  },
+  {
+    "date": "2026-10-14",
+    "total": 347,
+    "skills": {
+      "AI/ML": 18,
+      "AWS": 22,
+      "Android": 13,
+      "C#": 1,
+      "C++": 37,
+      "Cypress": 4,
+      "Dart": 2,
+      "Django": 1,
+      "Docker": 27,
+      "FastAPI": 1,
+      "Flutter": 16,
+      "Java": 11,
+      "JavaScript": 15,
+      "Kotlin": 3,
+      "Kubernetes": 47,
+      "Laravel": 1,
+      "MongoDB": 2,
+      "Next.js": 6,
+      "Node.js": 8,
+      "PHP": 3,
+      "PostgreSQL": 20,
+      "PyTorch": 2,
+      "Python": 72,
+      "QA": 7,
+      "React": 26,
+      "SQL": 10,
+      "Selenium": 1,
+      "Supabase": 4,
+      "Swift": 2,
+      "TensorFlow": 2,
+      "TypeScript": 20,
+      "Vue": 4,
+      "iOS": 12
+    },
+    "cities": {
+      "Other": 210,
+      "Remote": 137
+    },
+    "experience": {
+      "Entry Level": 25,
+      "Lead/Manager": 99,
+      "Mid Level": 159,
+      "Senior": 64
+    },
+    "job_types": {
+      "Hybrid": 4,
+      "Onsite": 201,
+      "Remote": 142
     }
   }
 ]
