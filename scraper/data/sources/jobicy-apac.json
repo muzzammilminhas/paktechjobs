@@ -1,6 +1,6 @@
 {
   "source": "Jobicy APAC",
-  "last_success_at": "2026-10-17T04:09:17+05:00",
+  "last_success_at": "2026-10-18T03:47:18+05:00",
   "jobs": [
     {
       "job_title": "Java Backend Engineer (AI/LLM Chatbot, Customer Service)",
@@ -670,7 +670,7 @@
       "experience": "Any",
       "job_type": "Remote",
       "salary": "",
-      "posted_date": "2026-09-16",
+      "posted_date": "2026-10-17",
       "source": "Jobicy APAC",
       "job_url": "https://jobicy.com/jobs/150846-software-engineer-3",
       "skills": [
@@ -1735,7 +1735,7 @@
       "experience": "Any",
       "job_type": "Remote",
       "salary": "",
-      "posted_date": "2026-09-16",
+      "posted_date": "2026-10-17",
       "source": "Jobicy APAC",
       "job_url": "https://jobicy.com/jobs/153452-edge-functions-engineer",
       "skills": [
@@ -1750,7 +1750,7 @@
       "experience": "Any",
       "job_type": "Remote",
       "salary": "",
-      "posted_date": "2026-09-16",
+      "posted_date": "2026-10-17",
       "source": "Jobicy APAC",
       "job_url": "https://jobicy.com/jobs/153449-software-engineer-auth",
       "skills": [
@@ -2083,6 +2083,21 @@
       "posted_date": "2026-10-15",
       "source": "Jobicy APAC",
       "job_url": "https://jobicy.com/jobs/155385-ai-platform-engineer",
+      "skills": [
+        "Software Engineering"
+      ]
+    },
+    {
+      "job_title": "Lead Developer / Architect Web3",
+      "company_name": "GoFasti",
+      "location": "Remote",
+      "description": "We Make Remote Work Remarkable • TopTalent from LatAm Hello! We are GoFasti , a Talent-as-a-Service. GoFasti bridges the gap between world-class developers and designers from LatAm and first-class companies around the globe. We need an English-proficient PART-TIME Lead Developer / Architect Web3 , based in no, available to work remotely. We are looking for someone with exceptional communication and relationship-building skills, who embraces changes while maintaining strong attention to detail. An interested and proactive person, who's constantly learning and improving their skills. Are you the one we are looking for? Responsibilities: Own the technical architecture of the platform and guide key build decisions Lead and orchestrate the existing development team through sprint cycles Drive hands-on full-stack development alongside the team Implement and oversee wallet integrations, transaction safety, and security best practices on Solana Ensure game logic and mechanics (poker, slots, fantasy sports) are built to industry standards Requirements: At least 2 years of experience as a Lead Developer or Software Architect on production platforms, preferably in gaming or blockchain payment projects. Minimum 2 years of full-stack development experience. Hands-on Solana experience (must-have). Must have gaming industry experience , preferably in casino games, poker, or slots. Must have blockchain experience , ideally in security, payments, or transactions. Must have experience leading development projects , preferably in gaming or blockchain payment systems. Blockchain gaming experience is a plus but not required. Excellent English communication skills. Available immediately for part-time, project-based work with long-term potential. It's a plus: Rust and/or Anchor framework experience (Solana smart contracts) TypeScript/JavaScript with React or Next.js Experience with provably fair game mechanics / RNG systems Compensation: The salary range offered for this part-time position varies from (USD) $2,000 - $3,000 per month, depending on seniority and skillset. This position is for a part time contract, through a payroll platform. The talent will work remotely allocated at our client. Here are the steps for this process: Application review/approval > Screening interview with GoFasti's team > We build and send your profile to our client > Profile review/approval by client > Interview with the client > Hiring and onboarding. Once you apply for the job, our team will review your resume. If it meets the requirements, we will contact you and move forward in the process. Note for Candidates Approached Directly: If you were contacted directly by a member of our team and are interested in this opportunity, please do not apply through this link. Instead, reach out to the person who contacted you to coordinate a meeting. Thank you!",
+      "experience": "Senior",
+      "job_type": "Remote",
+      "salary": "",
+      "posted_date": "2026-10-17",
+      "source": "Jobicy APAC",
+      "job_url": "https://jobicy.com/jobs/155565-1140-lead-developer-architect-web3",
       "skills": [
         "Software Engineering"
       ]
