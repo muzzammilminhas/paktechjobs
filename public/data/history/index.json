@@ -4236,7 +4236,7 @@
   },
   {
     "date": "2026-10-20",
-    "total": 373,
+    "total": 391,
     "skills": {
       "AI/ML": 19,
       "AWS": 24,
@@ -4253,11 +4253,11 @@
       "JavaScript": 17,
       "Kotlin": 3,
       "Kubernetes": 47,
-      "Laravel": 1,
+      "Laravel": 2,
       "MongoDB": 2,
       "Next.js": 7,
       "Node.js": 8,
-      "PHP": 3,
+      "PHP": 4,
       "PostgreSQL": 21,
       "PyTorch": 2,
       "Python": 74,
@@ -4273,18 +4273,18 @@
       "iOS": 12
     },
     "cities": {
-      "Other": 229,
+      "Other": 247,
       "Remote": 144
     },
     "experience": {
-      "Entry Level": 26,
-      "Lead/Manager": 106,
-      "Mid Level": 175,
-      "Senior": 66
+      "Entry Level": 28,
+      "Lead/Manager": 114,
+      "Mid Level": 181,
+      "Senior": 68
     },
     "job_types": {
       "Hybrid": 5,
-      "Onsite": 220,
+      "Onsite": 238,
       "Remote": 148
     }
   }
