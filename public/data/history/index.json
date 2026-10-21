@@ -1,41 +1,5 @@
 [
   {
-    "date": "2026-07-17",
-    "total": 46,
-    "skills": {
-      "AI/ML": 2,
-      "AWS": 3,
-      "Android": 1,
-      "Cypress": 1,
-      "Java": 1,
-      "JavaScript": 2,
-      "Kubernetes": 2,
-      "Next.js": 1,
-      "PostgreSQL": 2,
-      "Python": 4,
-      "QA": 1,
-      "React": 2,
-      "SQL": 2,
-      "TypeScript": 1,
-      "iOS": 1
-    },
-    "cities": {
-      "Lahore": 1,
-      "Other": 29,
-      "Remote": 16
-    },
-    "experience": {
-      "Entry Level": 5,
-      "Lead/Manager": 7,
-      "Mid Level": 24,
-      "Senior": 10
-    },
-    "job_types": {
-      "Onsite": 30,
-      "Remote": 16
-    }
-  },
-  {
     "date": "2026-07-18",
     "total": 46,
     "skills": {
@@ -4236,6 +4200,60 @@
   },
   {
     "date": "2026-10-20",
+    "total": 391,
+    "skills": {
+      "AI/ML": 19,
+      "AWS": 24,
+      "Android": 13,
+      "C#": 1,
+      "C++": 37,
+      "Cypress": 4,
+      "Dart": 2,
+      "Django": 1,
+      "Docker": 27,
+      "FastAPI": 1,
+      "Flutter": 16,
+      "Java": 12,
+      "JavaScript": 17,
+      "Kotlin": 3,
+      "Kubernetes": 47,
+      "Laravel": 2,
+      "MongoDB": 2,
+      "Next.js": 7,
+      "Node.js": 8,
+      "PHP": 4,
+      "PostgreSQL": 21,
+      "PyTorch": 2,
+      "Python": 74,
+      "QA": 7,
+      "React": 27,
+      "SQL": 11,
+      "Selenium": 1,
+      "Supabase": 5,
+      "Swift": 2,
+      "TensorFlow": 2,
+      "TypeScript": 22,
+      "Vue": 4,
+      "iOS": 12
+    },
+    "cities": {
+      "Other": 247,
+      "Remote": 144
+    },
+    "experience": {
+      "Entry Level": 28,
+      "Lead/Manager": 114,
+      "Mid Level": 181,
+      "Senior": 68
+    },
+    "job_types": {
+      "Hybrid": 5,
+      "Onsite": 238,
+      "Remote": 148
+    }
+  },
+  {
+    "date": "2026-10-21",
     "total": 391,
     "skills": {
       "AI/ML": 19,
