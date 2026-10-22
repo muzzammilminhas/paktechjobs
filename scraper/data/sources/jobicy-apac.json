@@ -1,6 +1,6 @@
 {
   "source": "Jobicy APAC",
-  "last_success_at": "2026-10-22T04:49:42+05:00",
+  "last_success_at": "2026-10-23T04:47:19+05:00",
   "jobs": [
     {
       "job_title": "Java Backend Engineer (AI/LLM Chatbot, Customer Service)",
@@ -1150,7 +1150,7 @@
       "experience": "Any",
       "job_type": "Remote",
       "salary": "",
-      "posted_date": "2026-09-21",
+      "posted_date": "2026-10-22",
       "source": "Jobicy APAC",
       "job_url": "https://jobicy.com/jobs/151197-c-rust-graphics-and-windowing-system-software-engineer-mir",
       "skills": [
@@ -1825,7 +1825,7 @@
       "experience": "Senior",
       "job_type": "Remote",
       "salary": "",
-      "posted_date": "2026-09-21",
+      "posted_date": "2026-10-22",
       "source": "Jobicy APAC",
       "job_url": "https://jobicy.com/jobs/153799-software-engineer-10",
       "skills": [
@@ -1840,7 +1840,7 @@
       "experience": "Senior",
       "job_type": "Remote",
       "salary": "",
-      "posted_date": "2026-09-21",
+      "posted_date": "2026-10-22",
       "source": "Jobicy APAC",
       "job_url": "https://jobicy.com/jobs/153804-senior-software-engineer-5",
       "skills": [
@@ -2160,6 +2160,21 @@
       "job_url": "https://jobicy.com/jobs/155925-binance-accelerator-program-qa-automation",
       "skills": [
         "QA & Testing"
+      ]
+    },
+    {
+      "job_title": "Senior Backend Engineer",
+      "company_name": "Tala",
+      "location": "Remote",
+      "description": "Tala is the AI-native credit infrastructure that connects global capital to the global majority. We combine proprietary risk intelligence with an expanding network of capital and distribution partners to power credit access at scale. To date, Tala has distributed more than $9 billion in capital to more than 14 million customers across Africa, Latin America, and Asia, building the definitive contextual dataset on thin-file borrowers in emerging markets. Tala is now converting that foundation into shared infrastructure that partners, capital providers, and ecosystems can build on. The company has been named to the Fortune Impact 20 list, CNBC’s World’s Top Fintech Companies twice, CNBC Disruptor 50 for five years, and Forbes’ Fintech 50 list for ten years running. Tala is seeking a driven engineer to join our growing Product Development team. The ideal candidate is adept at problem-solving and debugging, and is committed to continuously improving existing systems and processes. You will work closely with fellow Tala engineers to build and extend Tala's backend architecture to support new country launches, new features, and a fast growing user base. The Senior Backend Engineer owns systems and initiatives that span a domain. You set your own technical approach, need minimal technical guidance, and raise the domain's quality bar through design, review, and partnership with peers. As a technologist and a leader, you push the team toward a highly available, scalable, reliable, fault tolerant, and performant microservices platform. You follow and improve Tala's engineering processes and standards while advancing Tala's mission and business objectives. This is a technical leadership role within Tala's technical track, set in a supportive team environment with significant opportunities for career advancement and professional development. You will collaborate cross-functionally with teams across the globe. Key Responsibilities Design and Engineering Design, develop, and maintain backend services, APIs, and data integration layers that power key product features. Author design documents (EDDs) for services in the domain and defend them in review. Design and optimize database schemas and queries for performance and system reliability. Meet project goals without trading away quality, and pay down technical debt as part of delivery rather than as a separate request. Serve as the go-to person for one or more technologies in the domain, following industry developments and explaining concretely how they would or would not apply at Tala. Quality, Review, and Standards Hold the domain's engineering bar in code and design reviews, including for work from other technical teams. Write clean, maintainable code that follows established coding standards. Contribute to the testing infrastructure to increase coverage for backend modules. Verify AI-assisted changes to the same standard as hand-written code. Reliability and Operations Define alerting, SLIs, and SLOs, and advance monitoring of backend modules so availability and response times improve proactively. Handle incidents that the runbook does not cover, fill runbook gaps found during a shift, lead the technical response for domain incidents, and write the RCA. Troubleshoot and resolve technical issues quickly across development and production environments. Delivery and Collaboration Own delivery of domain roadmap work and take part in quarterly and sprint planning with a view on feasibility. Anticipate blockers before sprint commitment, and escalate with a problem statement, an impact assessment, and proposed options. Work with Product and business stakeholders to remove ambiguity and to understand what success means for a feature. Work with the team lead to deliver domain solutions, and own service design and implementation end to end, including regressions you introduce. Keep the domain's tickets accurate and its documentation complete enough that it is the first place people look. Work across multiple time zones using asynchronous communication. Mentorship Act as a dedicated mentor to junior and mid-level engineers, with a clear sense of what each is working to improve. Technically lead and mentor a team of Backend Engineers building or extending complex modules. Required Skills and Experience Language: Fluency in English, including clear written communication, which is how most work happens across time zones. Backend engineering: Hands-on experience designing, building, and operating applications in Java, Kotlin, and/or Scala, including a web framework such as Spring. Track record: Has led and delivered multiple domain-significant projects, each validated in production over a meaningful period, including large scale consumer applications on cloud infrastructure (AWS, Google Cloud, or Azure) using microservices architecture. Technical expertise: Subject-matter expert in their own domain and conversant in adjacent ones. Maintains a working mental model of the wider company architecture and where the seams are. Assesses code and design quality beyond their own area. Solution building and system design: Designs services and their dependencies with security, maintainability, operability, and scale accounted for. Authors design documents (EDDs) and defend them in review. Designs for failure cases, not just the happy path. API design: Expert knowledge of REST API design and development for mobile and web use. Judgment and problem framing: Reframes poorly posed problems instead of answering them as asked. Decides with incomplete information and states the assumptions relied on. Distinguishes reversible from irreversible decisions and applies rigor accordingly. Choose the smallest solution that solves the problem. Data stores: Strong relational database experience (MySQL, MariaDB, PostgreSQL, Oracle, or MS SQL) and strong non-relational database experience (Cassandra, Redshift, DynamoDB, or HDFS). Testing and observability: Defines alert thresholds, SLIs, and SLOs for the domain along with the telemetry that supports them. Designs for graceful degradation. Ships new features with monitoring already in place. Co-owns Acceptance Tests coverage decisions with SDET and flags testability gaps before release. Security and compliance: Follows Tala's security and privacy practices in line with ISO-27001 and ISO-27701, follows OWASP secure coding practices, and remediates vulnerabilities within established SLAs. AI fluency: Knows when not to delegate to AI and decomposes domain work into agent-sized units with explicit acceptance criteria. Builds reusable context assets, prompts, and skills that others in the domain adopt. Sets the verification bar for the domain's AI-assisted work. Is accountable for AI-generated code as if it were hand-written, and never puts PII, borrower or credit data, secrets, or production credentials into a prompt or agent context. Delivery and impact: Owns delivery of domain roadmap work and balances feature velocity against technical debt deliberately. Owns an outcome rather than a task list, knows which metrics their systems move, and watches them after release. Ways of working: Expert proficiency in the Agile development process. Prioritizes and communicates well in a fast-paced environment. Strong drive for independent learning and work. Compensation Additional Information",
+      "experience": "Senior",
+      "job_type": "Remote",
+      "salary": "",
+      "posted_date": "2026-10-22",
+      "source": "Jobicy APAC",
+      "job_url": "https://jobicy.com/jobs/156465-senior-backend-engineer-11",
+      "skills": [
+        "Software Engineering"
       ]
     }
   ]
