@@ -1,267 +1,78 @@
 [
   {
-    "job_title": "Filters",
-    "company_name": "",
-    "location": "",
-    "description": "",
-    "experience": "",
-    "job_type": "",
-    "salary": "Min. Salary 5,000 - 1,000,000+",
-    "posted_date": "2026-10-25",
-    "source": "Rozee.pk",
-    "job_url": "https://www.rozee.pk/associate-product-manager-%e2%80%93-data-apis-islamabad-jobs-1926349?utm_source=jobSearch&utm_medium=website&utm_content=jobSearch_1926349&utm_campaign=ROZEE.PK_job_search"
+    "job_title": "Backend Engineer, Java - Web 3 Wallet",
+    "company_name": "Binance",
+    "location": "Remote",
+    "description": "Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users. We are trusted by 300+ million people in 100+ countries for our industry-leading security, user fund transparency, trading engine speed, deep liquidity, and an unmatched portfolio of digital-asset products. Binance offerings range from trading and finance to education, research, payments, institutional services, and more. Our mission is to increase the freedom of money and financial access for people around the world. The Binance Wallet team is building a decentralized version of Binance, featuring on-chain infrastructure, self-custody wallets, a DEX, and decentralized Earn and more. We empower users with full control over their assets for seamless token trading across any blockchain. This Web3 initiative expands our strategic landscape and complements our CEX business, offering significant growth potential. Join us and be part of this exciting journey. Responsibilities Responsible for designing, developing, and maintaining a high-performance system, ensuring the rationality and reliability of the system. Understand and apply block-chain technology, providing corresponding development support for the Web3 Wallet DEX project. Collaborate effectively within the team, actively participate in shaping technical architectures and solutions, continuously stay updated on and learn new technologies, and pursue emerging technologies. Drive the introduction of innovative technologies and solutions within the team, approaching problem-solving with an innovative mindset. Requirements 2 years or more of Java development experience with a solid foundation in computer science. Proficient in multi-threaded programming, familiarity with JVM, understanding of common open-source distributed middleware, caching, message queues, etc., and expertise in MySQL performance tuning. Familiarity with frameworks such as Spring Cloud, and prior experience in designing and stabilizing large-scale distributed, high-concurrency, high-load, and high-availability systems is a plus. Enthusiastic about technology, with stringent requirements for code quality and development standards, and effective communication and collaboration skills within a team. Strong logical thinking, excellent problem analysis and solving abilities, and a strong sense of responsibility. Understanding of blockchain technology, with preference given to candidates with related project experience. Why Binance Shape the future of finance Collaborate with world-class talent in a user-centric global organization with a flat structure Tackle challenging projects in a fast-paced and innovative enviornment with autonomy Thrive in a results-driven workplace with opportunities for career growth and continuous learning Competitive salary and company benefits Remote-first, work-from-home arrangement (may vary depending on the nature of the role and team) Binance is committed to being an equal opportunity employer. We believe that having a diverse workforce is fundamental to our success. By submitting a job application, you acknowledge that you have read our Candidate Privacy Notice . We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses and identifying potential inconsistencies or verification signals in application materials based on available information. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.",
+    "experience": "Any",
+    "job_type": "Remote",
+    "salary": "",
+    "posted_date": "2026-10-26",
+    "source": "Jobicy APAC",
+    "job_url": "https://jobicy.com/jobs/157144-backend-engineer-java-web-3-wallet",
+    "skills": [
+      "Software Engineering"
+    ]
   },
   {
-    "job_title": "Jobs",
-    "company_name": "",
-    "location": "",
-    "description": "",
-    "experience": "",
-    "job_type": "",
+    "job_title": "Safety Engineer (Backend Leaning)",
+    "company_name": "Elevenlabs",
+    "location": "Remote",
+    "description": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like Deutsche Telekom and Meta. Our investors are some of the world's most prominent, including Andreessen Horowitz, ICONIQ Growth and Sequoia. We've raised $781M in funding and our last valuation was $22B - multiples of 11, always. We have expanded from voice into three main platforms: ElevenAgents enables businesses to deliver seamless and intelligent customer experiences, with the integrations, testing, monitoring, and reliability necessary to deploy voice and chat agents at scale. ElevenCreative empowers creators and marketers to generate and edit speech, music, image, and video across 70+ languages. ElevenAPI gives developers access to our leading AI audio foundational models. Everything we do is the result of the creativity and commitment of our team - builders doing the best work of their lives. We are researchers, engineers, and operators. IOI medalists and ex-founders. If you want to work hard and create lasting positive impact, we want to hear from you. How we work High-velocity: Rapid experimentation, lean autonomous teams, and minimal bureaucracy. Impact not job titles: We don’t have job titles. Instead, it’s about the impact you have. No task is above or beneath you. AI first: We use AI to move faster with higher-quality results. We do this across the whole company—from engineering to growth to operations. Excellence everywhere: Everything we do should match the quality of our AI models. Global team: We prioritize your talent, not your location. What we offer Innovative culture: You’ll be part of a generational opportunity to define the trajectory of AI, surrounded by a team pushing the boundaries of what’s possible. Growth paths: Joining ElevenLabs means joining a dynamic team with countless opportunities to drive impact - beyond your immediate role and responsibilities. Learning & development : ElevenLabs proactively supports professional development through an annual discretionary stipend. Social travel : We also provide an annual discretionary stipend to meet up with colleagues each year, however you choose. Annual company offsite: Each year, we bring the entire team together in a new location - past offsites have included Croatia and Italy. Co-working : If you’re not located near one of our main hubs, we offer a monthly co-working stipend. What you’ll do Build safety systems: Design, develop, and scale automated moderation systems, abuse detection capabilities, and guardrails for AI agents across ElevenLabs’ products. Respond to emerging threats: Partner closely with the Investigations team to identify emerging abuse patterns, understand evolving threats, and continuously improve existing safety systems, detection mechanisms, and guardrails to address new risks. Own production infrastructure: Build and maintain a growing ecosystem of internal safety services, taking ownership of their architecture, deployment, reliability, monitoring, and ongoing operation. Bring ML models into production: Partner closely with ML engineers to deploy and integrate fine-tuned and proprietary ML models into production safety systems, ensuring they operate reliably and efficiently at scale. Build end-to-end solutions: Develop backend services, APIs, internal tools, and user-facing interfaces that enable effective moderation, safety operations, and policy enforcement. Collaborate across teams: Work closely with Product, Legal, and Safety Policy teams to translate business, regulatory, and policy requirements into scalable engineering solutions. Product: Understand and navigate the tradeoffs between product growth, user experience, and platform safety. Legal: Translate legal and regulatory requirements into practical, scalable safety systems. Safety Policy: Collaborate on how safety policies are implemented technically, while helping inform policy decisions through an understanding of engineering capabilities and constraints. Shape our technical direction: Contribute to architectural decisions and help define how our safety infrastructure evolves as our products, users, and safety challenges grow. Requirements 5+ years of software engineering experience building and operating production systems. Strong backend engineering experience, including designing APIs, working with databases, and building scalable services. Proficiency in Python and experience with modern backend frameworks. Experience building and maintaining distributed systems and cloud-based applications. Comfortable owning systems end to end, from technical design and implementation through deployment, monitoring, and ongoing maintenance. Experience working across different parts of the stack, with the ability to build internal tools or frontend interfaces when needed. Strong problem-solving skills and an ability to navigate ambiguous requirements and make pragmatic engineering decisions. Ability to collaborate effectively with engineers and non-technical stakeholders across different functions. Bonus Experience building Trust & Safety, content moderation, fraud detection, or abuse prevention systems. Experience building guardrails or safety infrastructure for AI agents and LLM-based applications. Experience deploying and integrating ML models into production applications. Familiarity with Kubernetes, Docker, CI/CD pipelines, and cloud infrastructure (AWS/GCP). Experience with monitoring and observability tools such as Prometheus and Grafana. Experience with React or other modern frontend frameworks. Experience with real-time data processing, event-driven architectures, or technologies such as Kafka and Redis. Location This role is remote and can be executed globally. If you prefer, you can work from our offices in London, New York, San Francisco, and Warsaw. #LI-remote We are an equal opportunity employer and do not discriminate on the basis of race, religion, national origin, gender, sexual orientation, age, veteran status, disability or other legally protected statuses.",
+    "experience": "Any",
+    "job_type": "Remote",
     "salary": "",
-    "posted_date": "2026-10-25",
-    "source": "Rozee.pk",
-    "job_url": "https://www.rozee.pk/associate-product-manager-%e2%80%93-data-apis-islamabad-jobs-1926349?utm_source=jobSearch&utm_medium=website&utm_content=jobSearch_1926349&utm_campaign=ROZEE.PK_job_search"
+    "posted_date": "2026-10-26",
+    "source": "Jobicy APAC",
+    "job_url": "https://jobicy.com/jobs/157048-safety-engineer-backend-leaning",
+    "skills": [
+      "Software Engineering"
+    ]
   },
   {
-    "job_title": "Associate Product Manager – Data & APIs",
-    "company_name": "",
-    "location": "",
-    "description": "",
-    "experience": "",
-    "job_type": "",
+    "job_title": "Systems Architect - APAC",
+    "company_name": "Elevenlabs",
+    "location": "Remote",
+    "description": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like Deutsche Telekom and Meta. Our investors are some of the world's most prominent, including Andreessen Horowitz, ICONIQ Growth and Sequoia. We've raised $781M in funding and our last valuation was $22B - multiples of 11, always. We have expanded from voice into three main platforms: ElevenAgents enables businesses to deliver seamless and intelligent customer experiences, with the integrations, testing, monitoring, and reliability necessary to deploy voice and chat agents at scale. ElevenCreative empowers creators and marketers to generate and edit speech, music, image, and video across 70+ languages. ElevenAPI gives developers access to our leading AI audio foundational models. Everything we do is the result of the creativity and commitment of our team - builders doing the best work of their lives. We are researchers, engineers, and operators. IOI medalists and ex-founders. If you want to work hard and create lasting positive impact, we want to hear from you. How we work High-velocity: Rapid experimentation, lean autonomous teams, and minimal bureaucracy. Impact not job titles: We don’t have job titles. Instead, it’s about the impact you have. No task is above or beneath you. AI first: We use AI to move faster with higher-quality results. We do this across the whole company—from engineering to growth to operations. Excellence everywhere: Everything we do should match the quality of our AI models. Global team: We prioritize your talent, not your location. What we offer Innovative culture: You’ll be part of a generational opportunity to define the trajectory of AI, surrounded by a team pushing the boundaries of what’s possible. Growth paths: Joining ElevenLabs means joining a dynamic team with countless opportunities to drive impact - beyond your immediate role and responsibilities. Learning & development : ElevenLabs proactively supports professional development through an annual discretionary stipend. Social travel : We also provide an annual discretionary stipend to meet up with colleagues each year, however you choose. Annual company offsite: Each year, we bring the entire team together in a new location - past offsites have included Croatia and Italy. Co-working : If you’re not located near one of our main hubs, we offer a monthly co-working stipend. About the role We're looking for a RevOps Systems Architect to help build a modern, AI-powered revenue operations stack. This isn't a traditional Salesforce admin role. We're building a GTM tech stack where AI is a first-class citizen, automations are genuinely intelligent, and our CRM is a living system that reflects how our business actually works. You'll function as a Salesforce admin and backend developer in one. You'll own platform administration, build complex automations via Flows and Apex, and develop and maintain custom services and integrations, including Salesforce MCP servers and AI tooling that connect our CRM to the broader systems our team runs on. For larger engineering efforts, you'll work shoulder-to-shoulder with our engineering team, scoping and shipping together. In this role, you will: Administer our Salesforce org: object model, data architecture, user configuration, and platform health. Build and maintain automations via Salesforce Flows, Apex, and custom services that power our GTM processes end to end. Develop and maintain Salesforce MCP servers and AI tooling that extend CRM functionality into AI-powered workflows. Design and maintain SQL-based data pipelines that feed dashboards and revenue reporting across the org. Translate ambiguous business problems into clean technical scope, from stakeholder conversation to implemented solution. Requirements Salesforce administration experience with deep familiarity across the object model, Flows, data loading tools, and platform configuration. Strong Apex development skills: you can build, debug, and maintain custom logic, triggers, and integrations without leaning on a separate engineering team. SQL proficiency: you can decompose ambiguous questions into answerable queries and are comfortable with complex joins, aggregations, and pipeline logic. Systems mindset: you can hold an end-to-end process in your head, trace a field from its origin through every downstream dependency, and anticipate what breaks when something changes. Excited by modern tooling: you're drawn to building AI-native systems and are curious about where Salesforce, MCP, and AI agents intersect. Bonus: Familiarity with dbt or modern data transformation tooling. Experience with BI tools such as Sigma or Looker. Location This role is based in Singapore We are an equal opportunity employer and do not discriminate on the basis of race, religion, national origin, gender, sexual orientation, age, veteran status, disability or other legally protected statuses.",
+    "experience": "Any",
+    "job_type": "Remote",
     "salary": "",
-    "posted_date": "2026-10-25",
-    "source": "Rozee.pk",
-    "job_url": "https://www.rozee.pk/associate-product-manager-%e2%80%93-data-apis-islamabad-jobs-1926349?utm_source=jobSearch&utm_medium=website&utm_content=jobSearch_1926349&utm_campaign=ROZEE.PK_job_search"
+    "posted_date": "2026-10-26",
+    "source": "Jobicy APAC",
+    "job_url": "https://jobicy.com/jobs/157045-systems-architect-apac",
+    "skills": [
+      "Software Engineering"
+    ]
   },
   {
-    "job_title": "Associate, Product Operations-Seller Chatbot & HC",
-    "company_name": "",
-    "location": "",
-    "description": "",
-    "experience": "",
-    "job_type": "",
+    "job_title": "Staff Software Engineer",
+    "company_name": "UpGuard",
+    "location": "Remote",
+    "description": "Who are we? At UpGuard , we are replacing manual security bottlenecks with AI-driven precision. Fresh off a US$75M Series C, we are scaling our infrastructure to process 100 billion risk signals daily. This isn’t just growth; it’s a total reimagining of how the world manages cyber risk. We build the Cyber Risk Posture Management (CRPM) platform that security teams actually love. By integrating security ratings, threat intel, and agentic AI, we empower organisations to stay ahead of an ever evolving attack surface. We aren’t just building another tool; we’re defining a category. We provide the autonomy to ship world-class technology and the resources to do it at a global scale. About the role We're hiring a Staff Software Engineer to set technical direction across Product Engineering. The architecture, data and scaling problems that matter most don't sit neatly inside one squad, and that's where you come in. You'll stay hands-on in the code while working with engineering leadership on where the platform goes next, and you'll raise the bar for how we build across the whole org. You'll join one of our 11 (and growing) Product Engineering squads, most of which have a product manager, designer and technical lead alongside the engineers. Our stack is React and TypeScript on the front end, Go services with Postgres as our primary database, running on Kubernetes via Google Cloud Platform. Our engineers work with agentic coding tools, mostly Claude Code and Cursor, and a growing part of the product is LLM-backed. You'll work this way from day one, and we'll want your ideas on what to automate next, from how we write code to how we test, review, ship and run it. We're also hiring Software Engineers and Senior Software Engineers . Not sure which level fits? Apply to the closest one and we'll work it out together. What you'll do Stay hands-on: ship features in a squad, so your technical direction is grounded in the code and the customer Set cross-team technical direction and own the architecture decisions that span squads Lead our hardest scaling and data problems as we grow toward 100 billion risk signals a day Raise the engineering bar org-wide through standards, review, and mentoring senior engineers Shape the roadmap with engineering and product leadership: what to build, not only how What we're looking for Typically 8+ years of relevant engineering experience at tech-centric, product-driven companies Strong TypeScript and React A backend language you're productive in (we use Go) Solid relational database skills (we use Postgres) AI coding tools as your default workflow, and the judgment to review and own what they produce Pragmatic trade-offs: you weigh technical quality against what the business needs now Low ego, high care: you're in it for the product and the customer, not just the code A track record of setting technical direction across multiple teams, and bringing people with you rather than just writing the doc Evidence of owning a hard scaling or architecture problem end to end, where the outcome mattered to the business Comfort influencing without authority, working with product and leadership on what to build, not only how What will give you an edge? Cybersecurity experience Running services on Kubernetes, ideally on GCP Data engineering, large-scale scanning or crawling, or other high-throughput systems Evolving both architecture and team culture as a company scales, from a growing monolith toward services that teams build, run and own Building complex applications or systems from the ground up with a cross-functional team What's in it for you? Monthly Lifestyle subsidy: Use this for financial, physical, and mental well-being WFH set-up allowance: To ensure you have the right environment to work in, we will help you get set up within your first 3 months at UpGuard $1500 USD annual Learning & Development allowance: To support your career development, all team members will be able to expense development opportunities against this allowance Annual leave: PTO plus two additional UpGuardian leave days to give you time to recharge your batteries. 18 weeks paid Parental Leave: Irrespective of parenting role Personal Leave Allowance: This includes sick & carer’s leave Fully remote working environment: While we have physical offices in Sydney & Hobart, we do not mandate compulsory attendance Top-spec hardware: All team members will be provided with top-spec laptops for their role Generative AI subsidy: UpGuard provides paid subscriptions for all team members to access generative AI tools to support their work Stock Options: Share in UpGuard's growth and long-term success. UpGuard is a Certified Great Place to Work® in the US, Australia, UK and India, establishing its position as a leading global technology employer. 99% of team members agree that UpGuard is a great place to work! Apply now to find out why! As an Equal Employment Opportunity and Affirmative Action Employer, qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender perception or identity, national origin, age, marital status, protected veteran status, or disability status. Please Note: Not all roles can be performed from the United States. Please check your specific job listing to confirm its advertised location. If the role you are applying for is listed as based in the US, we are currently only able to support hiring in the following locations: CA, CO, FL, IL, MA, MD, MO, OR, PA, TX, WA, and DC. Before starting work with us, you will need to undertake a national police history check and reference checks.",
+    "experience": "Senior",
+    "job_type": "Remote",
     "salary": "",
-    "posted_date": "2026-10-25",
-    "source": "Rozee.pk",
-    "job_url": "https://www.rozee.pk/associate-product-operations-seller-chatbot-hc-karachi-jobs-1926572?utm_source=jobSearch&utm_medium=website&utm_content=jobSearch_1926572&utm_campaign=ROZEE.PK_job_search"
+    "posted_date": "2026-10-26",
+    "source": "Jobicy APAC",
+    "job_url": "https://jobicy.com/jobs/154068-staff-software-engineer-7",
+    "skills": [
+      "Software Engineering"
+    ]
   },
   {
-    "job_title": "Journalist",
-    "company_name": "",
-    "location": "",
-    "description": "",
-    "experience": "",
-    "job_type": "",
+    "job_title": "Senior Software Engineer, Backend (Money Movement)",
+    "company_name": "Phantom",
+    "location": "Remote",
+    "description": "Phantom is on a mission to connect the world to the freedom of open markets. Tens of millions of people all over the world use Phantom to access global markets that never close, including perpetuals, prediction markets, tokenized assets, stablecoins and memes. Phantom users are able to discover the markets that matter and the cultural moments that shape them, building conviction through real-time data and the verified performance of top traders. With self-custody and access to open networks at its core, Phantom lets them control their financial moves in the same app they use to safely store or spend money worldwide. Phantom has reached #1 in Google Play's finance category and consistently ranks in the top 50 apps across all categories. Phantom partners with many of the most trusted and influential names in finance like Hyperliquid, Stripe, Kalshi and Visa, to make the most popular and innovative financial products accessible to everyone. We are around 180 people, fully remote, backed by a $150M Series C investment from a16z, Sequoia Capital and Paradigm. Responsibilities Staff Backend Engineer who blends systems thinking with product pragmatism and a real passion for crypto. You’ll design, maintain, and evolve the backend services and APIs that connect Phantom Cash to blockchains. You understand both client-server architecture and blockchain protocols, and you know how to balance reliability, quality, and speed. You communicate clearly across pods, document rigorously, and elevate the engineering bar through execution and mentorship. Your work will make Phantom Cash feel dependable, seamless, and ready to scale. Qualifications Bachelors degree in Computer Science or related technical field or equivalent practical experience Pragmatic engineering mindset, focuses on results and user impact, not abstract purity. Proactive and outcome-oriented: anticipates problems, pushes features to completion without waiting for perfect specs. Strong communicator and pragmatic problem solver - explains complexity simply, favors progress over perfection. Node.js / NestJS at scale; event-driven design (queues, retries, idempotency). REST API architecture: versioning, pagination, error models, authentication, rate-limiting. Full-stack awareness: understands trade-offs of state management (client vs server) and latency budgets. Distributed-systems fundamentals: concurrency, ordering, retries, data consistency. Nice to Have Kubernetes + AWS ops; CI/CD; observability; on-call ownership. Deep interest in crypto - keeps up with ecosystem changes, wallets, protocols, and security norms. Previous hands-on experience in crypto or fintech (exchanges, wallets, payment rails, ledgers). Smart-contract and protocol understanding: knows how on-chain programs interact with off-chain services. Blockchain integration experience — Solana preferred, EVM acceptable. Has shipped high-quality products in mature, high-bar engineering organizations. Why Work with Us We are a team of experienced builders in the blockchain and crypto industry. Our journey began from users seeking an easy, seamless path to accessing the crypto ecosystem. This passion fueled our exponential growth, allowing us to onboard over 7M+ active users in just over three years; with our user base growing weekly. Our dedication to a secure and seamless user experience has made us the leading wallet on Solana as well as our multi-chain approach enhances our platform's versatility, meeting the needs of a diverse and growing user base. By staying at the forefront of technology and user expectations, we continue to innovate and set industry standards on self-custodial crypto wallets. There has never been a better time to work in crypto to help shape the future of innovation with a focus around the wallet experience! First impressions matter: Wallets are responsible for a users first impression with crypto and onboarding new users into crypto. By ensuring that a user has a great first-time experience with crypto, we can help supercharge the growth of the entire ecosystem. Make crypto easier to navigate: There is no easy way for a user to discover and navigate all that crypto has to offer. Wallets have a unique opportunity to help users not only onboard to crypto but also stay retained by exploring new things to do. We live in a multi-chain world: We currently support Solana, Ethereum, Polygon and Bitcoin with more networks to come in the new future. We are focused on creating a unified, multi-chain crypto experience for users. Benefits Competitive salary and equity Comprehensive insurance (medical/dental/vision) - Employee 100% covered Stipend for your ideal remote set-up Flexible hours and a supportive remote environment Unlimited vacation: Take time when you need it (and we really mean it!) 401(k) retirement plan Monthly wellness benefit Weekly meal benefit Global off-sites #LI-DNP We strongly encourage candidates of all backgrounds to apply. We believe that our work is stronger with a variety of perspectives, and we’re eager to further diversify our company. If you have a background that you feel would make an impact at Phantom, please consider applying. We’re committed to building an inclusive, supportive place for you to do the best work of your career. By submitting your resume and application materials, you acknowledge and agree that Phantom Technologies, Inc. (\"Phantom\") collects and processes your personal information (including application materials, interview records, and related data) to evaluate your candidacy. Phantom may use AI-powered tools and third-party service providers for transcription, note-taking, scheduling, and other administrative tasks. Phantom does not sell your information and your materials will be handled securely and in accordance with applicable data protection laws.",
+    "experience": "Senior",
+    "job_type": "Remote",
     "salary": "",
-    "posted_date": "2026-10-25",
-    "source": "Rozee.pk",
-    "job_url": "https://www.rozee.pk/journalist-jobs-1926490?utm_source=jobSearch&utm_medium=website&utm_content=jobSearch_1926490&utm_campaign=ROZEE.PK_job_search"
-  },
-  {
-    "job_title": "Information Technology Instructor",
-    "company_name": "",
-    "location": "",
-    "description": "",
-    "experience": "",
-    "job_type": "",
-    "salary": "",
-    "posted_date": "2026-10-25",
-    "source": "Rozee.pk",
-    "job_url": "https://www.rozee.pk/information-technology-instructor-jobs-1926591?utm_source=jobSearch&utm_medium=website&utm_content=jobSearch_1926591&utm_campaign=ROZEE.PK_job_search"
-  },
-  {
-    "job_title": "GIG-Senior Developer-Salesforce-Daikin",
-    "company_name": "",
-    "location": "",
-    "description": "",
-    "experience": "",
-    "job_type": "",
-    "salary": "",
-    "posted_date": "2026-10-25",
-    "source": "Rozee.pk",
-    "job_url": "https://www.rozee.pk/gig-senior-developer-salesforce-daikin-hyderabad-jobs-1926603?utm_source=jobSearch&utm_medium=website&utm_content=jobSearch_1926603&utm_campaign=ROZEE.PK_job_search"
-  },
-  {
-    "job_title": "Client Onboarding Executive - PostEx",
-    "company_name": "",
-    "location": "",
-    "description": "",
-    "experience": "",
-    "job_type": "",
-    "salary": "",
-    "posted_date": "2026-10-25",
-    "source": "Rozee.pk",
-    "job_url": "https://www.rozee.pk/client-onboarding-executive-postex-lahore-jobs-1926686?utm_source=jobSearch&utm_medium=website&utm_content=jobSearch_1926686&utm_campaign=ROZEE.PK_job_search"
-  },
-  {
-    "job_title": "Commercial Officer",
-    "company_name": "",
-    "location": "",
-    "description": "",
-    "experience": "",
-    "job_type": "",
-    "salary": "",
-    "posted_date": "2026-10-25",
-    "source": "Rozee.pk",
-    "job_url": "https://www.rozee.pk/commercial-officer-lahore-jobs-1926329?utm_source=jobSearch&utm_medium=website&utm_content=jobSearch_1926329&utm_campaign=ROZEE.PK_job_search"
-  },
-  {
-    "job_title": "Video Editor - Associate",
-    "company_name": "",
-    "location": "",
-    "description": "",
-    "experience": "",
-    "job_type": "",
-    "salary": "",
-    "posted_date": "2026-10-25",
-    "source": "Rozee.pk",
-    "job_url": "https://www.rozee.pk/video-editor-associate-lahore-jobs-1926417?utm_source=jobSearch&utm_medium=website&utm_content=jobSearch_1926417&utm_campaign=ROZEE.PK_job_search"
-  },
-  {
-    "job_title": "IT Officer",
-    "company_name": "",
-    "location": "",
-    "description": "",
-    "experience": "",
-    "job_type": "",
-    "salary": "",
-    "posted_date": "2026-10-25",
-    "source": "Rozee.pk",
-    "job_url": "https://www.rozee.pk/it-officer-karachi-jobs-1926383?utm_source=jobSearch&utm_medium=website&utm_content=jobSearch_1926383&utm_campaign=ROZEE.PK_job_search"
-  },
-  {
-    "job_title": "Associate Supply Chain Planner",
-    "company_name": "",
-    "location": "",
-    "description": "",
-    "experience": "",
-    "job_type": "",
-    "salary": "",
-    "posted_date": "2026-10-25",
-    "source": "Rozee.pk",
-    "job_url": "https://www.rozee.pk/associate-supply-chain-planner-islamabad-jobs-1926689?utm_source=jobSearch&utm_medium=website&utm_content=jobSearch_1926689&utm_campaign=ROZEE.PK_job_search"
-  },
-  {
-    "job_title": "IT Support Officer",
-    "company_name": "",
-    "location": "",
-    "description": "",
-    "experience": "",
-    "job_type": "",
-    "salary": "",
-    "posted_date": "2026-10-25",
-    "source": "Rozee.pk",
-    "job_url": "https://www.rozee.pk/it-support-officer-lahore-jobs-1926324?utm_source=jobSearch&utm_medium=website&utm_content=jobSearch_1926324&utm_campaign=ROZEE.PK_job_search"
-  },
-  {
-    "job_title": "GM Cybersecurity & Technology Risk (CISO)",
-    "company_name": "",
-    "location": "",
-    "description": "",
-    "experience": "",
-    "job_type": "",
-    "salary": "",
-    "posted_date": "2026-10-25",
-    "source": "Rozee.pk",
-    "job_url": "https://www.rozee.pk/gm-cybersecurity-technology-risk-ciso-islamabad-jobs-1926439?utm_source=jobSearch&utm_medium=website&utm_content=jobSearch_1926439&utm_campaign=ROZEE.PK_job_search"
-  },
-  {
-    "job_title": "Principal Technology Manager Pakistan",
-    "company_name": "",
-    "location": "",
-    "description": "",
-    "experience": "",
-    "job_type": "",
-    "salary": "",
-    "posted_date": "2026-10-25",
-    "source": "Rozee.pk",
-    "job_url": "https://www.rozee.pk/principal-technology-manager-pakistan-karachi-jobs-1926650?utm_source=jobSearch&utm_medium=website&utm_content=jobSearch_1926650&utm_campaign=ROZEE.PK_job_search"
-  },
-  {
-    "job_title": "Video Editor",
-    "company_name": "",
-    "location": "",
-    "description": "",
-    "experience": "",
-    "job_type": "",
-    "salary": "",
-    "posted_date": "2026-10-25",
-    "source": "Rozee.pk",
-    "job_url": "https://www.rozee.pk/dnm-technology-video-editor-jobs-1926703?utm_source=jobSearch&utm_medium=website&utm_content=jobSearch_1926703&utm_campaign=ROZEE.PK_job_search"
-  },
-  {
-    "job_title": "Upwork Bidder",
-    "company_name": "",
-    "location": "",
-    "description": "",
-    "experience": "",
-    "job_type": "",
-    "salary": "",
-    "posted_date": "2026-10-25",
-    "source": "Rozee.pk",
-    "job_url": "https://www.rozee.pk/upwork-bidder-karachi-jobs-1926514?utm_source=jobSearch&utm_medium=website&utm_content=jobSearch_1926514&utm_campaign=ROZEE.PK_job_search"
-  },
-  {
-    "job_title": "Customer Sales Representative",
-    "company_name": "",
-    "location": "",
-    "description": "",
-    "experience": "",
-    "job_type": "",
-    "salary": "",
-    "posted_date": "2026-10-25",
-    "source": "Rozee.pk",
-    "job_url": "https://www.rozee.pk/customer-sales-representative-lahore-jobs-1926511?utm_source=jobSearch&utm_medium=website&utm_content=jobSearch_1926511&utm_campaign=ROZEE.PK_job_search"
-  },
-  {
-    "job_title": "GIG-CustomerTech-Salesforce-QA-Senior",
-    "company_name": "",
-    "location": "",
-    "description": "",
-    "experience": "",
-    "job_type": "",
-    "salary": "",
-    "posted_date": "2026-10-25",
-    "source": "Rozee.pk",
-    "job_url": "https://www.rozee.pk/gig-customertech-salesforce-qa-senior-hyderabad-jobs-1926658?utm_source=jobSearch&utm_medium=website&utm_content=jobSearch_1926658&utm_campaign=ROZEE.PK_job_search"
-  },
-  {
-    "job_title": "Cell & Gene Therapy Project Specialist",
-    "company_name": "",
-    "location": "",
-    "description": "",
-    "experience": "",
-    "job_type": "",
-    "salary": "",
-    "posted_date": "2026-10-25",
-    "source": "Rozee.pk",
-    "job_url": "https://www.rozee.pk/cell-gene-therapy-project-specialist-lahore-jobs-1926327?utm_source=jobSearch&utm_medium=website&utm_content=jobSearch_1926327&utm_campaign=ROZEE.PK_job_search"
-  },
-  {
-    "job_title": "Cloud Infrastructure Engineer",
-    "company_name": "",
-    "location": "",
-    "description": "",
-    "experience": "",
-    "job_type": "",
-    "salary": "",
-    "posted_date": "2026-10-25",
-    "source": "Rozee.pk",
-    "job_url": "https://www.rozee.pk/cloud-infrastructure-engineer-karachi-jobs-1926422?utm_source=jobSearch&utm_medium=website&utm_content=jobSearch_1926422&utm_campaign=ROZEE.PK_job_search"
-  },
-  {
-    "job_title": "AM– Technical (ICT System Integrator – CCTV & Networking)",
-    "company_name": "",
-    "location": "",
-    "description": "",
-    "experience": "",
-    "job_type": "",
-    "salary": "",
-    "posted_date": "2026-10-25",
-    "source": "Rozee.pk",
-    "job_url": "https://www.rozee.pk/am%e2%80%93-technical-ict-system-integrator-%e2%80%93-cctv-networking-lahore-jobs-1926348?utm_source=jobSearch&utm_medium=website&utm_content=jobSearch_1926348&utm_campaign=ROZEE.PK_job_search"
+    "posted_date": "2026-10-26",
+    "source": "Jobicy APAC",
+    "job_url": "https://jobicy.com/jobs/154082-senior-software-engineer-backend-money-movement",
+    "skills": [
+      "Software Engineering"
+    ]
   },
   {
     "job_title": "Linux Software Engineer - Ubuntu for Next-Gen Silicon (multiple roles and seniority levels)",
@@ -894,70 +705,10 @@
     ]
   },
   {
-    "job_title": "Full-Stack Engineer - Creative Agents",
-    "company_name": "Elevenlabs",
-    "location": "Remote",
-    "description": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like Deutsche Telekom and Meta. Our investors are some of the world's most prominent, including Andreessen Horowitz, ICONIQ Growth and Sequoia. We've raised $781M in funding and our last valuation was $22B - multiples of 11, always. We have expanded from voice into three main platforms: ElevenAgents enables businesses to deliver seamless and intelligent customer experiences, with the integrations, testing, monitoring, and reliability necessary to deploy voice and chat agents at scale. ElevenCreative empowers creators and marketers to generate and edit speech, music, image, and video across 70+ languages. ElevenAPI gives developers access to our leading AI audio foundational models. Everything we do is the result of the creativity and commitment of our team - builders doing the best work of their lives. We are researchers, engineers, and operators. IOI medalists and ex-founders. If you want to work hard and create lasting positive impact, we want to hear from you. How we work High-velocity: Rapid experimentation, lean autonomous teams, and minimal bureaucracy. Impact not job titles: We don’t have job titles. Instead, it’s about the impact you have. No task is above or beneath you. AI first: We use AI to move faster with higher-quality results. We do this across the whole company—from engineering to growth to operations. Excellence everywhere: Everything we do should match the quality of our AI models. Global team: We prioritize your talent, not your location. What we offer Innovative culture: You’ll be part of a generational opportunity to define the trajectory of AI, surrounded by a team pushing the boundaries of what’s possible. Growth paths: Joining ElevenLabs means joining a dynamic team with countless opportunities to drive impact - beyond your immediate role and responsibilities. Learning & development : ElevenLabs proactively supports professional development through an annual discretionary stipend. Social travel : We also provide an annual discretionary stipend to meet up with colleagues each year, however you choose. Annual company offsite: Each year, we bring the entire team together in a new location - past offsites have included Croatia and Italy. Co-working : If you’re not located near one of our main hubs, we offer a monthly co-working stipend. About the role We are looking for a full-stack engineer to help build the next generation of Creative Agents at ElevenLabs. Our ambition is to make agents a primary way people create across ElevenCreative. We are building systems that turn ideas into high-quality audio, image and video, bringing models and creative tools together without requiring users to become prompting experts. The creative agent is already live. You will join a small team where engineers own complete problems across the full stack: frontend, backend, agent architecture and infrastructure. You should be equally comfortable building a user-facing feature, designing the services behind it, and deploying and operating the system in production. You will combine strong engineering with product judgement, taking ideas from early prototypes through to reliable features and using real customer feedback to guide what we build next. Your responsibilities will include: Designing and building complete agent-powered features, from frontend interfaces and application state to backend services, APIs and data storage. Developing agent capabilities and integrations, including model orchestration, creative tools and reliable asynchronous workflows for audio, image and video generation. Building and operating the infrastructure behind these features, improving quality, performance, scalability and security through evaluations, monitoring and testing. Owning a problem area from discovery and prototyping to deployment and ongoing operation, working closely with product, design and engineering. You will help shape both what the agent can do and how people use it across ElevenCreative. The work combines substantial greenfield development with improving a live product, with room to experiment and directly influence the product's direction. Location: This role is remote and can be executed globally. If you prefer, you can work from our offices in London, New York, San Francisco, and Warsaw. #LI-Remote Requirements We care about evidence of exceptional engineering: products you have shipped, difficult problems you have solved, and systems you have owned. We are looking for: Strong engineering skills across both frontend and backend, with a track record of independently building complete production applications. Confidence designing user interfaces, backend services, APIs and data models, and understanding how these components work together as a system. Practical experience with cloud infrastructure, deployment, asynchronous processing, testing and observability, with the ability to debug and resolve problems across the full stack. Evidence of end-to-end ownership, strong product judgement and clear communication, taking ambiguous problems from technical design through to shipping and ongoing operation. You should be excited about creative agents and comfortable learning quickly as models, tools and user needs evolve. Hands-on experience building production agents, evaluations, MCP integrations, creative editors or multimodal products would be particularly valuable, as would experience building in a small, fast-moving team. We are an equal opportunity employer and do not discriminate on the basis of race, religion, national origin, gender, sexual orientation, age, veteran status, disability or other legally protected statuses.",
-    "experience": "Any",
-    "job_type": "Remote",
-    "salary": "",
-    "posted_date": "2026-10-19",
-    "source": "Jobicy APAC",
-    "job_url": "https://jobicy.com/jobs/155941-full-stack-engineer-creative-agents",
-    "skills": [
-      "Software Engineering"
-    ]
-  },
-  {
-    "job_title": "Full-Stack Engineer (Backend Leaning) - Creative Agents",
-    "company_name": "Elevenlabs",
-    "location": "Remote",
-    "description": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like Deutsche Telekom and Meta. Our investors are some of the world's most prominent, including Andreessen Horowitz, ICONIQ Growth and Sequoia. We've raised $781M in funding and our last valuation was $22B - multiples of 11, always. We have expanded from voice into three main platforms: ElevenAgents enables businesses to deliver seamless and intelligent customer experiences, with the integrations, testing, monitoring, and reliability necessary to deploy voice and chat agents at scale. ElevenCreative empowers creators and marketers to generate and edit speech, music, image, and video across 70+ languages. ElevenAPI gives developers access to our leading AI audio foundational models. Everything we do is the result of the creativity and commitment of our team - builders doing the best work of their lives. We are researchers, engineers, and operators. IOI medalists and ex-founders. If you want to work hard and create lasting positive impact, we want to hear from you. How we work High-velocity: Rapid experimentation, lean autonomous teams, and minimal bureaucracy. Impact not job titles: We don’t have job titles. Instead, it’s about the impact you have. No task is above or beneath you. AI first: We use AI to move faster with higher-quality results. We do this across the whole company—from engineering to growth to operations. Excellence everywhere: Everything we do should match the quality of our AI models. Global team: We prioritize your talent, not your location. What we offer Innovative culture: You’ll be part of a generational opportunity to define the trajectory of AI, surrounded by a team pushing the boundaries of what’s possible. Growth paths: Joining ElevenLabs means joining a dynamic team with countless opportunities to drive impact - beyond your immediate role and responsibilities. Learning & development : ElevenLabs proactively supports professional development through an annual discretionary stipend. Social travel : We also provide an annual discretionary stipend to meet up with colleagues each year, however you choose. Annual company offsite: Each year, we bring the entire team together in a new location - past offsites have included Croatia and Italy. Co-working : If you’re not located near one of our main hubs, we offer a monthly co-working stipend. About the role We are looking for a backend-leaning full-stack engineer to help build the next generation of Creative Agents at ElevenLabs. Our ambition is to make agents a primary way people create across ElevenCreative. We are building systems that turn ideas into high-quality audio, image and video, bringing models and creative tools together without requiring users to become prompting experts. The creative agent is already live. You will join a small team shaping its capabilities and architecture, with ownership from backend systems and agent infrastructure through to the customer-facing experience. You will help discover what works, turn experiments into reliable features, and use real customer feedback to guide what we build next. Your responsibilities will include: Building production agents and expanding their capabilities through prompts, tool use, orchestration, new models and MCP integrations. Designing and operating reliable backend systems for asynchronous creative generation and long-running tasks, with strong performance, observability, scalability and security. Developing shared evaluations and live quality monitoring, including model-based assessment of image and video outputs. Owning features end to end, from identifying user needs and prototyping to shipping across the stack and supporting them in production, alongside product, design and engineering. You will help shape both what the agent can do and how people use it across ElevenCreative. The work combines substantial greenfield development with improving and operating a live product. Requirements We care about evidence of exceptional engineering: products you have shipped, difficult problems you have solved, and systems you have owned. We are looking for: Strong backend engineering skills, experience operating production systems, and sound fundamentals in APIs, cloud infrastructure, storage and asynchronous processing. Hands-on experience developing agents, with an understanding of prompts, tools, execution logic, evaluations and the challenges of reliable, secure operation. Evidence of independent, end-to-end ownership and confidence working across the stack, including frontend delivery when needed. Good product judgement, clear communication and enthusiasm for creative agents. We may also consider exceptional engineers with closely relevant experience. Familiarity with HTTP, WebSockets and asynchronous workers will help you build reliable communication between services and recover from failures. Experience with multimodal generation, creative editors, MCP, or building products in a small, fast-moving team would be particularly valuable. Location: This role is remote and can be executed globally. If you prefer, you can work from our offices in London, New York, San Francisco, and Warsaw. #LI-Remote We are an equal opportunity employer and do not discriminate on the basis of race, religion, national origin, gender, sexual orientation, age, veteran status, disability or other legally protected statuses.",
-    "experience": "Any",
-    "job_type": "Remote",
-    "salary": "",
-    "posted_date": "2026-10-19",
-    "source": "Jobicy APAC",
-    "job_url": "https://jobicy.com/jobs/155939-full-stack-engineer-backend-leaning-creative-agents",
-    "skills": [
-      "Software Engineering"
-    ]
-  },
-  {
-    "job_title": "Binance Accelerator Program - QA Automation",
-    "company_name": "Binance",
-    "location": "Remote",
-    "description": "Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users. We are trusted by 300+ million people in 100+ countries for our industry-leading security, user fund transparency, trading engine speed, deep liquidity, and an unmatched portfolio of digital-asset products. Binance offerings range from trading and finance to education, research, payments, institutional services, and more. Our mission is to increase the freedom of money and financial access for people around the world. Responsibilities: Work closely with team members to test and deliver high quality products. Understand business scenarios and tech design, design and develop test cases, and organize test case reviews. Execute test cases and identify issues through functional and regression tests. Identify, track bugs to be fixed and make sure delivery on time. Design, develop and execute automation scripts to increase efficiency Requirements: Undergraduate or postgraduate in computer science, software engineering or related fields. Understanding of software engineering, QA methodologies Familiar with Java Familiar with mysql Database Strong analytical and trouble-shooting skills. Good communication and collaboration skills in a fast-paced environment. Fast learner and strong work ethic. Ability to commit at least 6 months tenure, fulltime 5 days per week Why Binance Shape the future of finance Collaborate with world-class talent in a user-centric global organization with a flat structure Tackle challenging projects in a fast-paced and innovative enviornment with autonomy Thrive in a results-driven workplace with opportunities for career growth and continuous learning Competitive salary and company benefits Remote-first, work-from-home arrangement (may vary depending on the nature of the role and team) Binance is committed to being an equal opportunity employer. We believe that having a diverse workforce is fundamental to our success. By submitting a job application, you acknowledge that you have read our Candidate Privacy Notice . We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses and identifying potential inconsistencies or verification signals in application materials based on available information. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.",
-    "experience": "Any",
-    "job_type": "Remote",
-    "salary": "",
-    "posted_date": "2026-10-19",
-    "source": "Jobicy APAC",
-    "job_url": "https://jobicy.com/jobs/155925-binance-accelerator-program-qa-automation",
-    "skills": [
-      "QA & Testing"
-    ]
-  },
-  {
-    "job_title": "Senior Software Development Engineer in Test (SDET)",
-    "company_name": "Flex",
-    "location": "Remote",
-    "description": "Flex is a growth-stage, NYC headquartered FinTech company that is building the payment layer for life's essential bills, giving households one place to see, split, and pay their bills around how they live and get paid. By offering greater choice over how and when payments are made and allowing eligible on time payments to help build a positive credit history, Flex puts households back in control of their cash flow. That work brings together people with different perspectives who challenge the status quo and take ownership of solving difficult problems. For you, that means doing the best work of your career next to people who make you better, and together bringing ideas to life that make a real impact for the people we serve. About the role As a Senior SDET at Flex, you will own the test automation and quality efforts for entire product areas or major features. You will architect and optimize automation frameworks, lead test strategy for complex systems, and regularly collaborate across teams to deliver reliable and high-quality releases. This role offers the opportunity to mentor others, drive cross-functional quality improvements, and play a critical part in shaping the future of our engineering excellence. What you’ll do Architect, implement, and optimize automated test frameworks for complex product areas, ensuring high reliability and maintainability Design, develop, and maintain robust automated test suites for API, UI, and integration testing Lead test strategy development and perform risk analysis for major features and systems Integrate automated testing into CI/CD pipelines, supporting continuous integration and delivery processes Proactively identify systemic quality issues and drive cross-team process improvements to increase coverage and efficiency Analyze test coverage, identify gaps, and implement solutions to improve product quality Collaborate closely with engineering, product, and quality leaders on cross-functional quality initiatives and release planning Provide technical guidance and mentorship to junior SDETs and QA team members, fostering skill development and best practices Review code and test cases contributed by other engineers for quality and maintainability Maintain accurate and actionable test documentation, reports, and quality metrics for assigned product areas Investigate and resolve complex defects and production issues through advanced debugging and root cause analysis Advocate for quality and champion adoption of best practices within and across engineering teams Proven ability to lead test strategy and risk analysis while making high-impact technical decisions amid ambiguity and prioritizing what matters most. Key qualifications Bachelor’s degree in Computer Science or related field, or equivalent experience 5+ years of experience in software development and test automation Advanced proficiency in multiple programming languages and test automation frameworks Deep experience designing, building, and maintaining automation frameworks (e.g., Playwright, Cypress, Selenium, RestAssured) Strong expertise in API, UI, and integration testing Proficient in CI/CD pipeline integration and optimization Skilled in test strategy development, risk analysis, and test architecture Advanced debugging, troubleshooting, and root cause analysis Solid understanding of database systems and advanced SQL Experience with observability and monitoring tools (e.g., DataDog, NewRelic) Excellent cross-functional communication and mentorship skills Strong written and verbal communication skills; able to collaborate across functions Compensation Flex takes a market-based approach to pay, and compensation may vary depending on your primary work location. Work locations are categorized into one of three tiers based on a cost of labor index for that geographic area. The successful candidate’s starting pay will be commensurate with their experience, qualifications, and Flex’s internal leveling guidelines and benchmarks. Tier 1 (NYC/Bay Area, Los Angeles, Seattle) $136,000—$170,000 USD Tier 2 (Austin, Washington D.C. Philadelphia, San Diego, Chicago, Atlanta) $122,400—$153,000 USD Tier 3 (Salt Lake City, all other USA cities) $115,600—$144,500 USD Life at Flex We understand that it takes a diverse team of highly intelligent, curious, determined, empathetic, and self aware people to grow a successful company. Our HQ is located in New York City, but we have employees located throughout the US, Australia, Canada and South America. We are growing quickly, but deliberately, with a focus on building an inclusive culture. Our dynamic team has incredible perspectives to share, just as we know you do, and we take great pride in being an equal opportunity workplace. Offices Roles posted in New York, San Francisco, and Salt Lake City are hybrid positions with on-site expectations of 2-3 days per week in our local offices. For candidates outside of these areas, you may be eligible for our relocation assistance program. Benefits View our benefits and more at getflex.com/careers .",
-    "experience": "Senior",
-    "job_type": "Remote",
-    "salary": "",
-    "posted_date": "2026-10-19",
-    "source": "Jobicy APAC",
-    "job_url": "https://jobicy.com/jobs/155928-senior-software-development-engineer-in-test-sdet-2",
-    "skills": [
-      "QA & Testing"
-    ]
-  },
-  {
     "job_title": "Engenharia Software Engineer III Golang",
     "company_name": "Stone",
     "location": "Remote",
-    "description": "Quem Ã© Stone Tech? A Stone nasceu com o propÃ³sito de ser protagonista na transformaÃ§Ã£o da indÃºstria de pagamentos, lutando para oferecer as melhores soluÃ§Ãµes para quem empreende no Brasil. Pensando nisso, construÃ­mos a Stone Tech! A junÃ§Ã£o dos times de tecnologia Stone Co. e as empresas financeiras do grupo que reconhecem o potencial empreendedor de cada brasileiro. Por aqui, temos todas as inovaÃ§Ãµes e tecnologias de ponta da Stone, Pagar.me, Ton e Vitta, com uma galera referÃªncia no mercado de tecnologia, em um ambiente descontraÃ­do, repleto de desafios, oportunidades, flexibilidade, teamplay e desenvolvimento contÃ­nuo. Nossa cultura: Por aqui, vivemos nossa cultura no dia a dia, guiados por esses 5 pilares: â¡Own It: Ter espÃ­rito de dono te faz conquistar a liberdade. Valorizamos a autonomia e a proatividade, somos responsÃ¡veis pelo o que entregamos e queremos sempre evoluir o nosso negÃ³cio. ð¢Live the Ride: FaÃ§a. Feito Ã© melhor que perfeito. Aprendemos com os erros e encaramos desafios como oportunidades de aprendizado. ð¤No Bullshit: Agir com simplicidade. Somos pessoas prÃ¡ticas, sinceras e gostamos de feedbacks. Sabemos que Ã s vezes vamos errar e contamos com essa transparÃªncia para evoluirmos. ð¤Team Play: Se quer ir rÃ¡pido, vÃ¡ sozinho(a). Se quer ir longe, trabalhe em equipe. Ã sempre possÃ­vel aprender com as outras pessoas e a colaboraÃ§Ã£o Ã© a chave do sucesso. ðThe Reason: O cliente nÃ£o tem razÃ£o, ele Ã© a razÃ£o. Nos motivamos a enxergar o impacto do nosso trabalho na vida do cliente, Ã© vendo que melhoramos a vida dele que sabemos que fizemos uma boa entrega. Brasil. Pensando nisso, construÃ­mos a Stone Tech! A junÃ§Ã£o dos times de tec Please mention the word **PERFECTION** and tag RMTMuNjYuMTc0Ljgy when applying to show you read the job post completely (#RMTMuNjYuMTc0Ljgy). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+    "description": "Quem Ã© Stone Tech? A Stone nasceu com o propÃ³sito de ser protagonista na transformaÃ§Ã£o da indÃºstria de pagamentos, lutando para oferecer as melhores soluÃ§Ãµes para quem empreende no Brasil. Pensando nisso, construÃ­mos a Stone Tech! A junÃ§Ã£o dos times de tecnologia Stone Co. e as empresas financeiras do grupo que reconhecem o potencial empreendedor de cada brasileiro. Por aqui, temos todas as inovaÃ§Ãµes e tecnologias de ponta da Stone, Pagar.me, Ton e Vitta, com uma galera referÃªncia no mercado de tecnologia, em um ambiente descontraÃ­do, repleto de desafios, oportunidades, flexibilidade, teamplay e desenvolvimento contÃ­nuo. Nossa cultura: Por aqui, vivemos nossa cultura no dia a dia, guiados por esses 5 pilares: â¡Own It: Ter espÃ­rito de dono te faz conquistar a liberdade. Valorizamos a autonomia e a proatividade, somos responsÃ¡veis pelo o que entregamos e queremos sempre evoluir o nosso negÃ³cio. ð¢Live the Ride: FaÃ§a. Feito Ã© melhor que perfeito. Aprendemos com os erros e encaramos desafios como oportunidades de aprendizado. ð¤No Bullshit: Agir com simplicidade. Somos pessoas prÃ¡ticas, sinceras e gostamos de feedbacks. Sabemos que Ã s vezes vamos errar e contamos com essa transparÃªncia para evoluirmos. ð¤Team Play: Se quer ir rÃ¡pido, vÃ¡ sozinho(a). Se quer ir longe, trabalhe em equipe. Ã sempre possÃ­vel aprender com as outras pessoas e a colaboraÃ§Ã£o Ã© a chave do sucesso. ðThe Reason: O cliente nÃ£o tem razÃ£o, ele Ã© a razÃ£o. Nos motivamos a enxergar o impacto do nosso trabalho na vida do cliente, Ã© vendo que melhoramos a vida dele que sabemos que fizemos uma boa entrega. Brasil. Pensando nisso, construÃ­mos a Stone Tech! A junÃ§Ã£o dos times de tec Please mention the word **PERFECTION** and tag RMjAuMTYxLjU4LjIyNw== when applying to show you read the job post completely (#RMjAuMTYxLjU4LjIyNw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
     "experience": "",
     "job_type": "Remote",
     "salary_min": null,
@@ -977,7 +728,7 @@
     "job_title": "Senior Software Engineer",
     "company_name": "Cast AI",
     "location": "Remote",
-    "description": "Remote - We are hiring across multiple teams!As a Senior Software Engineer, you will have the opportunity to work on different key features of our product. We are currently hiring Senior Software Engineers for the following teams:â Workload Optimization â Automates work... Please mention the word **STURDY** and tag RMTMuNjYuMTc0Ljgy when applying to show you read the job post completely (#RMTMuNjYuMTc0Ljgy). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+    "description": "Remote - We are hiring across multiple teams!As a Senior Software Engineer, you will have the opportunity to work on different key features of our product. We are currently hiring Senior Software Engineers for the following teams:â Workload Optimization â Automates work... Please mention the word **STURDY** and tag RMjAuMTYxLjU4LjIyNw== when applying to show you read the job post completely (#RMjAuMTYxLjU4LjIyNw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
     "experience": "",
     "job_type": "Remote",
     "salary_min": null,
@@ -995,7 +746,7 @@
     "job_title": "Software Engineer Showroom",
     "company_name": "Higharc",
     "location": "Remote",
-    "description": "About Us Higharc is a VC-backed startup that is changing how new homes are designed and built. Join a founding team whoâve shipped products for Autodesk, Electronic Arts, Nike, and Apple. We have raised a total of $83M with support from top-notch venture capital firms and more than 18 strategic investorsâindustry leaders in construction, building products manufacturing, and distribution. Higharc is seeking a pragmatic Software Engineer with a high-level of ownership and craft on our growing Showroom team. Reporting to the Software Manager and working closely with Product and Design partners, this role will drive features end-to-end across the stack on one of the core functions of our product. What You'll Do Expect to: Build and maintain full-stack features spanning UI, API layer, business logic, and data models Design and implement complex rule engines that manage pricing, inventory, availability, and constraint logic Architect extensible, maintainable systems that scale with growing product complexity Develop configuration and customization experiences where users navigate complex choices with many interdependent constraints Optimize backend performance including query tuning, N+1 resolution, indexing strategies, and scaling bottlenecks Build complex search, filtering, and querying systems across large datasets Bridge visual/design tools with underlying data and business logic layers (3D/CAD adjacency) About You Youâre a highly versatile engineer who bridges 3D CAD models, pricing logic, regional availability rules, and product UX. You have: 4+ years of full stack engineering experience building polished user-facing features. Professional competency with React, SQL, API design, and query optimization Experience with configurator, customization, or rule-engine UX Track record building extensible production systems Strong UX intuition An ability to reason about complex constrain systems A major plus if you also bring: Familiarity with 3D/CAD or visual-design-tool ecosystem While we've identified the core experience and skills required above, please still apply if you have more or different experience than this! We will use your previous experience and performance across the series of interviews to establish appropriate level within our organization in a fair and equitable way. Working at Higharc Higharc has been remote first since our founding in 2018. We offer flexible hours so you can do your best work without missing out on life. Higharc offers competitive salaries with significant equity, in a fast-growing, well-funded company. Personal healthiness is an important value for us- we provide comprehensive medical, dental, and vision coverage, with unlimited PTO, and meaningful maternity/paternity leave to all U.S based employees that are full-time. You'll also have access to other big-company benefits such like short and long-term disability plans and a 401K. Haven't worked remotely before? We provide a stipend to create the ideal home office. Please mention the word **LAWFUL** and tag RMTMuNjYuMTc0Ljgy when applying to show you read the job post completely (#RMTMuNjYuMTc0Ljgy). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+    "description": "About Us Higharc is a VC-backed startup that is changing how new homes are designed and built. Join a founding team whoâve shipped products for Autodesk, Electronic Arts, Nike, and Apple. We have raised a total of $83M with support from top-notch venture capital firms and more than 18 strategic investorsâindustry leaders in construction, building products manufacturing, and distribution. Higharc is seeking a pragmatic Software Engineer with a high-level of ownership and craft on our growing Showroom team. Reporting to the Software Manager and working closely with Product and Design partners, this role will drive features end-to-end across the stack on one of the core functions of our product. What You'll Do Expect to: Build and maintain full-stack features spanning UI, API layer, business logic, and data models Design and implement complex rule engines that manage pricing, inventory, availability, and constraint logic Architect extensible, maintainable systems that scale with growing product complexity Develop configuration and customization experiences where users navigate complex choices with many interdependent constraints Optimize backend performance including query tuning, N+1 resolution, indexing strategies, and scaling bottlenecks Build complex search, filtering, and querying systems across large datasets Bridge visual/design tools with underlying data and business logic layers (3D/CAD adjacency) About You Youâre a highly versatile engineer who bridges 3D CAD models, pricing logic, regional availability rules, and product UX. You have: 4+ years of full stack engineering experience building polished user-facing features. Professional competency with React, SQL, API design, and query optimization Experience with configurator, customization, or rule-engine UX Track record building extensible production systems Strong UX intuition An ability to reason about complex constrain systems A major plus if you also bring: Familiarity with 3D/CAD or visual-design-tool ecosystem While we've identified the core experience and skills required above, please still apply if you have more or different experience than this! We will use your previous experience and performance across the series of interviews to establish appropriate level within our organization in a fair and equitable way. Working at Higharc Higharc has been remote first since our founding in 2018. We offer flexible hours so you can do your best work without missing out on life. Higharc offers competitive salaries with significant equity, in a fast-growing, well-funded company. Personal healthiness is an important value for us- we provide comprehensive medical, dental, and vision coverage, with unlimited PTO, and meaningful maternity/paternity leave to all U.S based employees that are full-time. You'll also have access to other big-company benefits such like short and long-term disability plans and a 401K. Haven't worked remotely before? We provide a stipend to create the ideal home office. Please mention the word **LAWFUL** and tag RMjAuMTYxLjU4LjIyNw== when applying to show you read the job post completely (#RMjAuMTYxLjU4LjIyNw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
     "experience": "",
     "job_type": "Remote",
     "salary_min": null,
