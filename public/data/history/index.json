@@ -1,47 +1,5 @@
 [
   {
-    "date": "2026-07-24",
-    "total": 67,
-    "skills": {
-      "AI/ML": 4,
-      "AWS": 6,
-      "Android": 1,
-      "C++": 13,
-      "Cypress": 1,
-      "Dart": 1,
-      "Docker": 10,
-      "Flutter": 7,
-      "Java": 3,
-      "JavaScript": 4,
-      "Kubernetes": 16,
-      "MongoDB": 1,
-      "Next.js": 1,
-      "Node.js": 1,
-      "PostgreSQL": 5,
-      "Python": 25,
-      "QA": 1,
-      "React": 6,
-      "SQL": 4,
-      "TypeScript": 3,
-      "iOS": 1
-    },
-    "cities": {
-      "Lahore": 1,
-      "Other": 29,
-      "Remote": 37
-    },
-    "experience": {
-      "Entry Level": 8,
-      "Lead/Manager": 16,
-      "Mid Level": 27,
-      "Senior": 16
-    },
-    "job_types": {
-      "Onsite": 30,
-      "Remote": 37
-    }
-  },
-  {
     "date": "2026-07-25",
     "total": 67,
     "skills": {
@@ -4399,6 +4357,61 @@
     "job_types": {
       "Hybrid": 5,
       "Onsite": 300,
+      "Remote": 162
+    }
+  },
+  {
+    "date": "2026-10-29",
+    "total": 476,
+    "skills": {
+      "AI/ML": 21,
+      "AWS": 29,
+      "Android": 13,
+      "C#": 1,
+      "C++": 38,
+      "Cypress": 4,
+      "Dart": 2,
+      "Django": 1,
+      "Docker": 30,
+      "FastAPI": 1,
+      "Flutter": 16,
+      "Java": 15,
+      "JavaScript": 17,
+      "Kotlin": 4,
+      "Kubernetes": 50,
+      "Laravel": 2,
+      "MongoDB": 2,
+      "Next.js": 8,
+      "Node.js": 9,
+      "PHP": 5,
+      "PostgreSQL": 28,
+      "PyTorch": 2,
+      "Python": 78,
+      "QA": 9,
+      "React": 29,
+      "SQL": 16,
+      "Selenium": 1,
+      "Spring": 2,
+      "Supabase": 11,
+      "Swift": 2,
+      "TensorFlow": 2,
+      "TypeScript": 23,
+      "Vue": 4,
+      "iOS": 13
+    },
+    "cities": {
+      "Other": 318,
+      "Remote": 158
+    },
+    "experience": {
+      "Entry Level": 33,
+      "Lead/Manager": 133,
+      "Mid Level": 234,
+      "Senior": 76
+    },
+    "job_types": {
+      "Hybrid": 5,
+      "Onsite": 309,
       "Remote": 162
     }
   }
