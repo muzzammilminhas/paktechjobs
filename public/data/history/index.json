@@ -4388,7 +4388,7 @@
   },
   {
     "date": "2026-10-31",
-    "total": 487,
+    "total": 491,
     "skills": {
       "AI/ML": 21,
       "AWS": 29,
@@ -4402,43 +4402,43 @@
       "FastAPI": 1,
       "Flutter": 16,
       "Java": 16,
-      "JavaScript": 17,
+      "JavaScript": 18,
       "Kotlin": 4,
       "Kubernetes": 50,
       "Laravel": 2,
       "MongoDB": 2,
-      "Next.js": 8,
+      "Next.js": 9,
       "Node.js": 9,
       "PHP": 5,
       "PostgreSQL": 28,
       "PyTorch": 2,
-      "Python": 77,
-      "QA": 9,
-      "React": 29,
+      "Python": 78,
+      "QA": 10,
+      "React": 30,
       "SQL": 16,
       "Selenium": 1,
       "Spring": 2,
       "Supabase": 11,
       "Swift": 2,
       "TensorFlow": 2,
-      "TypeScript": 23,
+      "TypeScript": 24,
       "Vue": 4,
       "iOS": 13
     },
     "cities": {
-      "Other": 328,
-      "Remote": 159
+      "Other": 329,
+      "Remote": 162
     },
     "experience": {
       "Entry Level": 35,
-      "Lead/Manager": 134,
-      "Mid Level": 242,
+      "Lead/Manager": 136,
+      "Mid Level": 244,
       "Senior": 76
     },
     "job_types": {
       "Hybrid": 5,
-      "Onsite": 319,
-      "Remote": 163
+      "Onsite": 320,
+      "Remote": 166
     }
   }
 ]

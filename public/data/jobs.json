@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-10-31T08:00:00+05:00",
-  "count": 487,
+  "count": 491,
   "jobs": [
     {
       "id": "14d5574ddb6402d6",
@@ -63,6 +63,43 @@
       "source": "Rozee.pk",
       "description": "",
       "job_url": "https://www.rozee.pk/software-quality-assurance-engineer-karachi-jobs-1930205?utm_source=jobSearch&utm_medium=website&utm_content=jobSearch_1930205&utm_campaign=ROZEE.PK_job_search"
+    },
+    {
+      "id": "cc15ef0f7c596ad6",
+      "job_title": "Software Developer",
+      "company_name": "LevelUp",
+      "city": "Remote",
+      "skills": [
+        "React",
+        "Next.js",
+        "Python",
+        "TypeScript",
+        "JavaScript",
+        "QA"
+      ],
+      "experience_level": "Lead/Manager",
+      "job_type": "Remote",
+      "salary_min": null,
+      "salary_max": null,
+      "posted_date": "2026-10-31",
+      "source": "Jobicy APAC",
+      "description": "Company Overview LevelUp is a specialist agency providing outsourcing solutions to agencies, software vendors, and website owners. For over seven years, we have successfully collaborated with a variety of companies, providing valuable technical, operational, and back-office support. We have a large team of skilled and passionate professionals who are committed to delivering high-quality work for our clients. Position Overview We are seeking a Software Developer (often referred to as a Next.js Developer) with considerable years of commercial production experience to join our team. In this role, you will not just be working through a rigid ticket queue—you will have real end-to-end ownership of systems, make critical technical decisions, and see them through. You will collaborate directly with our Head of Operations, our Product Lead, and our Founder/CEO to translate delivery requirements and rough designs into beautiful, functional, and secure web applications. This is a full-time, remote position based in the Philippines, working with our team in Brisbane, Australia. Your working hours will align with the Australian Eastern Standard Time (AEST) shift (9:00 AM – 5:00 PM), allowing for close daily collaboration while enjoying the flexibility that an asynchronous-first working style provides. Reference: 2638-244499 Responsibilities Application Development: Design, build, and ship robust, high-quality web applications using Next.js and modern JavaScript, ensuring clean CSS structures and a strong focus on responsive layouts. Component Translation: Take rough designs, wireframes, and delivery requirements and shape them into highly usable, well-structured, and maintainable components and interfaces. Integrations & Data Tooling: Build and maintain secure integrations between major HR/payroll platforms, client databases, and our own internal tooling. Cloud Operations (Azure): Deploy, manage, and run applications in our Microsoft Azure environment, leveraging app services, storage accounts, Entra ID (identity), and CI/CD deployment pipelines. Quality Assurance: Write and maintain automated tests, and actively participate in code reviews both as an author and a constructive reviewer. Production Support & Debugging: Monitor production systems, investigate issues proactively, and implement permanent fixes targeting root causes rather than temporary symptoms. Cross-functional Collaboration: Work closely with consultants, project managers, and internal stakeholders to contribute to technical decisions, provide estimates, and thoroughly document what you build. Security & Compliance: Handle sensitive employee and payroll information with the highest degree of judgment, discretion, and compliance with data privacy best practices. Requirements Next.js & React Expert: 3 to 5 years of demonstrated commercial experience building and shipping production-grade applications. You must have deep practical knowledge of routing, data fetching, rendering strategies (SSR, SSG, ISR), and the React ecosystem. Modern JavaScript & TypeScript: Strong proficiency in modern ES JavaScript, asynchronous programming patterns, and API utilization. TypeScript is highly regarded and expected for writing clean, type-safe code. Frontend & CSS Craft: A strong eye for interface detail, responsive design, and accessibility (a11y) basics. You can write CSS that is built to be maintained and can take a raw wireframe and make it feel like a polished, complete interface. API & Systems Integration: Solid experience building and maintaining integrations (REST, GraphQL, Webhooks) between third-party platforms and internal tools. Automated Testing & Code Quality: Proven experience writing automated unit/integration tests and taking an active, non-ego-driven role in code reviews. Security Conscious: Safe, production-proven habits regarding managing environment variables, encryption, secrets, and handling highly sensitive employee and payroll data. Superb Written Communication: Exceptional written English is a hard requirement. You must be able to document your work thoroughly and explain complex technical trade-offs to non-technical colleagues in plain, clear language. Education: Bachelor’s degree in Computer Science, Software Engineering, or equivalent commercial experience. Desirable - Azure Infrastructure: Hands-on experience deploying and operating on Microsoft Azure (App Services, Storage Accounts, Entra ID, Azure DevOps, or GitHub Actions CI/CD). Desirable - Atlassian Tooling: Comfort using Jira and Confluence for task management, sprint planning, estimation, and central documentation. Desirable - Python: Basic to intermediate skills for integrations, data transformations, and migration tooling. Desirable - HR / Payroll Domain Exposure: Any experience integrating with human resources information systems (HRIS), applicant tracking systems (ATS), or payroll systems is a massive plus. More Information This is a fully remote position with a standard 40-hour fixed-schedule work week. We have a company culture that focuses on the well-being of its team members, with a good work life balance and respectful work environment. Benefits: Basic Philippines government-mandated benefits (13th-month pay, SSS, PhilHealth, Pag-IBIG), remote setup support, and holiday observance of Philippine holidays. Equipment provided Compensation Additional Information",
+      "job_url": "https://jobicy.com/jobs/158207-software-developer-2"
+    },
+    {
+      "id": "b52b13f0d64b7aec",
+      "job_title": "Senior HubSpot Implementation Specialist",
+      "company_name": "LevelUp",
+      "city": "Remote",
+      "skills": [],
+      "experience_level": "Lead/Manager",
+      "job_type": "Remote",
+      "salary_min": null,
+      "salary_max": null,
+      "posted_date": "2026-10-31",
+      "source": "Jobicy APAC",
+      "description": "Company Overview LevelUp is a specialist agency providing outsourcing solutions to agencies, software vendors, and website owners. For over seven years, we have successfully collaborated with a variety of companies, providing valuable technical, operational, and back-office support. We have a large team of skilled and passionate professionals who are committed to delivering high-quality work for our clients. Position Overview Join LevelUp and partner with a premier UK-based HubSpot Diamond Partner dedicated to accelerating the growth of technology companies. They are pioneering AI-first HubSpot architectures—intelligent CRMs that autonomously update from sales calls, propel deals forward, and prescribe the next best actions for sales teams. In this critical role, you will lead client discovery sessions, architect tailored HubSpot solutions, and independently build the most complex system components. You will champion each project from its initial workshop through testing, training, and final launch. This is neither a basic configuration job nor a people management role. We seek a technical expert with a comprehensive understanding of HubSpot's current capabilities, who excels at translating complex technical strategies to non-technical stakeholders and thrives on end-to-end project ownership. This is a permanent, fully remote position operating on a UK night shift schedule from the Philippines. Schedule & Work Setup • Shift: Permanent night shift aligned with UK business hours: 5:00 PM to 1:00 AM (Manila time) from late October to late March, and 4:00 PM to 12:00 AM from late March to late October. • Location: Fully remote. • Equipment: LevelUp provides the necessary hardware, including a laptop, monitor, and headset. • Requirements: You must have a dedicated, quiet workspace and a reliable backup internet connection. Reference: 2644-327166 Responsibilities Lead comprehensive discovery workshops with clients, translating business requirements into actionable HubSpot solution designs for the build team. Independently engineer technically complex components, including custom-coded actions, programmable automation, custom objects, sophisticated integrations, and HubSpot's AI features. Spearhead data migrations from legacy platforms and conduct rigorous code and build reviews for junior colleagues. Take full ownership of system testing, client sign-off, and successful go-live phases, followed by delivering effective training and driving high user adoption rates. Serve as the primary technical liaison for clients, adeptly managing expectations and navigating challenging conversations regarding scope and timeline adjustments. Collaborate on pre-sales activities by scoping and estimating work, and maintain strict change control protocols on active builds. Leverage advanced AI tools to accelerate and optimize the creation of specifications, code, testing protocols, and documentation. Requirements HubSpot Experience: 4 to 6 years of hands-on HubSpot implementation experience, preferably within a HubSpot Solutions Partner agency or technical consultancy. Up-to-Date HubSpot Knowledge: Advanced expertise in the HubSpot ecosystem, specifically in deploying modern AI features (e.g., Breeze agents, AI workflow actions) within client builds. Solution Design: Proven end-to-end solution design experience—leading discovery, architecting the solution, and managing testing and launch, rather than just executing predefined configurations. Hub Coverage: Extensive mastery of at least three HubSpot Hubs, with deep technical proficiency in Marketing Hub, Sales Hub, and Data Hub (formerly Operations Hub). Complex Builds: Demonstrated ability to execute complex builds involving custom-coded actions, programmable automation, custom objects, calculated properties, and multi-pipeline architectures. Connecting Systems: Strong integration skills using APIs, webhooks, and middleware (e.g., Zapier, Make, Workato) to connect HubSpot with external platforms like email, Slack, and Clay. Client-Facing Work: Exceptional client-facing communication skills, with a track record of leading technical workshops and articulating complex decisions to non-technical audiences. Documentation: Excellence in technical documentation, consistently producing precise solution designs, specifications, and handover notes. Nice-to-haves Possession of (or currently working towards) the HubSpot Solutions Architecture Design accreditation. Experience with CMS development, including HubDB, custom modules, and dynamic content integration. Track record of successfully managing complex data migrations from enterprise CRM or marketing platforms. Prior experience in scoping technical requirements and writing commercial proposals. A background in mentoring and upskilling junior HubSpot practitioners. More Information This is a fully remote position with a standard 40-hour fixed-schedule work week. We have a company culture that focuses on the well-being of its team members, with a good work life balance and respectful work environment. Benefits: Basic Philippines government-mandated benefits (13th-month pay, SSS, PhilHealth, Pag-IBIG), remote setup support, and holiday observance of Philippine holidays. Equipment provided Compensation Additional Information",
+      "job_url": "https://jobicy.com/jobs/158200-senior-hubspot-implementation-specialist"
     },
     {
       "id": "1354eac3b8da9f98",
@@ -202,6 +239,21 @@
       "job_url": "https://www.rozee.pk/smart-data-care-technology-insurance-underwriter-data-entry-operator-jobs-1898432?utm_source=jobSearch&utm_medium=website&utm_content=jobSearch_1898432&utm_campaign=ROZEE.PK_job_search"
     },
     {
+      "id": "2f4c7098a62d4427",
+      "job_title": "Information Technology Officer",
+      "company_name": "Unknown employer",
+      "city": "Other",
+      "skills": [],
+      "experience_level": "Mid Level",
+      "job_type": "Onsite",
+      "salary_min": null,
+      "salary_max": null,
+      "posted_date": "2026-10-31",
+      "source": "Rozee.pk",
+      "description": "",
+      "job_url": "https://www.rozee.pk/information-technology-officer-rawalpindi-jobs-1936985?utm_source=jobSearch&utm_medium=website&utm_content=jobSearch_1936985&utm_campaign=ROZEE.PK_job_search"
+    },
+    {
       "id": "d47c7b59adf5daf3",
       "job_title": "Information Technology Intern",
       "company_name": "Unknown employer",
@@ -230,6 +282,21 @@
       "source": "Rozee.pk",
       "description": "",
       "job_url": "https://www.rozee.pk/it-based-road-survey-equipment-technician-peshawar-jobs-1933207?utm_source=jobSearch&utm_medium=website&utm_content=jobSearch_1933207&utm_campaign=ROZEE.PK_job_search"
+    },
+    {
+      "id": "1a189693128f5e29",
+      "job_title": "IT Support Specialist",
+      "company_name": "Unknown employer",
+      "city": "Other",
+      "skills": [],
+      "experience_level": "Mid Level",
+      "job_type": "Onsite",
+      "salary_min": null,
+      "salary_max": null,
+      "posted_date": "2026-10-31",
+      "source": "Rozee.pk",
+      "description": "",
+      "job_url": "https://www.rozee.pk/it-support-specialist-lahore-jobs-1937193?utm_source=jobSearch&utm_medium=website&utm_content=jobSearch_1937193&utm_campaign=ROZEE.PK_job_search"
     },
     {
       "id": "d3349dfd70f0bfe5",
@@ -320,6 +387,21 @@
       "source": "Rozee.pk",
       "description": "",
       "job_url": "https://www.rozee.pk/chief-product-officer-islamabad-jobs-1929870?utm_source=jobSearch&utm_medium=website&utm_content=jobSearch_1929870&utm_campaign=ROZEE.PK_job_search"
+    },
+    {
+      "id": "40393d5445b84487",
+      "job_title": "Ads Quality Rater - Vietnamese (Vietnam)",
+      "company_name": "Welo Global",
+      "city": "Remote",
+      "skills": [],
+      "experience_level": "Mid Level",
+      "job_type": "Remote",
+      "salary_min": null,
+      "salary_max": null,
+      "posted_date": "2026-10-31",
+      "source": "Jobicy APAC",
+      "description": "Welo Data is an award-winning localization and data transformation company. We run one of the world’s largest Ads Rating Programs, and we want you to join! As an Ads Quality Rater , you will review and grade internet advertisements to help shape how ads are delivered to the end users. In other words, you’ll tell the AI program how good or bad its advertisement suggestions are based on the user’s keywords. You will review ads in both English and Vietnamese This role is great for people who: - Surf the internet daily - Use major search engines frequently - Know what people want based on a few keywords - Enjoy researching topics online - Want a flexible and fun side job Project Details Job Title: Ads Quality Rater Pay Rate: Based on tasks (approximately $5 per hour) Location: Remote/work from home - must be based in Vietnam Hours: Set your schedule based on the following – Minimum commitment is 5 hours per week. You can choose to work up to 20 hours per week. Start Date: ASAP Employment Type: Independent Contractor/Freelance/Self-Employed Project Duration: Long-term Note: - Even though the position is WFH, you must reside in the country that is noted in this description. This will be automatically checked during the hiring process. Recruitment Process - There is no formal interview for this job! No phone calls, no waiting, and no wasting time wondering whether you got the job or not. - Instead, you will be guided through a self-paced and automated recruitment process. IMPORTANT NOTE: Welo Data uses numerous identity checks to ensure that everyone who makes the team is real, qualified, and ready to work. To avoid any misunderstandings, do not use IP masking programs (such as VPNs). Experience & Requirements Fluency in Vietnamese Strong understanding of English (written and spoken) Comfortable knowledge of modern popular culture Reliable computer system and internet connection Familiar with using online search engines Sign a standard Non-Disclosure Agreement and Service Level Agreement Compensation Additional Information Please note that this work is based on project needs. Due to this, weekly hours may vary and flexibility with change is expected. You must legally be able to work on freelance projects in Vietnam . To know more details (Click here)",
+      "job_url": "https://jobicy.com/jobs/158199-ads-quality-rater-vietnamese-vietnam"
     },
     {
       "id": "88f4ee5871b9589b",
@@ -3515,21 +3597,6 @@
       "source": "Rozee.pk",
       "description": "",
       "job_url": "https://www.rozee.pk/information-technology-services-specialist-karachi-jobs-1903378?utm_source=jobSearch&utm_medium=website&utm_content=jobSearch_1903378&utm_campaign=ROZEE.PK_job_search"
-    },
-    {
-      "id": "2f4c7098a62d4427",
-      "job_title": "Information Technology Officer",
-      "company_name": "Unknown employer",
-      "city": "Other",
-      "skills": [],
-      "experience_level": "Mid Level",
-      "job_type": "Onsite",
-      "salary_min": null,
-      "salary_max": null,
-      "posted_date": "2026-10-13",
-      "source": "Rozee.pk",
-      "description": "",
-      "job_url": "https://www.rozee.pk/information-technology-officer-karachi-jobs-1903460?utm_source=jobSearch&utm_medium=website&utm_content=jobSearch_1903460&utm_campaign=ROZEE.PK_job_search"
     },
     {
       "id": "2723abc15dc5794e",
