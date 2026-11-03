@@ -1,6 +1,6 @@
 {
   "source": "Jobicy APAC",
-  "last_success_at": "2026-11-02T05:03:59+05:00",
+  "last_success_at": "2026-11-03T07:43:22+05:00",
   "jobs": [
     {
       "job_title": "Java Backend Engineer (AI/LLM Chatbot, Customer Service)",
@@ -85,7 +85,7 @@
       "experience": "Midweight",
       "job_type": "Remote",
       "salary": "",
-      "posted_date": "2026-10-01",
+      "posted_date": "2026-11-02",
       "source": "Jobicy APAC",
       "job_url": "https://jobicy.com/jobs/142184-software-engineer-multiple-levels",
       "skills": [
@@ -1420,7 +1420,7 @@
       "experience": "Senior",
       "job_type": "Remote",
       "salary": "",
-      "posted_date": "2026-10-01",
+      "posted_date": "2026-11-02",
       "source": "Jobicy APAC",
       "job_url": "https://jobicy.com/jobs/152180-principal-supplier-quality-engineer",
       "skills": [
@@ -1435,7 +1435,7 @@
       "experience": "Senior",
       "job_type": "Remote",
       "salary": "",
-      "posted_date": "2026-10-01",
+      "posted_date": "2026-11-02",
       "source": "Jobicy APAC",
       "job_url": "https://jobicy.com/jobs/152174-lead-supplier-quality-engineer",
       "skills": [
@@ -2398,6 +2398,36 @@
       "posted_date": "2026-10-31",
       "source": "Jobicy APAC",
       "job_url": "https://jobicy.com/jobs/158199-ads-quality-rater-vietnamese-vietnam",
+      "skills": [
+        "QA & Testing"
+      ]
+    },
+    {
+      "job_title": "Engineer III",
+      "company_name": "Envato",
+      "location": "Remote",
+      "description": "You’re ready for more than the next ticket You’ve got a few years of engineering experience behind you and you’re already good at what you do. You’re now looking for more in a role than being handed a ticket, expected to ship it and move on. You want to work alongside people who will make you better. You want to tackle meaningful technical problems and have room to try things. You want to be in a place that takes AI seriously without treating it as a shortcut for good thinking. That’s what this role is about. The work you’ll get stuck into At Envato , we help creative professionals bring their ideas to life through world-class creative assets and AI tools. Behind the scenes, our Content Management team builds the systems that make all of that possible. Content upload, processing, metadata, storage, distribution and the human and AI-assisted review that keeps our marketplace moving. It is complex, high-impact work and you’ll be right in the middle of it. You’ll take ownership of features and well defined projects from the first conversation through to production. You’ll build software that is reliable, well-tested and designed to last, while getting to know the platform and the people who use it. When something breaks, you’ll help understand why, fix it properly and leave the system better than you found it. A place to build your craft You’ll work closely with Lead and Senior Engineers through regular pairing, feedback and problem solving. This is a team that cares about strong engineering craft, but isn’t precious about how things have always been done. If you have a better idea, we want to hear it. We work AI-first. We use agents to write, test and review code, but we’re still working out the best ways to use them. You’ll have the freedom to experiment, challenge old ways of working and bring ideas that move us forward. You’ll be a great fit if… You have experience building software, strong back-end capability and a real interest in doing the work well. Ruby on Rails would be useful, though experience in a comparable framework matters just as much. You know the value of clean code, sensible trade-offs and testing, and you’re comfortable getting curious when a production issue needs solving. You’re interested in using AI in practical ways, but you bring your own judgement rather than blindly accepting the output. Experience with AWS, Terraform, Docker, Buildkite, Datadog, Rollbar, or content-heavy systems is helpful, but what matters most is your appetite to learn quickly, take ownership and bring more than the expected answer. Life at Envato We’re a purpose-driven company and we’ve long embraced flexible, inclusive ways of working. We’re proud of the connected culture we’ve built across our global team. Our values: Customer First, Build our Future, Make it Happen and Embrace Diversity guide everything we do, shaping how we work and grow. Our benefits include home office, team connection & learning budgets, wellbeing and study support, volunteer leave, generous paid parental leave, access to all our products, and the option to apply to work from another remote location for up to 3 months per year. We embrace diversity at Envato and want to ensure that everyone who applies for a role with us has an inclusive experience. Hiring for us isn't a tick box exercise, we want to know what you're passionate about, what our lived experiences are and what you think you can add to the team. We're also big believers in using AI, and that includes how we hire. We may use AI tools to help support our recruitment process, but they don't replace human judgement. Our people always make the final hiring decisions. By submitting your application, you agree to our Privacy Policy . We encourage you to read it before applying to understand how we collect, use and handle your personal information. We appreciate the time you’ve taken to apply to Envato and we're committed to responding to every applicant. You can read more about us on our blog, including news of our acquisition by Shutterstock Inc in 2024. #LI-Remote Compensation Additional Information",
+      "experience": "Senior",
+      "job_type": "Remote",
+      "salary": "",
+      "posted_date": "2026-11-02",
+      "source": "Jobicy APAC",
+      "job_url": "https://jobicy.com/jobs/158531-engineer-iii",
+      "skills": [
+        "Software Engineering"
+      ]
+    },
+    {
+      "job_title": "Junior Quality Specialist",
+      "company_name": "Luxury Presence",
+      "location": "Remote",
+      "description": "ABOUT THE ROLE The Junior Quality Specialist supports the quality assurance process to ensure websites are accurate, functional, visually consistent, and aligned with Luxury Presence standards. You review websites using established QA guidelines and checklists, identifying and documenting issues before they reach the client. This is an entry-level role focused on developing strong attention to detail, design judgment, and technical QA skills while learning from experienced team members. WHAT YOU’LL BE RESPONSIBLE FOR Quality Assurance Website QA: Review websites for content accuracy, functionality, design consistency, responsiveness, and completeness using established QA checklists. Quality Standards: Follow QA processes to identify, document, and report issues clearly for efficient resolution. Issue Identification: Flag missing content, formatting inconsistencies, broken links, visual issues, and potential compliance concerns, escalating complex findings when needed. Client Vision & Brand Representation Brand Alignment: Verify that websites follow the client's provided branding, design framework, and requirements. Visual Consistency: Identify inconsistencies in imagery, spacing, typography, colors, and overall website presentation. Team Collaboration & Feedback Quality Feedback: Provide clear, specific, and actionable feedback to Website Builders and Data Specialists. Collaboration: Work with senior Quality Specialists and production teams to clarify issues and support timely corrections. Product & Process Improvement Continuous Improvement: Identify recurring issues and share observations that could help improve quality and workflows. Problem Solving: Research basic QA and design issues using available resources, SOPs, and internal tools, escalating complex challenges when appropriate. WHAT WE’RE LOOKING FOR Experience 0–1 years of experience in website QA, quality control, web design, or a related field. Basic understanding of website functionality, responsive design, and UX/UI principles is a plus. Familiarity with website editors, QA tools, or design platforms is a plus, but not required. Willingness to learn Luxury Presence quality standards, design best practices, and compliance guidelines. Skills & Mindset Attention to Detail: Strong ability to identify errors, inconsistencies, and missing information. Visual Awareness: Good eye for design with an interest in developing stronger judgment around layout, spacing, typography, imagery, and overall website quality. Clear Communication: Ability to provide organized, respectful, and actionable written feedback. Critical Thinking: Willingness to investigate issues, ask questions, and understand the reasoning behind quality standards. Process-Oriented: Comfortable following established QA guidelines, checklists, and SOPs. AI Fluency: Comfortable learning and using AI tools to support QA reviews, research, and efficiency. Growth Mindset: Receptive to feedback, eager to learn, and motivated to continuously improve. Reliability: Organized, dependable, and able to manage assigned reviews within established timelines. Core Values Professionalism – Show up prepared, respectful, and dependable. Ownership – Take responsibility for assigned work and follow through. Communication – Ask questions, communicate blockers, and provide timely updates. Collaboration – Work well with others, seek guidance, and contribute to team success. Excellence – Strive to deliver accurate, consistent, and high-quality work. Adaptability – Be open to feedback, new tools, and evolving processes. Integrity – Do the right thing, even when no one is watching. OTHER REQUIREMENTS Must be a current resident of the Philippines Willing to work graveyard hours, 5 days a week, 9 hours a day (with a one-hour meal break) Own a laptop or desktop Have a valid government ID Have an existing bank account or willing to open one if hired Have a stable internet connection that is at least 100 mbps and have a back-up connection too Live in area where there is stable power supply that is not interrupted by constant power outages Compensation Additional Information",
+      "experience": "Senior",
+      "job_type": "Remote",
+      "salary": "",
+      "posted_date": "2026-11-02",
+      "source": "Jobicy APAC",
+      "job_url": "https://jobicy.com/jobs/158530-junior-quality-specialist",
       "skills": [
         "QA & Testing"
       ]
