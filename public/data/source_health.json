@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-08T05:05:48+05:00",
+  "generated_at": "2026-11-09T05:21:32+05:00",
   "publish_status": "published",
   "publish_message": "Fresh and cache-backed source results passed validation.",
   "guard_streak": 0,
-  "previous_count": 517,
-  "published_count": 523,
-  "fresh_sources": 2,
+  "previous_count": 523,
+  "published_count": 525,
+  "fresh_sources": 1,
   "cached_sources": 1,
-  "failed_sources": 2,
+  "failed_sources": 3,
   "total_sources": 5,
   "cache_ttl_days": 14,
   "sources": [
@@ -41,20 +41,20 @@
     {
       "source": "Jobicy APAC",
       "status": "degraded",
-      "live_count": 32,
+      "live_count": 34,
       "cached_count": 144,
-      "effective_count": 176,
-      "last_success_at": "2026-11-08T05:05:48+05:00",
+      "effective_count": 178,
+      "last_success_at": "2026-11-09T05:21:32+05:00",
       "message": "Live scrape was unusually small; 144 cached listings were retained."
     },
     {
       "source": "Remote OK",
-      "status": "healthy",
-      "live_count": 1,
+      "status": "failed",
+      "live_count": 0,
       "cached_count": 0,
       "effective_count": 0,
       "last_success_at": "2026-11-08T05:05:48+05:00",
-      "message": "Live scrape succeeded; 0 older active listings were retained."
+      "message": "No live jobs or recent cache are available."
     }
   ]
 }

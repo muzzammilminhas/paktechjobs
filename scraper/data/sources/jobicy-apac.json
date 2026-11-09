@@ -1,6 +1,6 @@
 {
   "source": "Jobicy APAC",
-  "last_success_at": "2026-11-08T05:05:48+05:00",
+  "last_success_at": "2026-11-09T05:21:32+05:00",
   "jobs": [
     {
       "job_title": "Java Backend Engineer (AI/LLM Chatbot, Customer Service)",
@@ -2638,6 +2638,36 @@
       "posted_date": "2026-11-07",
       "source": "Jobicy APAC",
       "job_url": "https://jobicy.com/jobs/159530-junior-data-specialist",
+      "skills": [
+        "QA & Testing"
+      ]
+    },
+    {
+      "job_title": "MSR Project - Japanese Culture Expert",
+      "company_name": "Welo Global",
+      "location": "Remote",
+      "description": "Overview Are you passionate about languages, writing, and quality evaluation? We are launching an exciting language evaluation project and are looking for Japanese-speaking experts to join our team. What you will do: Identify realistic search-related failures where an AI model provides inadequate responses. Create search queries, test them, document what went wrong, and write instructions and evaluation criteria for correct answers. Common issues: local relevance, source quality, outdated information, language mismatches, incomplete answers, and region-specific inapplicability. Testing multiple queries before finding failures is expected. This is a practical, execution-focused role. We value hands-on performance and consistency over advanced academic training. Candidates who prefer theoretical/research work may not find this role a good fit. Project Details: - Start Date: ASAP - Duration: Ongoing Project. - Commitment: 20/hours week. - Job Type: Freelance contract. - Location: Japan, Remote - Rate: $35-57.75 per hour. Requirements: - Research skills — ability to find and verify information from multiple sources; comfort navigating different websites, databases, and documentation - Critical thinking — Can spot contradictions between sources, identify outdated information, and recognize when something doesn't apply to a specific locale/context - Attention to detail — Can catch nuances in language, local variations (prices, regulations, requirements), and edge cases - Problem-solving mindset — Comfortable iterating and testing when things don't work; doesn't get frustrated by trial-and-error - Domain knowledge — Ideally someone with background in research, quality assurance, compliance, or similar work that requires precision and source verification - Writing clarity — Can articulate instructions and rubrics clearly so others understand the logic behind their reasoning - Locale knowledge — Deep familiarity with their specific locale (local regulations, business practices, cultural nuances) is valuable for spotting region-specific failures Compensation Additional Information",
+      "experience": "Any",
+      "job_type": "Remote",
+      "salary": "",
+      "posted_date": "2026-11-08",
+      "source": "Jobicy APAC",
+      "job_url": "https://jobicy.com/jobs/159811-msr-project-japanese-culture-expert",
+      "skills": [
+        "QA & Testing"
+      ]
+    },
+    {
+      "job_title": "Maps Personalization Relevance Rater - Japanese (Japan)",
+      "company_name": "Welo Global",
+      "location": "Remote",
+      "description": "Contract type: Freelance Language: Japanese (Japan) Estimated volume: 8 - 10 hours Start date: The project runs on a weekly basis. We are looking for qualified raters to support a project focused on evaluating personalized search and location recommendations. This role involves rating the relevance and usefulness of suggested places based on personalized results and defined project guidelines. 𝗜𝗳 𝘆𝗼𝘂’𝗿𝗲 𝘀𝗼𝗺𝗲𝗼𝗻𝗲 𝘄𝗵𝗼: ✅Notices when recommendations actually make sense 🧠Thinks critically about usefulness, intent, and context 🖥️Cares about accuracy in digital experiences This project is built for you. What you will do: Review search queries with results personalized based on your activity history Evaluate suggested places (e.g., restaurants or locations) related to places you’ve previously visited Rate whether the suggested places are relevant and useful Follow project guidelines and complete tasks accurately Requirements: To be located and have the right to work in Japan. An existing, actively used Gmail account with prior usage history on Google Maps. Participation is limited to maximum three project rounds. Please note that the task request will be dynamic and we will be providing you with a heads-up as soon as possible once there is a project round available for you. Please note: This project requires opt-in, consent-based access to limited elements of your activity history. A consent form will be provided for you to review and sign before participation. Please note that the consent form and its terms may be subject to change as project requirements evolve. A desktop or laptop computer is required to complete the application and onboarding process. Mobile devices are not supported. Compensation Additional Information",
+      "experience": "Any",
+      "job_type": "Remote",
+      "salary": "",
+      "posted_date": "2026-11-08",
+      "source": "Jobicy APAC",
+      "job_url": "https://jobicy.com/jobs/159810-maps-personalization-relevance-rater-japanese-japan",
       "skills": [
         "QA & Testing"
       ]
