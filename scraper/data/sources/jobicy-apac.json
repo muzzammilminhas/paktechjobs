@@ -1,6 +1,6 @@
 {
   "source": "Jobicy APAC",
-  "last_success_at": "2026-11-13T06:35:08+05:00",
+  "last_success_at": "2026-11-14T06:08:07+05:00",
   "jobs": [
     {
       "job_title": "Java Backend Engineer (AI/LLM Chatbot, Customer Service)",
@@ -1465,7 +1465,7 @@
       "experience": "Entry-Level, Junior",
       "job_type": "Remote",
       "salary": "",
-      "posted_date": "2026-10-12",
+      "posted_date": "2026-11-13",
       "source": "Jobicy APAC",
       "job_url": "https://jobicy.com/jobs/153014-binance-accelerator-program-applied-ai-application-engineer",
       "skills": [
@@ -1870,7 +1870,7 @@
       "experience": "Senior",
       "job_type": "Remote",
       "salary": "",
-      "posted_date": "2026-10-13",
+      "posted_date": "2026-11-13",
       "source": "Jobicy APAC",
       "job_url": "https://jobicy.com/jobs/155182-senior-forward-deployed-engineer-ai-agent",
       "skills": [
@@ -2743,6 +2743,36 @@
       "posted_date": "2026-11-12",
       "source": "Jobicy APAC",
       "job_url": "https://jobicy.com/jobs/161669-engineering-manager-mlops-analytics-2",
+      "skills": [
+        "Software Engineering"
+      ]
+    },
+    {
+      "job_title": "OneStream Developer - Technical Lead (Philippines)",
+      "company_name": "CrossCountry Consulting",
+      "location": "Remote",
+      "description": "OneStream Developer Location: Philippines Join our rapidly growing Technology Enablement practice as a trusted advisor to clients, blending deep technical expertise to deliver tailored and integrated solutions that help our clients solve today's challenges and set the foundation for future success. In this role, you will serve as a hands-on technical resource on OneStream implementation projects, focusing on system integrations, business rule development, and technical architecture, partnering closely with US-based teams to build scalable, high-performing EPM solutions. What You'll Do Technical Delivery & Development Provide hands-on development throughout all phases of OneStream implementations, including business rule development, data integration, metadata configuration, and technical testing Design and build integrations between OneStream and ERP/source systems (e.g., SAP, Oracle, Workday) using connectors, ETL tools, REST APIs, and cloud platforms (e.g., Azure, AWS) Develop and maintain data models, cube views, dashboards, and custom workflows within the OneStream platform Translate functional requirements into technical designs, ensuring solutions are scalable, maintainable, and aligned with client architecture standards Perform complex data validations, resolve data variance and business rule issues, and ensure compliance with design and process requirements Collaborate with functional consultants and client stakeholders to translate business requirements into technical designs, ensuring solutions align with client objectives Managed Services & Support Provide technical post-go-live support across managed services engagements, including break/fix resolution, system enhancements, and performance optimization Support recurring close cycle activities from a technical perspective, troubleshooting integration and data issues as they arise Maintain technical documentation including integration specs, data flow diagrams, and configuration records AI & Innovation Contribute to developing and implementing firm-approved, AI-enabled solutions for clients, in accordance with company policies on data protection, intellectual property, and professional standards Stay informed about emerging AI tools, automation techniques, and EPM platform capabilities; collaborate with firm leadership to identify compliant opportunities to enhance client solutions and internal processes What You'll Bring 4+ years of hands-on OneStream development experience, including business rule writing in VB.NET or C# and technical configuration Experience designing and building system integrations into EPM platforms, including ERP connectors (SAP, Oracle, Workday), ETL tools, REST APIs, and cloud platforms (Azure, AWS) Strong understanding of data modeling, metadata structures, and EPM architecture concepts Experience with other EPM tools (e.g., Oracle, Hyperion, Anaplan, Adaptive) is a strong plus 5–7 years of experience in a technical consulting, financial systems, or EPM development role Comfort with AI: Demonstrated ability to responsibly explore and adopt firm-approved AI tools to enhance productivity and innovation Continuous Learning Mindset: Openness to learning and applying emerging technologies including AI and automation in alignment with firm policies and client standards Qualifications Bachelor's degree in Computer Science, Information Systems, Finance, or similar discipline OneStream certification required; OneStream Architect certification preferred Ability to collaborate effectively with globally distributed teams across time zones Compensation Additional Information",
+      "experience": "Senior",
+      "job_type": "Remote",
+      "salary": "",
+      "posted_date": "2026-11-13",
+      "source": "Jobicy APAC",
+      "job_url": "https://jobicy.com/jobs/161799-onestream-developer-technical-lead-philippines",
+      "skills": [
+        "Software Engineering"
+      ]
+    },
+    {
+      "job_title": "Coupa Technical Integration Consultant",
+      "company_name": "CrossCountry Consulting",
+      "location": "Remote",
+      "description": "By joining our rapidly growing Coupa practice you will serve as a trusted partner to our clients. You’ll bring your first-hand experience, unique perspectives, and functional and technical knowledge to deliver tailored integrated solutions that help our clients solve today's challenges and set the foundation for future success. With support from experienced leaders and a dedicated coach, you will join a collaborative community that invites you to contribute beyond the scope of client delivery. What You'll Do Advise key stakeholders through selection, transformation, implementation, and configuration of Coupa. Our consultants are hands-on involved in full-scale implementation, project management, change management, requirements and design, process improvement, chart of account redesign, testing, integration enablement support, oversee supplier enablement, and best practices Utilize a broad array of technical experience encompassing the full Coupa suite –Procurement, Payables, Expenses and Asset Management Contribute to developing and implementing firm-approved, AI-enabled solutions for clients, in accordance with company policies on data protection, intellectual property, and professional standards. Stay informed about emerging AI tools and techniques and collaborate with firm leadership to identify compliant opportunities to enhance client solutions and internal processes. Contribute beyond client delivery , engaging in various activities such as recruiting, shadowing opportunities, marketing, business development, practice development, and operational improvement initiatives Implement performance improvement and cost-reduction initiatives to drive operational efficiencies What You'll Bring 2+ years of consulting and/or relevant industry experience with functional/technical proficiency with implementation of at least one module within a financial system solution (i.e. Coupa, SAP, NetSuite, Ariba, etc.) Experience with configuration in least two end-to-end implementations Experience in designing and facilitating setup and configuration of one or more modules Expertise in designing, leading, and architecting complex multi-cloud-based system integration solutions, with a focus on ERP systems Hands on experience developing automated integrations, and solution architecture with ETL tools to extract and integrate data Proven track record in developing RESTful API-based integrations between multiple endpoints using Talend Studio, ensuring efficient data flow and connectivity Comfort with AI: Demonstrated ability to responsibly explore and adopt firm-approved AI tools to enhance productivity and innovation. Continuous Learning Mindset: Openness to learning and applying emerging technologies including AI and automation in alignment with firm policies and client standards. Ability to handle multiple deadline-driven, project-critical client engagements, including training and go-live activities, while effectively guiding customer expectations and ensuring project timelines and deliverable quality Qualifications Bachelor’s degree in information systems, Information Technology, Finance, Accounting, or similar discipline Coupa certification preferred Compensation Additional Information",
+      "experience": "Any",
+      "job_type": "Remote",
+      "salary": "",
+      "posted_date": "2026-11-13",
+      "source": "Jobicy APAC",
+      "job_url": "https://jobicy.com/jobs/161788-coupa-technical-integration-consultant",
       "skills": [
         "Software Engineering"
       ]
