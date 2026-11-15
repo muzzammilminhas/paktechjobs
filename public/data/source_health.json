@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-14T06:08:07+05:00",
+  "generated_at": "2026-11-15T05:32:45+05:00",
   "publish_status": "published",
   "publish_message": "Fresh and cache-backed source results passed validation.",
   "guard_streak": 0,
-  "previous_count": 549,
-  "published_count": 558,
+  "previous_count": 558,
+  "published_count": 562,
   "fresh_sources": 2,
   "cached_sources": 0,
   "failed_sources": 3,
@@ -15,10 +15,10 @@
       "source": "Rozee.pk",
       "status": "degraded",
       "live_count": 22,
-      "cached_count": 351,
-      "effective_count": 373,
-      "last_success_at": "2026-11-14T06:08:07+05:00",
-      "message": "Live scrape was unusually small; 351 cached listings were retained."
+      "cached_count": 355,
+      "effective_count": 377,
+      "last_success_at": "2026-11-15T05:32:45+05:00",
+      "message": "Live scrape was unusually small; 355 cached listings were retained."
     },
     {
       "source": "Mustakbil.com",
@@ -41,11 +41,11 @@
     {
       "source": "Jobicy APAC",
       "status": "degraded",
-      "live_count": 29,
-      "cached_count": 156,
+      "live_count": 21,
+      "cached_count": 164,
       "effective_count": 185,
-      "last_success_at": "2026-11-14T06:08:07+05:00",
-      "message": "Live scrape was unusually small; 156 cached listings were retained."
+      "last_success_at": "2026-11-15T05:32:45+05:00",
+      "message": "Live scrape was unusually small; 164 cached listings were retained."
     },
     {
       "source": "Remote OK",
