@@ -1,22 +1,7 @@
 {
   "source": "Jobicy APAC",
-  "last_success_at": "2026-11-15T05:32:45+05:00",
+  "last_success_at": "2026-11-16T05:33:29+05:00",
   "jobs": [
-    {
-      "job_title": "Java Backend Engineer (AI/LLM Chatbot, Customer Service)",
-      "company_name": "Binance",
-      "location": "Remote",
-      "description": "Binance is the leading global blockchain ecosystem and cryptocurrency infrastructure provider whose suite of financial products includes the world’s largest digital-asset exchange.Our mission is to accelerate cryptocurrency adoption and increase the freedom of money. If you’re looking for a fast-paced, mission-driven organization where opportunities to learn and excel are endless, then Binance is the place for you. Responsibilities Development and implementation Backend service for the AI Chatbot products. Build large scale software system, which can impact daily life of millions of customers. Explore and integrate the LLM applications to improve chatbot performance and user experience. Underlying infra/arch upgrade performance tuning, online incidents troubleshooting, and system refactoring. Write high-quality, clean, and maintainable code using engineering best practices guide junior engineers’ daily work and do knowledge share, etc. Requirements Bachelor's/Master's degree in computer science, engineering, or equivalent industry experience. Over 8 years of professional experience in a related field. Core Java programming skills and willingness to do hands on coding are a must. Knowledge and experience with Python and familiar with collaborating with algorithm engineers. Capable to cope with stress, and quickly learn new knowledge. Good cross-team communication skills. Familiarity with design patterns and system design required to solve common software programming challenges. Knowledge and experience with Chatbot & Custom service Bot is considered as a plus. Knowledge and experience with LLM usage is considered as a plus. Knowledge and experience with data job like Flink/Spark are considered as a plus. Working at Binance• Be a part of the world’s leading blockchain ecosystem that continues to grow and offers excellent career development opportunities• Work alongside diverse, world-class talent in an environment where learning and growth opportunities are endless• Tackle fast-paced, challenging and unique projects• Work in a truly global organization, with international teams and a flat organizational structure• Competitive salary and benefits• Flexible working hours, remote-first, and casual work attire Learn more about how Binancians embody the organization’s core values , creating a unified culture that enables collaboration, excellence, and growth. Apply today to be a part of the Web3 revolution! Binance is committed to being an equal opportunity employer. We believe that having a diverse workforce is fundamental to our success. By submitting a job application, you confirm that you have read and agree to our Candidate Privacy Notice .",
-      "experience": "Senior",
-      "job_type": "Remote",
-      "salary": "",
-      "posted_date": "2026-08-17",
-      "source": "Jobicy APAC",
-      "job_url": "https://jobicy.com/jobs/142198-java-backend-engineer-ai-llm-chatbot-customer-service",
-      "skills": [
-        "Software Engineering"
-      ]
-    },
     {
       "job_title": "Customer Solutions Architect",
       "company_name": "Fivetran",
@@ -1900,7 +1885,7 @@
       "experience": "Director",
       "job_type": "Remote",
       "salary": "",
-      "posted_date": "2026-10-15",
+      "posted_date": "2026-11-15",
       "source": "Jobicy APAC",
       "job_url": "https://jobicy.com/jobs/155385-ai-platform-engineer",
       "skills": [
