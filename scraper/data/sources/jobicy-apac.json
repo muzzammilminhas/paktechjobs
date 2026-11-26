@@ -1,6 +1,6 @@
 {
   "source": "Jobicy APAC",
-  "last_success_at": "2026-11-25T08:53:02+05:00",
+  "last_success_at": "2026-11-26T08:18:41+05:00",
   "jobs": [
     {
       "job_title": "Customer Solutions Architect",
@@ -190,7 +190,7 @@
       "experience": "Any",
       "job_type": "Remote",
       "salary": "",
-      "posted_date": "2026-10-24",
+      "posted_date": "2026-11-25",
       "source": "Jobicy APAC",
       "job_url": "https://jobicy.com/jobs/149558-microservices-engineer",
       "skills": [
@@ -205,7 +205,7 @@
       "experience": "Senior",
       "job_type": "Remote",
       "salary": "",
-      "posted_date": "2026-10-24",
+      "posted_date": "2026-11-25",
       "source": "Jobicy APAC",
       "job_url": "https://jobicy.com/jobs/149562-lead-linux-kernel-engineer-ubuntu",
       "skills": [
@@ -220,7 +220,7 @@
       "experience": "Senior",
       "job_type": "Remote",
       "salary": "",
-      "posted_date": "2026-10-24",
+      "posted_date": "2026-11-25",
       "source": "Jobicy APAC",
       "job_url": "https://jobicy.com/jobs/149560-software-engineer-solutions-engineering",
       "skills": [
@@ -235,7 +235,7 @@
       "experience": "Senior",
       "job_type": "Remote",
       "salary": "",
-      "posted_date": "2026-10-24",
+      "posted_date": "2026-11-25",
       "source": "Jobicy APAC",
       "job_url": "https://jobicy.com/jobs/149566-rust-engineering-lead-linux-and-open-source",
       "skills": [
@@ -250,7 +250,7 @@
       "experience": "Any",
       "job_type": "Remote",
       "salary": "",
-      "posted_date": "2026-10-24",
+      "posted_date": "2026-11-25",
       "source": "Jobicy APAC",
       "job_url": "https://jobicy.com/jobs/149563-python-and-kubernetes-software-engineer-data-workflows-ai-ml-analytics",
       "skills": [
@@ -261,11 +261,11 @@
       "job_title": "Embedded & Desktop Linux Systems Engineer - Optimisation",
       "company_name": "Canonical",
       "location": "Remote",
-      "description": "Work across the full Linux stack from kernel through GUI to optimise Ubuntu, the world’s most widely used Linux desktop and server, for the latest silicon. The role is a fast-paced, problem-solving role that’s challenging yet very exciting. The right candidate must be resourceful, articulate, and able to deliver on a wide variety of solutions across PC and IoT technologies. Our teams partner with specialist engineers from major silicon companies to integrate next-generation features and performance enhancements for upcoming hardware. Location: This is a Globally remote role What your day will look like Design and implement the best Ubuntu integration for the latest IoT and server-class hardware platforms and software stacks Work with partners to deliver a delightful, optimised, first class Ubuntu experience on their platforms Take a holistic approach to the Ubuntu experience on partner platforms with inputs on technical plans, testing strategy, quality metrics Participate as technical lead on complex customer engagements involving complete system architectures from cloud to edge Help our customers integrate their apps, SDKs, build device OS images, optimize applications with Ubuntu Core, Desktop and Server Work with the most advanced operating systems and application technologies available in the enterprise world. Joining Canonical , you will partner with bright minds from all over the world, and work with an exciting set of new technologies in a fast growing company with a truly unique and ambitious vision to build a better platform with free software. You will work with customers on exciting IoT and server platforms and technologies, built to support different verticals: from robots to data centers, from telco to retail. What we are looking for in you You love technology and working with brilliant people You have a Bachelor’s degree in Computer Science, STEM or similar You have experience with Linux packaging (Debian, RPM, Yocto) You have experience working with open source communities and licences You have experience working with C, C++ You can work in a globally distributed team through self-discipline and self-motivation. Additional skills that you might also bring Experience with graphics stacks Good understanding of networking - TCP/IP, DHCP, HTTP/REST Basic understanding of security best practices in IoT or server environments Good communication skills, ideally public speaking experience IoT / Embedded experience – from board and SoC, BMCs, bootloaders and firmware to OS, through apps and services Some experience with Docker/OCI containers/K8s What we offer you Your base pay will depend on various factors including your geographical location, level of experience, knowledge and skills. In addition to the benefits above, certain roles are also eligible for additional benefits and rewards including annual bonuses and sales incentives based on revenue or utilisation. Our compensation philosophy is to ensure equity right across our global workforce. In addition to a competitive base pay, we provide all team members with additional benefits, which reflect our values and ideals. Please note that additional benefits may apply depending on the work location and, for more information on these, you can ask in the later stages of the recruitment process. Fully remote working environment - we’ve been working remotely since 2004! Personal learning and development budget of 2,000USD per annum Annual compensation review Recognition rewards Annual holiday leave Parental Leave Employee Assistance Programme Opportunity to travel to new locations to meet colleagues at ‘sprints’ Priority Pass for travel and travel upgrades for long haul company events About Canonical Canonical is a pioneering tech firm that is at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do. Canonical has been a remote-first company since its inception in 2004.​ Work at Canonical is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical provides a unique window into the world of 21st-century digital business. Canonical is an equal opportunity employer We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. Whatever your identity, we will give your application fair consideration. #LI-remote",
+      "description": "Work across the full Linux stack from kernel through GUI to optimise Ubuntu, the world’s most widely used Linux desktop and server, for the latest silicon. The role is a fast-paced, problem-solving role that’s challenging yet very exciting. The right candidate must be resourceful, articulate, and able to deliver on a wide variety of solutions across PC and IoT technologies. Our teams partner with specialist engineers from major silicon companies to integrate next-generation features and performance enhancements for upcoming hardware. Location: This is a Globally remote role What your day will look like Design and implement the best Ubuntu integration for the latest IoT and server-class hardware platforms and software stacks Work with partners to deliver a delightful, optimised, first class Ubuntu experience on their platforms Take a holistic approach to the Ubuntu experience on partner platforms with inputs on technical plans, testing strategy, quality metrics Participate as technical lead on complex customer engagements involving complete system architectures from cloud to edge Help our customers integrate their apps, SDKs, build device OS images, optimize applications with Ubuntu Core, Desktop and Server Work with the most advanced operating systems and application technologies available in the enterprise world. Joining Canonical, you will partner with bright minds from all over the world, and work with an exciting set of new technologies in a fast growing company with a truly unique and ambitious vision to build a better platform with free software. You will work with customers on exciting IoT and server platforms and technologies, built to support different verticals: from robots to data centers, from telco to retail. What we are looking for in you You love technology and working with brilliant people You have a Bachelor’s degree in Computer Science, STEM or similar You have experience with Linux packaging (Debian, RPM, Yocto) You have experience working with open source communities and licences You have experience working with C, C++ You can work in a globally distributed team through self-discipline and self-motivation. Additional skills that you might also bring Experience with graphics stacks Good understanding of networking - TCP/IP, DHCP, HTTP/REST Basic understanding of security best practices in IoT or server environments Good communication skills, ideally public speaking experience IoT / Embedded experience – from board and SoC, BMCs, bootloaders and firmware to OS, through apps and services Some experience with Docker/OCI containers/K8s What we offer you Your base pay will depend on various factors including your geographical location, level of experience, knowledge and skills. In addition to the benefits above, certain roles are also eligible for additional benefits and rewards including annual bonuses and sales incentives based on revenue or utilisation. Our compensation philosophy is to ensure equity right across our global workforce. In addition to a competitive base pay, we provide all team members with additional benefits, which reflect our values and ideals. Please note that additional benefits may apply depending on the work location and, for more information on these, you can ask in the later stages of the recruitment process. Fully remote working environment - we’ve been working remotely since 2004! Personal learning and development budget of 2,000USD per annum Annual compensation review Recognition rewards Annual holiday leave Parental Leave Employee Assistance Programme Opportunity to travel to new locations to meet colleagues at ‘sprints’ Priority Pass for travel and travel upgrades for long haul company events About Canonical Canonical is a pioneering tech firm that is at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do. Canonical has been a remote-first company since its inception in 2004.​ Work at Canonical is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical provides a unique window into the world of 21st-century digital business. Canonical is an equal opportunity employer We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. Whatever your identity, we will give your application fair consideration. #LI-remote",
       "experience": "Senior",
       "job_type": "Remote",
       "salary": "",
-      "posted_date": "2026-10-24",
+      "posted_date": "2026-11-25",
       "source": "Jobicy APAC",
       "job_url": "https://jobicy.com/jobs/149567-embedded-desktop-linux-systems-engineer-optimisation",
       "skills": [
@@ -280,7 +280,7 @@
       "experience": "Senior",
       "job_type": "Remote",
       "salary": "",
-      "posted_date": "2026-10-24",
+      "posted_date": "2026-11-25",
       "source": "Jobicy APAC",
       "job_url": "https://jobicy.com/jobs/149576-containerization-virtualisation-engineer",
       "skills": [
@@ -295,7 +295,7 @@
       "experience": "Senior",
       "job_type": "Remote",
       "salary": "",
-      "posted_date": "2026-10-24",
+      "posted_date": "2026-11-25",
       "source": "Jobicy APAC",
       "job_url": "https://jobicy.com/jobs/149574-linux-platform-integration-ubuntu-systems-senior-engineer",
       "skills": [
@@ -325,7 +325,7 @@
       "experience": "Senior",
       "job_type": "Remote",
       "salary": "",
-      "posted_date": "2026-10-24",
+      "posted_date": "2026-11-25",
       "source": "Jobicy APAC",
       "job_url": "https://jobicy.com/jobs/149522-senior-staff-principal-engineer",
       "skills": [
@@ -340,7 +340,7 @@
       "experience": "Entry-Level, Junior",
       "job_type": "Remote",
       "salary": "",
-      "posted_date": "2026-10-24",
+      "posted_date": "2026-11-25",
       "source": "Jobicy APAC",
       "job_url": "https://jobicy.com/jobs/149523-cloud-field-engineer",
       "skills": [
@@ -355,7 +355,7 @@
       "experience": "Any",
       "job_type": "Remote",
       "salary": "",
-      "posted_date": "2026-10-24",
+      "posted_date": "2026-11-25",
       "source": "Jobicy APAC",
       "job_url": "https://jobicy.com/jobs/149527-web-frontend-engineer-js-css-react-flutter",
       "skills": [
@@ -370,7 +370,7 @@
       "experience": "Senior",
       "job_type": "Remote",
       "salary": "",
-      "posted_date": "2026-10-24",
+      "posted_date": "2026-11-25",
       "source": "Jobicy APAC",
       "job_url": "https://jobicy.com/jobs/149524-software-engineer-sustaining-engineering",
       "skills": [
@@ -385,7 +385,7 @@
       "experience": "Senior",
       "job_type": "Remote",
       "salary": "",
-      "posted_date": "2026-10-24",
+      "posted_date": "2026-11-25",
       "source": "Jobicy APAC",
       "job_url": "https://jobicy.com/jobs/149533-ubuntu-linux-kernel-engineer-silicon-enablement",
       "skills": [
@@ -400,7 +400,7 @@
       "experience": "Senior",
       "job_type": "Remote",
       "salary": "",
-      "posted_date": "2026-10-24",
+      "posted_date": "2026-11-25",
       "source": "Jobicy APAC",
       "job_url": "https://jobicy.com/jobs/149532-sustaining-operations-engineer",
       "skills": [
@@ -415,7 +415,7 @@
       "experience": "Senior",
       "job_type": "Remote",
       "salary": "",
-      "posted_date": "2026-10-24",
+      "posted_date": "2026-11-25",
       "source": "Jobicy APAC",
       "job_url": "https://jobicy.com/jobs/149535-embedded-linux-field-engineer-for-devices-iot",
       "skills": [
@@ -430,7 +430,7 @@
       "experience": "Senior",
       "job_type": "Remote",
       "salary": "",
-      "posted_date": "2026-10-24",
+      "posted_date": "2026-11-25",
       "source": "Jobicy APAC",
       "job_url": "https://jobicy.com/jobs/149534-alliances-field-engineer",
       "skills": [
@@ -445,7 +445,7 @@
       "experience": "Senior",
       "job_type": "Remote",
       "salary": "",
-      "posted_date": "2026-10-24",
+      "posted_date": "2026-11-25",
       "source": "Jobicy APAC",
       "job_url": "https://jobicy.com/jobs/149537-ubuntu-engineering-lead",
       "skills": [
@@ -460,7 +460,7 @@
       "experience": "Senior",
       "job_type": "Remote",
       "salary": "",
-      "posted_date": "2026-10-24",
+      "posted_date": "2026-11-25",
       "source": "Jobicy APAC",
       "job_url": "https://jobicy.com/jobs/149538-golang-engineer-2",
       "skills": [
@@ -475,7 +475,7 @@
       "experience": "Any",
       "job_type": "Remote",
       "salary": "",
-      "posted_date": "2026-10-24",
+      "posted_date": "2026-11-25",
       "source": "Jobicy APAC",
       "job_url": "https://jobicy.com/jobs/149543-python-engineer",
       "skills": [
@@ -490,7 +490,7 @@
       "experience": "Any",
       "job_type": "Remote",
       "salary": "",
-      "posted_date": "2026-10-24",
+      "posted_date": "2026-11-25",
       "source": "Jobicy APAC",
       "job_url": "https://jobicy.com/jobs/149551-performance-engineer-open-source",
       "skills": [
@@ -505,7 +505,7 @@
       "experience": "Any",
       "job_type": "Remote",
       "salary": "",
-      "posted_date": "2026-10-24",
+      "posted_date": "2026-11-25",
       "source": "Jobicy APAC",
       "job_url": "https://jobicy.com/jobs/149552-software-engineer-app-stores",
       "skills": [
@@ -675,111 +675,6 @@
       "job_url": "https://jobicy.com/jobs/149940-ubuntu-linux-kernel-engineer-bios-firmware",
       "skills": [
         "Software Engineering"
-      ]
-    },
-    {
-      "job_title": "Chinese Simplified Accessibility Tester",
-      "company_name": "Welo Global",
-      "location": "Remote",
-      "description": "About Welocalize Welocalize, a Welo Global brand, serves localization teams through AI-enabled multilingual content solutions that enable enterprises to operate and scale globally. Welocalize combines AI, automation, and human expertise to support enterprises in more than 300 languages, enabling accurate, culturally aligned, and compliant multilingual content at scale. About the Role Welocalize is expanding its network of accessibility testers to validate the language-specific accessibility of localized digital content: web pages, applications, and documents. You will serve as a native-language expert reviewer, confirming that accessibility elements not only survive translation but are accurate, understandable, and functional in the target language. This role requires fluency in the target language, hands-on experience with assistive technology in that language, and familiarity with Digital Accessibility standards and guidelines such as PDF/UA, WCAG 2.1 & 2.2, and EN 301 549 to complement accessibility testing done internally. Work is assigned on a project basis. You will receive a defined scope, a testing checklist, and access credentials. Findings are reported in a structured defect log and specific bug tracking system. What You Will Do The actual scope will vary by assignment, but the general extent of this role is outlined below. Language Validation : Confirm correct language codes in HTML and PDF metadata, and identify mixed-language content missing proper declarations. In-Language Screen Reader Testing : Using native-language screen readers (JAWS, NVDA, VoiceOver, TalkBack, or Narrator), review translated accessible text — including hidden elements, tooltips, error messages, alt text, and UI labels — for accuracy, natural phrasing, and clarity when read aloud. Multimedia Accessibility Review : Evaluate captions, transcripts, and audio descriptions for accuracy, synchronization, and natural language, and confirm multimedia controls are properly labeled in the target language. Defect Reporting : Log findings with WCAG/PDF-UA references, supporting screenshots or recordings, and severity classifications; participate in review calls with the QA Lead as needed. What We Are Looking For Required Native or near-native fluency in Chinese Simplified ; you are the authoritative voice on whether translated content reads naturally and is understandable. Demonstrated hands-on experience testing digital content with assistive technology/AT. Working knowledge of WCAG 2.1 & 2.2 AA and EN 301 549. Ability to evaluate content from a native-speaker accessibility perspective — not just technical compliance, but real-world usability for screen reader users who speak the language. Reliable access to relevant devices and operating systems to replicate real-world usage in the target locale. Nice to have Strong written communication skills in English for defect reporting and general communications. Experience with PDF accessibility testing using PAC 3 or Adobe Acrobat Pro Accessibility Checker. Familiarity with internationalization, localization, and translation workflows; understanding of how accessibility elements can be affected during format conversion. Personal use of assistive technology. Tools and Environment Welocalize provides access credentials and a structured test plan per engagement. Testers are expected to supply their own device and assistive technology setup appropriate to the target locale. Commonly used tools in this role include: Screen readers : JAWS, NVDA, VoiceOver (macOS/iOS), TalkBack (Android), Narrator (Windows) Browser/screen reader pairings aligned to the target locale's most common usage patterns Caption and transcript review : native video players, .srt/.vtt file review PDF accessibility : PAC 3, Adobe Acrobat Pro (provided where required) Defect logging : Jira bug tracking system is most frequently used What to Expect Assignments are project-based with clear scope documents, test checklists, and agreed turnaround timelines provided before work begins. Scope for each engagement will specify the exact language, content type, pages or documents in scope, and priority areas. You will not be expected to remediate or fix issues; your role is testing and reporting. Welocalize values feedback: if checklist items are unclear or a finding falls outside the defined scope, flag it and we will address it. How to Apply Click on Apply Now button and share with us the following: A brief introduction covering your language, screen reader experience, and accessibility background. Any relevant certifications (CPACC, WAS, DHS Trusted Tester, or equivalent).",
-      "experience": "Entry-Level, Junior",
-      "job_type": "Remote",
-      "salary": "",
-      "posted_date": "2026-08-27",
-      "source": "Jobicy APAC",
-      "job_url": "https://jobicy.com/jobs/149748-chinese-simplified-accessibility-tester",
-      "skills": [
-        "QA & Testing"
-      ]
-    },
-    {
-      "job_title": "Spanish Accessibility Tester",
-      "company_name": "Welo Global",
-      "location": "Remote",
-      "description": "About Welocalize Welocalize, a Welo Global brand, serves localization teams through AI-enabled multilingual content solutions that enable enterprises to operate and scale globally. Welocalize combines AI, automation, and human expertise to support enterprises in more than 300 languages, enabling accurate, culturally aligned, and compliant multilingual content at scale. About the Role Welocalize is expanding its network of accessibility testers to validate the language-specific accessibility of localized digital content: web pages, applications, and documents. You will serve as a native-language expert reviewer, confirming that accessibility elements not only survive translation but are accurate, understandable, and functional in the target language ( Spanish ). This role requires fluency in the target language, hands-on experience with assistive technology in that language, and familiarity with Digital Accessibility standards and guidelines such as PDF/UA, WCAG 2.1 & 2.2, and EN 301 549 to complement accessibility testing done internally. Work is assigned on a project basis. You will receive a defined scope, a testing checklist, and access credentials. Findings are reported in a structured defect log and specific bug tracking system. What You Will Do The actual scope will vary by assignment, but the general extent of this role is outlined below. Language Validation : Confirm correct language codes in HTML and PDF metadata, and identify mixed-language content missing proper declarations. In-Language Screen Reader Testing : Using native-language screen readers (JAWS, NVDA, VoiceOver, TalkBack, or Narrator), review translated accessible text — including hidden elements, tooltips, error messages, alt text, and UI labels — for accuracy, natural phrasing, and clarity when read aloud. Multimedia Accessibility Review : Evaluate captions, transcripts, and audio descriptions for accuracy, synchronization, and natural language, and confirm multimedia controls are properly labeled in the target language. Defect Reporting : Log findings with WCAG/PDF-UA references, supporting screenshots or recordings, and severity classifications; participate in review calls with the QA Lead as needed. What We Are Looking For Required Native or near-native fluency in Spanish ; you are the authoritative voice on whether translated content reads naturally and is understandable. Demonstrated hands-on experience testing digital content with assistive technology/AT. Working knowledge of WCAG 2.1 & 2.2 AA and EN 301 549. Ability to evaluate content from a native-speaker accessibility perspective — not just technical compliance, but real-world usability for screen reader users who speak the language. Reliable access to relevant devices and operating systems to replicate real-world usage in the target locale. Nice to have Strong written communication skills in English for defect reporting and general communications. Experience with PDF accessibility testing using PAC 3 or Adobe Acrobat Pro Accessibility Checker. Familiarity with internationalization, localization, and translation workflows; understanding of how accessibility elements can be affected during format conversion. Personal use of assistive technology. Tools and Environment Welocalize provides access credentials and a structured test plan per engagement. Testers are expected to supply their own device and assistive technology setup appropriate to the target locale. Commonly used tools in this role include: Screen readers : JAWS, NVDA, VoiceOver (macOS/iOS), TalkBack (Android), Narrator (Windows) Browser/screen reader pairings aligned to the target locale's most common usage patterns Caption and transcript review : native video players, .srt/.vtt file review PDF accessibility : PAC 3, Adobe Acrobat Pro (provided where required) Defect logging : Jira bug tracking system is most frequently used What to Expect Assignments are project-based with clear scope documents, test checklists, and agreed turnaround timelines provided before work begins. Scope for each engagement will specify the exact language, content type, pages or documents in scope, and priority areas. You will not be expected to remediate or fix issues; your role is testing and reporting. Welocalize values feedback: if checklist items are unclear or a finding falls outside the defined scope, flag it and we will address it. How to Apply Click on Apply Now button and share with us the following: A brief introduction covering your language, screen reader experience, and accessibility background. Any relevant certifications (CPACC, WAS, DHS Trusted Tester, or equivalent).",
-      "experience": "Entry-Level, Junior",
-      "job_type": "Remote",
-      "salary": "",
-      "posted_date": "2026-08-27",
-      "source": "Jobicy APAC",
-      "job_url": "https://jobicy.com/jobs/149742-spanish-accessibility-tester",
-      "skills": [
-        "QA & Testing"
-      ]
-    },
-    {
-      "job_title": "Italian Accessibility Tester",
-      "company_name": "Welo Global",
-      "location": "Remote",
-      "description": "About Welocalize Welocalize, a Welo Global brand, serves localization teams through AI-enabled multilingual content solutions that enable enterprises to operate and scale globally. Welocalize combines AI, automation, and human expertise to support enterprises in more than 300 languages, enabling accurate, culturally aligned, and compliant multilingual content at scale. About the Role Welocalize is expanding its network of accessibility testers to validate the language-specific accessibility of localized digital content: web pages, applications, and documents. You will serve as a native-language expert reviewer, confirming that accessibility elements not only survive translation but are accurate, understandable, and functional in the target language ( Italian ). This role requires fluency in the target language, hands-on experience with assistive technology in that language, and familiarity with Digital Accessibility standards and guidelines such as PDF/UA, WCAG 2.1 & 2.2, and EN 301 549 to complement accessibility testing done internally. Work is assigned on a project basis. You will receive a defined scope, a testing checklist, and access credentials. Findings are reported in a structured defect log and specific bug tracking system. What You Will Do The actual scope will vary by assignment, but the general extent of this role is outlined below. Language Validation : Confirm correct language codes in HTML and PDF metadata, and identify mixed-language content missing proper declarations. In-Language Screen Reader Testing : Using native-language screen readers (JAWS, NVDA, VoiceOver, TalkBack, or Narrator), review translated accessible text — including hidden elements, tooltips, error messages, alt text, and UI labels — for accuracy, natural phrasing, and clarity when read aloud. Multimedia Accessibility Review : Evaluate captions, transcripts, and audio descriptions for accuracy, synchronization, and natural language, and confirm multimedia controls are properly labeled in the target language. Defect Reporting : Log findings with WCAG/PDF-UA references, supporting screenshots or recordings, and severity classifications; participate in review calls with the QA Lead as needed. What We Are Looking For Required Native or near-native fluency in Italian ; you are the authoritative voice on whether translated content reads naturally and is understandable. Demonstrated hands-on experience testing digital content with assistive technology/AT. Working knowledge of WCAG 2.1 & 2.2 AA and EN 301 549. Ability to evaluate content from a native-speaker accessibility perspective — not just technical compliance, but real-world usability for screen reader users who speak the language. Reliable access to relevant devices and operating systems to replicate real-world usage in the target locale. Nice to have Strong written communication skills in English for defect reporting and general communications. Experience with PDF accessibility testing using PAC 3 or Adobe Acrobat Pro Accessibility Checker. Familiarity with internationalization, localization, and translation workflows; understanding of how accessibility elements can be affected during format conversion. Personal use of assistive technology. Tools and Environment Welocalize provides access credentials and a structured test plan per engagement. Testers are expected to supply their own device and assistive technology setup appropriate to the target locale. Commonly used tools in this role include: Screen readers : JAWS, NVDA, VoiceOver (macOS/iOS), TalkBack (Android), Narrator (Windows) Browser/screen reader pairings aligned to the target locale's most common usage patterns Caption and transcript review : native video players, .srt/.vtt file review PDF accessibility : PAC 3, Adobe Acrobat Pro (provided where required) Defect logging : Jira bug tracking system is most frequently used What to Expect Assignments are project-based with clear scope documents, test checklists, and agreed turnaround timelines provided before work begins. Scope for each engagement will specify the exact language, content type, pages or documents in scope, and priority areas. You will not be expected to remediate or fix issues; your role is testing and reporting. Welocalize values feedback: if checklist items are unclear or a finding falls outside the defined scope, flag it and we will address it. How to Apply Click on Apply Now button and share with us the following: A brief introduction covering your language, screen reader experience, and accessibility background. Any relevant certifications (CPACC, WAS, DHS Trusted Tester, or equivalent).",
-      "experience": "Entry-Level, Junior",
-      "job_type": "Remote",
-      "salary": "",
-      "posted_date": "2026-08-27",
-      "source": "Jobicy APAC",
-      "job_url": "https://jobicy.com/jobs/149741-italian-accessibility-tester",
-      "skills": [
-        "QA & Testing"
-      ]
-    },
-    {
-      "job_title": "Dutch Accessibility Tester",
-      "company_name": "Welo Global",
-      "location": "Remote",
-      "description": "About Welocalize Welocalize, a Welo Global brand, serves localization teams through AI-enabled multilingual content solutions that enable enterprises to operate and scale globally. Welocalize combines AI, automation, and human expertise to support enterprises in more than 300 languages, enabling accurate, culturally aligned, and compliant multilingual content at scale. About the Role Welocalize is expanding its network of accessibility testers to validate the language-specific accessibility of localized digital content: web pages, applications, and documents. You will serve as a native-language expert reviewer, confirming that accessibility elements not only survive translation but are accurate, understandable, and functional in the target language ( Dutch ). This role requires fluency in the target language, hands-on experience with assistive technology in that language, and familiarity with Digital Accessibility standards and guidelines such as PDF/UA, WCAG 2.1 & 2.2, and EN 301 549 to complement accessibility testing done internally. Work is assigned on a project basis. You will receive a defined scope, a testing checklist, and access credentials. Findings are reported in a structured defect log and specific bug tracking system. What You Will Do The actual scope will vary by assignment, but the general extent of this role is outlined below. Language Validation : Confirm correct language codes in HTML and PDF metadata, and identify mixed-language content missing proper declarations. In-Language Screen Reader Testing : Using native-language screen readers (JAWS, NVDA, VoiceOver, TalkBack, or Narrator), review translated accessible text — including hidden elements, tooltips, error messages, alt text, and UI labels — for accuracy, natural phrasing, and clarity when read aloud. Multimedia Accessibility Review : Evaluate captions, transcripts, and audio descriptions for accuracy, synchronization, and natural language, and confirm multimedia controls are properly labeled in the target language. Defect Reporting : Log findings with WCAG/PDF-UA references, supporting screenshots or recordings, and severity classifications; participate in review calls with the QA Lead as needed. What We Are Looking For Required Native or near-native fluency in Dutch ; you are the authoritative voice on whether translated content reads naturally and is understandable. Demonstrated hands-on experience testing digital content with assistive technology/AT. Working knowledge of WCAG 2.1 & 2.2 AA and EN 301 549. Ability to evaluate content from a native-speaker accessibility perspective — not just technical compliance, but real-world usability for screen reader users who speak the language. Reliable access to relevant devices and operating systems to replicate real-world usage in the target locale. Nice to have Strong written communication skills in English for defect reporting and general communications. Experience with PDF accessibility testing using PAC 3 or Adobe Acrobat Pro Accessibility Checker. Familiarity with internationalization, localization, and translation workflows; understanding of how accessibility elements can be affected during format conversion. Personal use of assistive technology. Tools and Environment Welocalize provides access credentials and a structured test plan per engagement. Testers are expected to supply their own device and assistive technology setup appropriate to the target locale. Commonly used tools in this role include: Screen readers : JAWS, NVDA, VoiceOver (macOS/iOS), TalkBack (Android), Narrator (Windows) Browser/screen reader pairings aligned to the target locale's most common usage patterns Caption and transcript review : native video players, .srt/.vtt file review PDF accessibility : PAC 3, Adobe Acrobat Pro (provided where required) Defect logging : Jira bug tracking system is most frequently used What to Expect Assignments are project-based with clear scope documents, test checklists, and agreed turnaround timelines provided before work begins. Scope for each engagement will specify the exact language, content type, pages or documents in scope, and priority areas. You will not be expected to remediate or fix issues; your role is testing and reporting. Welocalize values feedback: if checklist items are unclear or a finding falls outside the defined scope, flag it and we will address it. How to Apply Click on Apply Now button and share with us the following: A brief introduction covering your language, screen reader experience, and accessibility background. Any relevant certifications (CPACC, WAS, DHS Trusted Tester, or equivalent).",
-      "experience": "Entry-Level, Junior",
-      "job_type": "Remote",
-      "salary": "",
-      "posted_date": "2026-08-27",
-      "source": "Jobicy APAC",
-      "job_url": "https://jobicy.com/jobs/149740-dutch-accessibility-tester",
-      "skills": [
-        "QA & Testing"
-      ]
-    },
-    {
-      "job_title": "French Canadian Accessibility Tester",
-      "company_name": "Welo Global",
-      "location": "Remote",
-      "description": "About Welocalize Welocalize, a Welo Global brand, serves localization teams through AI-enabled multilingual content solutions that enable enterprises to operate and scale globally. Welocalize combines AI, automation, and human expertise to support enterprises in more than 300 languages, enabling accurate, culturally aligned, and compliant multilingual content at scale. About the Role Welocalize is expanding its network of accessibility testers to validate the language-specific accessibility of localized digital content: web pages, applications, and documents. You will serve as a native-language expert reviewer, confirming that accessibility elements not only survive translation but are accurate, understandable, and functional in the target language. This role requires fluency in the target language, hands-on experience with assistive technology in that language, and familiarity with Digital Accessibility standards and guidelines such as PDF/UA, WCAG 2.1 & 2.2, and EN 301 549 to complement accessibility testing done internally. Work is assigned on a project basis. You will receive a defined scope, a testing checklist, and access credentials. Findings are reported in a structured defect log and specific bug tracking system. What You Will Do The actual scope will vary by assignment, but the general extent of this role is outlined below. Language Validation : Confirm correct language codes in HTML and PDF metadata, and identify mixed-language content missing proper declarations. In-Language Screen Reader Testing : Using native-language screen readers (JAWS, NVDA, VoiceOver, TalkBack, or Narrator), review translated accessible text — including hidden elements, tooltips, error messages, alt text, and UI labels — for accuracy, natural phrasing, and clarity when read aloud. Multimedia Accessibility Review : Evaluate captions, transcripts, and audio descriptions for accuracy, synchronization, and natural language, and confirm multimedia controls are properly labeled in the target language. Defect Reporting : Log findings with WCAG/PDF-UA references, supporting screenshots or recordings, and severity classifications; participate in review calls with the QA Lead as needed. What We Are Looking For Required Native or near-native fluency in French Canadian ; you are the authoritative voice on whether translated content reads naturally and is understandable. Demonstrated hands-on experience testing digital content with assistive technology/AT. Working knowledge of WCAG 2.1 & 2.2 AA and EN 301 549. Ability to evaluate content from a native-speaker accessibility perspective — not just technical compliance, but real-world usability for screen reader users who speak the language. Reliable access to relevant devices and operating systems to replicate real-world usage in the target locale. Nice to have Strong written communication skills in English for defect reporting and general communications. Experience with PDF accessibility testing using PAC 3 or Adobe Acrobat Pro Accessibility Checker. Familiarity with internationalization, localization, and translation workflows; understanding of how accessibility elements can be affected during format conversion. Personal use of assistive technology. Tools and Environment Welocalize provides access credentials and a structured test plan per engagement. Testers are expected to supply their own device and assistive technology setup appropriate to the target locale. Commonly used tools in this role include: Screen readers : JAWS, NVDA, VoiceOver (macOS/iOS), TalkBack (Android), Narrator (Windows) Browser/screen reader pairings aligned to the target locale's most common usage patterns Caption and transcript review : native video players, .srt/.vtt file review PDF accessibility : PAC 3, Adobe Acrobat Pro (provided where required) Defect logging : Jira bug tracking system is most frequently used What to Expect Assignments are project-based with clear scope documents, test checklists, and agreed turnaround timelines provided before work begins. Scope for each engagement will specify the exact language, content type, pages or documents in scope, and priority areas. You will not be expected to remediate or fix issues; your role is testing and reporting. Welocalize values feedback: if checklist items are unclear or a finding falls outside the defined scope, flag it and we will address it. How to Apply Click on Apply Now button and share with us the following: A brief introduction covering your language, screen reader experience, and accessibility background. Any relevant certifications (CPACC, WAS, DHS Trusted Tester, or equivalent).",
-      "experience": "Entry-Level, Junior",
-      "job_type": "Remote",
-      "salary": "",
-      "posted_date": "2026-08-27",
-      "source": "Jobicy APAC",
-      "job_url": "https://jobicy.com/jobs/149737-french-canadian-accessibility-tester",
-      "skills": [
-        "QA & Testing"
-      ]
-    },
-    {
-      "job_title": "Portuguese Accessibility Tester",
-      "company_name": "Welo Global",
-      "location": "Remote",
-      "description": "About Welocalize Welocalize, a Welo Global brand, serves localization teams through AI-enabled multilingual content solutions that enable enterprises to operate and scale globally. Welocalize combines AI, automation, and human expertise to support enterprises in more than 300 languages, enabling accurate, culturally aligned, and compliant multilingual content at scale. About the Role Welocalize is expanding its network of accessibility testers to validate the language-specific accessibility of localized digital content: web pages, applications, and documents. You will serve as a native-language expert reviewer, confirming that accessibility elements not only survive translation but are accurate, understandable, and functional in the target language. This role requires fluency in the target language, hands-on experience with assistive technology in that language, and familiarity with Digital Accessibility standards and guidelines such as PDF/UA, WCAG 2.1 & 2.2, and EN 301 549 to complement accessibility testing done internally. Work is assigned on a project basis. You will receive a defined scope, a testing checklist, and access credentials. Findings are reported in a structured defect log and specific bug tracking system. What You Will Do The actual scope will vary by assignment, but the general extent of this role is outlined below. Language Validation : Confirm correct language codes in HTML and PDF metadata, and identify mixed-language content missing proper declarations. In-Language Screen Reader Testing : Using native-language screen readers (JAWS, NVDA, VoiceOver, TalkBack, or Narrator), review translated accessible text — including hidden elements, tooltips, error messages, alt text, and UI labels — for accuracy, natural phrasing, and clarity when read aloud. Multimedia Accessibility Review : Evaluate captions, transcripts, and audio descriptions for accuracy, synchronization, and natural language, and confirm multimedia controls are properly labeled in the target language. Defect Reporting : Log findings with WCAG/PDF-UA references, supporting screenshots or recordings, and severity classifications; participate in review calls with the QA Lead as needed. What We Are Looking For Required Native or near-native fluency in Portuguese ; you are the authoritative voice on whether translated content reads naturally and is understandable. Demonstrated hands-on experience testing digital content with assistive technology/AT. Working knowledge of WCAG 2.1 & 2.2 AA and EN 301 549. Ability to evaluate content from a native-speaker accessibility perspective — not just technical compliance, but real-world usability for screen reader users who speak the language. Reliable access to relevant devices and operating systems to replicate real-world usage in the target locale. Nice to have Strong written communication skills in English for defect reporting and general communications. Experience with PDF accessibility testing using PAC 3 or Adobe Acrobat Pro Accessibility Checker. Familiarity with internationalization, localization, and translation workflows; understanding of how accessibility elements can be affected during format conversion. Personal use of assistive technology. Tools and Environment Welocalize provides access credentials and a structured test plan per engagement. Testers are expected to supply their own device and assistive technology setup appropriate to the target locale. Commonly used tools in this role include: Screen readers : JAWS, NVDA, VoiceOver (macOS/iOS), TalkBack (Android), Narrator (Windows) Browser/screen reader pairings aligned to the target locale's most common usage patterns Caption and transcript review : native video players, .srt/.vtt file review PDF accessibility : PAC 3, Adobe Acrobat Pro (provided where required) Defect logging : Jira bug tracking system is most frequently used What to Expect Assignments are project-based with clear scope documents, test checklists, and agreed turnaround timelines provided before work begins. Scope for each engagement will specify the exact language, content type, pages or documents in scope, and priority areas. You will not be expected to remediate or fix issues; your role is testing and reporting. Welocalize values feedback: if checklist items are unclear or a finding falls outside the defined scope, flag it and we will address it. How to Apply Click on Apply Now button and share with us the following: A brief introduction covering your language, screen reader experience, and accessibility background. Any relevant certifications (CPACC, WAS, DHS Trusted Tester, or equivalent).",
-      "experience": "Entry-Level, Junior",
-      "job_type": "Remote",
-      "salary": "",
-      "posted_date": "2026-08-27",
-      "source": "Jobicy APAC",
-      "job_url": "https://jobicy.com/jobs/149736-portuguese-accessibility-tester",
-      "skills": [
-        "QA & Testing"
-      ]
-    },
-    {
-      "job_title": "German Accessibility Tester",
-      "company_name": "Welo Global",
-      "location": "Remote",
-      "description": "About Welocalize Welocalize, a Welo Global brand, serves localization teams through AI-enabled multilingual content solutions that enable enterprises to operate and scale globally. Welocalize combines AI, automation, and human expertise to support enterprises in more than 300 languages, enabling accurate, culturally aligned, and compliant multilingual content at scale. About the Role Welocalize is expanding its network of accessibility testers to validate the language-specific accessibility of localized digital content: web pages, applications, and documents. You will serve as a native-language expert reviewer, confirming that accessibility elements not only survive translation but are accurate, understandable, and functional in the target language. This role requires fluency in the target language, hands-on experience with assistive technology in that language, and familiarity with Digital Accessibility standards and guidelines such as PDF/UA, WCAG 2.1 & 2.2, and EN 301 549 to complement accessibility testing done internally. Work is assigned on a project basis. You will receive a defined scope, a testing checklist, and access credentials. Findings are reported in a structured defect log and specific bug tracking system. What You Will Do The actual scope will vary by assignment, but the general extent of this role is outlined below. Language Validation : Confirm correct language codes in HTML and PDF metadata, and identify mixed-language content missing proper declarations. In-Language Screen Reader Testing : Using native-language screen readers (JAWS, NVDA, VoiceOver, TalkBack, or Narrator), review translated accessible text — including hidden elements, tooltips, error messages, alt text, and UI labels — for accuracy, natural phrasing, and clarity when read aloud. Multimedia Accessibility Review : Evaluate captions, transcripts, and audio descriptions for accuracy, synchronization, and natural language, and confirm multimedia controls are properly labeled in the target language. Defect Reporting : Log findings with WCAG/PDF-UA references, supporting screenshots or recordings, and severity classifications; participate in review calls with the QA Lead as needed. What We Are Looking For Required Native or near-native fluency in German ; you are the authoritative voice on whether translated content reads naturally and is understandable. Demonstrated hands-on experience testing digital content with assistive technology/AT. Working knowledge of WCAG 2.1 & 2.2 AA and EN 301 549. Ability to evaluate content from a native-speaker accessibility perspective — not just technical compliance, but real-world usability for screen reader users who speak the language. Reliable access to relevant devices and operating systems to replicate real-world usage in the target locale. Nice to have Strong written communication skills in English for defect reporting and general communications. Experience with PDF accessibility testing using PAC 3 or Adobe Acrobat Pro Accessibility Checker. Familiarity with internationalization, localization, and translation workflows; understanding of how accessibility elements can be affected during format conversion. Personal use of assistive technology. Tools and Environment Welocalize provides access credentials and a structured test plan per engagement. Testers are expected to supply their own device and assistive technology setup appropriate to the target locale. Commonly used tools in this role include: Screen readers : JAWS, NVDA, VoiceOver (macOS/iOS), TalkBack (Android), Narrator (Windows) Browser/screen reader pairings aligned to the target locale's most common usage patterns Caption and transcript review : native video players, .srt/.vtt file review PDF accessibility : PAC 3, Adobe Acrobat Pro (provided where required) Defect logging : Jira bug tracking system is most frequently used What to Expect Assignments are project-based with clear scope documents, test checklists, and agreed turnaround timelines provided before work begins. Scope for each engagement will specify the exact language, content type, pages or documents in scope, and priority areas. You will not be expected to remediate or fix issues; your role is testing and reporting. Welocalize values feedback: if checklist items are unclear or a finding falls outside the defined scope, flag it and we will address it. How to Apply Click on Apply Now button and share with us the following: A brief introduction covering your language, screen reader experience, and accessibility background. Any relevant certifications (CPACC, WAS, DHS Trusted Tester, or equivalent).",
-      "experience": "Entry-Level, Junior",
-      "job_type": "Remote",
-      "salary": "",
-      "posted_date": "2026-08-27",
-      "source": "Jobicy APAC",
-      "job_url": "https://jobicy.com/jobs/149735-german-accessibility-tester",
-      "skills": [
-        "QA & Testing"
       ]
     },
     {
@@ -1240,7 +1135,7 @@
       "experience": "Any",
       "job_type": "Remote",
       "salary": "",
-      "posted_date": "2026-10-24",
+      "posted_date": "2026-11-25",
       "source": "Jobicy APAC",
       "job_url": "https://jobicy.com/jobs/153976-ads-quality-rater-cantonese-hong-kong",
       "skills": [
@@ -1615,7 +1510,7 @@
       "experience": "Any",
       "job_type": "Remote",
       "salary": "",
-      "posted_date": "2026-10-25",
+      "posted_date": "2026-11-25",
       "source": "Jobicy APAC",
       "job_url": "https://jobicy.com/jobs/156997-linux-software-engineer-ubuntu-for-next-gen-silicon-multiple-roles-and-seniority-levels",
       "skills": [
@@ -1630,7 +1525,7 @@
       "experience": "Senior",
       "job_type": "Remote",
       "salary": "",
-      "posted_date": "2026-10-25",
+      "posted_date": "2026-11-25",
       "source": "Jobicy APAC",
       "job_url": "https://jobicy.com/jobs/156996-iot-field-engineer-china-region",
       "skills": [
@@ -1660,7 +1555,7 @@
       "experience": "Senior",
       "job_type": "Remote",
       "salary": "",
-      "posted_date": "2026-10-25",
+      "posted_date": "2026-11-25",
       "source": "Jobicy APAC",
       "job_url": "https://jobicy.com/jobs/156945-distributed-systems-engineer-3",
       "skills": [
@@ -1675,7 +1570,7 @@
       "experience": "Any",
       "job_type": "Remote",
       "salary": "",
-      "posted_date": "2026-10-25",
+      "posted_date": "2026-11-25",
       "source": "Jobicy APAC",
       "job_url": "https://jobicy.com/jobs/156940-software-engineer-storage",
       "skills": [
@@ -1690,7 +1585,7 @@
       "experience": "Any",
       "job_type": "Remote",
       "salary": "",
-      "posted_date": "2026-10-25",
+      "posted_date": "2026-11-25",
       "source": "Jobicy APAC",
       "job_url": "https://jobicy.com/jobs/156939-data-api-engineer",
       "skills": [
@@ -2370,6 +2265,21 @@
       "job_url": "https://jobicy.com/jobs/164107-software-engineer-agentic-ai-integrations",
       "skills": [
         "Software Engineering"
+      ]
+    },
+    {
+      "job_title": "Project Beid - Korean E-commerce Product Matching Annotation Reviewer",
+      "company_name": "Welo Global",
+      "location": "Remote",
+      "description": "Responsibilities - Review annotators’ ACCEPT/REJECT decisions and reject reason codes, with a focus on preventing false matches and false rejects. - Sample-check or fully review high-risk rows (multiple codes, OTHERS, rows with uncertainty notes). - Correct errors, give feedback to annotators, and identify recurring error patterns to keep rule interpretation consistent. - Compile questions for the client where rules are ambiguous, and maintain a clarification log. - Validate structural compliance of deliverables: every input row returned exactly once and unchanged, timestamps, exact decision and code spelling, correct separators, valid CSV, identifiers preserved as text. - Track and report accuracy, review coverage, known limitations, and unresolved rows to support the summary report. - Monitor progress to ensure on-time delivery. Requirements - At native proficiency level of Korean. - 1+ years of experience in data annotation, content moderation, or QA; team lead or training experience preferred. - Strong judgment on edge cases, with the ability to explain decisions clearly. - Clear communication and the ability to give constructive feedback. Nice to have - Experience building evaluation sets, analyzing accuracy, or managing annotation quality. - Understanding of AI-assisted annotation workflows and associated risk controls. VPN and Location Verification: What You Need to Know 1. Application and onboarding: no VPN. Please do not use a VPN when you apply or go through onboarding. 2. Production: VPN required. Once production starts, you will need to use a VPN. Opera browser is recommended. (Opera is a free built-in VPN and needs no extra installation.) We will send you setup instructions before production begins. 3. Which VPNs are allowed. Standard consumer VPNs are fine. High-risk proxies are not permitted. 4. Periodic checks in Production. For administrative reasons, we may occasionally ask you to access AI Trainer platform without your VPN so we can check your unmasked IP. Compensation Additional Information",
+      "experience": "Senior",
+      "job_type": "Remote",
+      "salary": "",
+      "posted_date": "2026-11-25",
+      "source": "Jobicy APAC",
+      "job_url": "https://jobicy.com/jobs/164283-project-beid-korean-e-commerce-product-matching-annotation-reviewer",
+      "skills": [
+        "QA & Testing"
       ]
     }
   ]
