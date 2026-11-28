@@ -1,51 +1,5 @@
 [
   {
-    "date": "2026-08-23",
-    "total": 79,
-    "skills": {
-      "AI/ML": 7,
-      "AWS": 8,
-      "Android": 3,
-      "C++": 17,
-      "Cypress": 1,
-      "Dart": 1,
-      "Docker": 13,
-      "FastAPI": 1,
-      "Flutter": 8,
-      "Java": 6,
-      "JavaScript": 7,
-      "Kotlin": 1,
-      "Kubernetes": 20,
-      "MongoDB": 1,
-      "Next.js": 2,
-      "Node.js": 2,
-      "PHP": 2,
-      "PostgreSQL": 8,
-      "Python": 33,
-      "QA": 1,
-      "React": 13,
-      "SQL": 4,
-      "Swift": 2,
-      "TypeScript": 7,
-      "Vue": 2,
-      "iOS": 3
-    },
-    "cities": {
-      "Other": 23,
-      "Remote": 56
-    },
-    "experience": {
-      "Entry Level": 7,
-      "Lead/Manager": 22,
-      "Mid Level": 25,
-      "Senior": 25
-    },
-    "job_types": {
-      "Onsite": 23,
-      "Remote": 56
-    }
-  },
-  {
     "date": "2026-08-24",
     "total": 80,
     "skills": {
@@ -4723,6 +4677,62 @@
       "Hybrid": 7,
       "Onsite": 376,
       "Remote": 155
+    }
+  },
+  {
+    "date": "2026-11-28",
+    "total": 538,
+    "skills": {
+      "AI/ML": 20,
+      "AWS": 28,
+      "Android": 7,
+      "Angular": 1,
+      "C#": 3,
+      "C++": 21,
+      "Cypress": 3,
+      "Dart": 1,
+      "Django": 1,
+      "Docker": 20,
+      "FastAPI": 1,
+      "Flutter": 9,
+      "Java": 17,
+      "JavaScript": 14,
+      "Kotlin": 5,
+      "Kubernetes": 33,
+      "Laravel": 3,
+      "MongoDB": 1,
+      "Next.js": 9,
+      "Node.js": 7,
+      "PHP": 5,
+      "PostgreSQL": 25,
+      "PyTorch": 1,
+      "Python": 53,
+      "QA": 29,
+      "React": 26,
+      "SQL": 16,
+      "Selenium": 1,
+      "Spring": 4,
+      "Supabase": 13,
+      "Swift": 1,
+      "TensorFlow": 1,
+      "TypeScript": 20,
+      "Vue": 3,
+      "iOS": 6
+    },
+    "cities": {
+      "Other": 386,
+      "Remote": 152
+    },
+    "experience": {
+      "Entry Level": 39,
+      "Lead/Manager": 147,
+      "Mid Level": 284,
+      "Senior": 68
+    },
+    "job_types": {
+      "Hybrid": 6,
+      "Onsite": 376,
+      "Remote": 156
     }
   }
 ]
